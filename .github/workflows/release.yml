@@ -1,0 +1,83 @@
+name: Build & Release Windows Installer
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Release version (e.g. 1.0.0)"
+        required: false
+        default: "1.0.0"
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r responsa_voice/requirements.txt
+          pip install pytest pyinstaller
+
+      - name: Run unit tests & self-checks
+        run: |
+          pytest responsa_voice_engine/tests -q
+          python responsa_voice/ai_verifier.py --selftest
+          python responsa_voice/intent_router.py --selftest
+          python responsa_voice/book_catalog.py --selftest
+          python responsa_voice/app_main.py --self-check
+
+      - name: Ensure Inno Setup is installed
+        shell: pwsh
+        run: |
+          if (-not (Test-Path "C:\Program Files (x86)\Inno Setup 6\ISCC.exe")) {
+            choco install innosetup -y --no-progress
+          }
+
+      - name: Determine version
+        id: ver
+        shell: pwsh
+        run: |
+          if ("${{ github.ref_type }}" -eq "tag") {
+            $v = "${{ github.ref_name }}".TrimStart("v")
+          } else {
+            $v = "${{ github.event.inputs.version }}"
+            if (-not $v) { $v = "1.0.0" }
+          }
+          "version=$v" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+
+      - name: Build Windows installer & portable ZIP
+        shell: pwsh
+        run: |
+          powershell -ExecutionPolicy Bypass -File installer\build_installer.ps1 -Version "${{ steps.ver.outputs.version }}" -PythonExe "python"
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ResponsaVoice-Windows-${{ steps.ver.outputs.version }}
+          path: |
+            installer_output/*.exe
+            installer_output/*.zip
+
+      - name: Publish GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          generate_release_notes: true
+          files: |
+            installer_output/*.exe
+            installer_output/*.zip

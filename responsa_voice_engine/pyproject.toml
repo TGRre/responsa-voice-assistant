@@ -1,0 +1,17 @@
+[project]
+name = "responsa-voice-engine"
+version = "0.1.0"
+description = "Hebrew Voice Command Validation & Correction Engine for the Bar-Ilan Responsa Project"
+requires-python = ">=3.11"
+dependencies = ["rapidfuzz>=3.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

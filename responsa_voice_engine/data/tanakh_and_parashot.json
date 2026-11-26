@@ -1,0 +1,1102 @@
+{
+  "_meta": {
+    "source": "sefaria-index (https://www.sefaria.org/api/) + hand-authored alias tables",
+    "retrieved": "2026-11-24",
+    "conventions": {
+      "max_daf": "last daf of the standard Vilna Shas, per Sefaria's Talmud address schema (amudim=(2*max_daf or 2*max_daf-1)); e.g. Berakhot 64, Shabbat 157, Chullin 142, Bava Batra 176",
+      "rif_max_daf": "last daf in the Rif's OWN pagination (Vilna Rif print), per Sefaria's digitized Rif_<Tractate> texts. null when Sefaria has no digitized Rif for the tractate. NOTE: print tradition also has Rif on Chagigah/Nazir/Sotah; those are absent from Sefaria's digitization and are set null here — audit and extend if needed.",
+      "max_perek": "Mishnah chapter count for Bavli tractates (Rosh's perakim); MT chapter counts; Tanakh chapter counts",
+      "bavli_37": "Sefaria's Talmud/Bavli corpus: 36 full-Gemara tractates + Tamid (Kinnim/Middot are not part of Sefaria's Bavli set)",
+      "rambam_83": "Sefaria indexes 84 MT hilchot + 4 introductions; 'Seder HaTefillah' (סדר התפילה, liturgical appendix whose title lacks 'הלכות') is excluded -> the canonical 83",
+      "nosei_kelim_sub_unit": "citation-practice judgment (sk-indexed vs seif-indexed works)"
+    }
+  },
+  "books": [
+    {
+      "id": "genesis",
+      "canonical_name": "בראשית",
+      "division": "תורה",
+      "max_perek": 50,
+      "aliases": []
+    },
+    {
+      "id": "exodus",
+      "canonical_name": "שמות",
+      "division": "תורה",
+      "max_perek": 40,
+      "aliases": []
+    },
+    {
+      "id": "leviticus",
+      "canonical_name": "ויקרא",
+      "division": "תורה",
+      "max_perek": 27,
+      "aliases": []
+    },
+    {
+      "id": "numbers",
+      "canonical_name": "במדבר",
+      "division": "תורה",
+      "max_perek": 36,
+      "aliases": []
+    },
+    {
+      "id": "deuteronomy",
+      "canonical_name": "דברים",
+      "division": "תורה",
+      "max_perek": 34,
+      "aliases": []
+    },
+    {
+      "id": "joshua",
+      "canonical_name": "יהושע",
+      "division": "נביאים",
+      "max_perek": 24,
+      "aliases": []
+    },
+    {
+      "id": "judges",
+      "canonical_name": "שופטים",
+      "division": "נביאים",
+      "max_perek": 21,
+      "aliases": []
+    },
+    {
+      "id": "i_samuel",
+      "canonical_name": "שמואל א",
+      "division": "נביאים",
+      "max_perek": 31,
+      "aliases": [
+        "דהי שמואל א",
+        "שמואל 1",
+        "שמואל א'",
+        "שמואל אלף"
+      ]
+    },
+    {
+      "id": "ii_samuel",
+      "canonical_name": "שמואל ב",
+      "division": "נביאים",
+      "max_perek": 24,
+      "aliases": [
+        "שמואל 2",
+        "שמואל ב'",
+        "שמואל בית"
+      ]
+    },
+    {
+      "id": "i_kings",
+      "canonical_name": "מלכים א",
+      "division": "נביאים",
+      "max_perek": 22,
+      "aliases": [
+        "מלכים 1",
+        "מלכים א'",
+        "מלכים אלף"
+      ]
+    },
+    {
+      "id": "ii_kings",
+      "canonical_name": "מלכים ב",
+      "division": "נביאים",
+      "max_perek": 25,
+      "aliases": [
+        "מלכים 2",
+        "מלכים ב'",
+        "מלכים בית"
+      ]
+    },
+    {
+      "id": "isaiah",
+      "canonical_name": "ישעיהו",
+      "division": "נביאים",
+      "max_perek": 66,
+      "aliases": [
+        "ישעיה"
+      ]
+    },
+    {
+      "id": "jeremiah",
+      "canonical_name": "ירמיהו",
+      "division": "נביאים",
+      "max_perek": 52,
+      "aliases": [
+        "ירמיה"
+      ]
+    },
+    {
+      "id": "ezekiel",
+      "canonical_name": "יחזקאל",
+      "division": "נביאים",
+      "max_perek": 48,
+      "aliases": []
+    },
+    {
+      "id": "hosea",
+      "canonical_name": "הושע",
+      "division": "נביאים",
+      "max_perek": 14,
+      "aliases": []
+    },
+    {
+      "id": "joel",
+      "canonical_name": "יואל",
+      "division": "נביאים",
+      "max_perek": 4,
+      "aliases": []
+    },
+    {
+      "id": "amos",
+      "canonical_name": "עמוס",
+      "division": "נביאים",
+      "max_perek": 9,
+      "aliases": []
+    },
+    {
+      "id": "obadiah",
+      "canonical_name": "עובדיה",
+      "division": "נביאים",
+      "max_perek": 1,
+      "aliases": []
+    },
+    {
+      "id": "jonah",
+      "canonical_name": "יונה",
+      "division": "נביאים",
+      "max_perek": 4,
+      "aliases": []
+    },
+    {
+      "id": "micah",
+      "canonical_name": "מיכה",
+      "division": "נביאים",
+      "max_perek": 7,
+      "aliases": []
+    },
+    {
+      "id": "nahum",
+      "canonical_name": "נחום",
+      "division": "נביאים",
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "habakkuk",
+      "canonical_name": "חבקוק",
+      "division": "נביאים",
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "zephaniah",
+      "canonical_name": "צפניה",
+      "division": "נביאים",
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "haggai",
+      "canonical_name": "חגי",
+      "division": "נביאים",
+      "max_perek": 2,
+      "aliases": []
+    },
+    {
+      "id": "zechariah",
+      "canonical_name": "זכריה",
+      "division": "נביאים",
+      "max_perek": 14,
+      "aliases": []
+    },
+    {
+      "id": "malachi",
+      "canonical_name": "מלאכי",
+      "division": "נביאים",
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "psalms",
+      "canonical_name": "תהילים",
+      "division": "כתובים",
+      "max_perek": 150,
+      "aliases": [
+        "תהלים",
+        "תילים"
+      ]
+    },
+    {
+      "id": "proverbs",
+      "canonical_name": "משלי",
+      "division": "כתובים",
+      "max_perek": 31,
+      "aliases": []
+    },
+    {
+      "id": "job",
+      "canonical_name": "איוב",
+      "division": "כתובים",
+      "max_perek": 42,
+      "aliases": []
+    },
+    {
+      "id": "song_of_songs",
+      "canonical_name": "שיר השירים",
+      "division": "כתובים",
+      "max_perek": 8,
+      "aliases": [
+        "שיר",
+        "שיר השירים"
+      ]
+    },
+    {
+      "id": "ruth",
+      "canonical_name": "רות",
+      "division": "כתובים",
+      "max_perek": 4,
+      "aliases": []
+    },
+    {
+      "id": "lamentations",
+      "canonical_name": "איכה",
+      "division": "כתובים",
+      "max_perek": 5,
+      "aliases": []
+    },
+    {
+      "id": "ecclesiastes",
+      "canonical_name": "קהלת",
+      "division": "כתובים",
+      "max_perek": 12,
+      "aliases": []
+    },
+    {
+      "id": "esther",
+      "canonical_name": "אסתר",
+      "division": "כתובים",
+      "max_perek": 10,
+      "aliases": [
+        "מגילה"
+      ]
+    },
+    {
+      "id": "daniel",
+      "canonical_name": "דניאל",
+      "division": "כתובים",
+      "max_perek": 12,
+      "aliases": []
+    },
+    {
+      "id": "ezra",
+      "canonical_name": "עזרא",
+      "division": "כתובים",
+      "max_perek": 10,
+      "aliases": []
+    },
+    {
+      "id": "nehemiah",
+      "canonical_name": "נחמיה",
+      "division": "כתובים",
+      "max_perek": 13,
+      "aliases": []
+    },
+    {
+      "id": "i_chronicles",
+      "canonical_name": "דברי הימים א",
+      "division": "כתובים",
+      "max_perek": 29,
+      "aliases": [
+        "דה א",
+        "דברי הימים 1",
+        "דברי הימים אלף",
+        "דהי א"
+      ]
+    },
+    {
+      "id": "ii_chronicles",
+      "canonical_name": "דברי הימים ב",
+      "division": "כתובים",
+      "max_perek": 36,
+      "aliases": [
+        "דה ב",
+        "דברי הימים 2",
+        "דברי הימים בית",
+        "דהי ב"
+      ]
+    }
+  ],
+  "commentaries": [
+    {
+      "id": "rashi",
+      "canonical_name": "רשי",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "רשי"
+      ]
+    },
+    {
+      "id": "ramban",
+      "canonical_name": "רמבן",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "רמבן"
+      ]
+    },
+    {
+      "id": "ibn_ezra",
+      "canonical_name": "אבן עזרא",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "ראבע"
+      ]
+    },
+    {
+      "id": "sfororno",
+      "canonical_name": "ספורנו",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "ספורנו"
+      ]
+    },
+    {
+      "id": "rashbam",
+      "canonical_name": "רשבם",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": [
+        "רשבם"
+      ]
+    },
+    {
+      "id": "or_hachaim",
+      "canonical_name": "אור החיים",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": [
+        "אוח החיים",
+        "אח"
+      ]
+    },
+    {
+      "id": "kli_yakar",
+      "canonical_name": "כלי יקר",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "baal_haturim",
+      "canonical_name": "בעל הטורים",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": [
+        "בעהט"
+      ]
+    },
+    {
+      "id": "hamaor_davar",
+      "canonical_name": "העמק דבר",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": [
+        "עמק דבר",
+        "נציב"
+      ]
+    },
+    {
+      "id": "targum_onkelos",
+      "canonical_name": "תרגום אונקלוס",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": [
+        "אונקלוס",
+        "תרגום"
+      ]
+    },
+    {
+      "id": "targum_yonatan",
+      "canonical_name": "תרגום יונתן",
+      "divisions": [
+        "נביאים"
+      ],
+      "aliases": [
+        "יונתן",
+        "תרגום יונתן"
+      ]
+    },
+    {
+      "id": "radak",
+      "canonical_name": "רדק",
+      "divisions": [
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "רדק"
+      ]
+    },
+    {
+      "id": "ralbag",
+      "canonical_name": "רלבג",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "רלבג",
+        "ג'רסונידס"
+      ]
+    },
+    {
+      "id": "malbim",
+      "canonical_name": "מלבים",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "מלבים"
+      ]
+    },
+    {
+      "id": "metzudat_david",
+      "canonical_name": "מצודת דוד",
+      "divisions": [
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "מצודד",
+        "מצד"
+      ]
+    },
+    {
+      "id": "metzudat_zion",
+      "canonical_name": "מצודת ציון",
+      "divisions": [
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "מצודצ",
+        "מצצ"
+      ]
+    },
+    {
+      "id": "abarabanel",
+      "canonical_name": "אברבנאל",
+      "divisions": [
+        "תורה",
+        "נביאים",
+        "כתובים"
+      ],
+      "aliases": [
+        "אברבנאל"
+      ]
+    },
+    {
+      "id": "chizkuni",
+      "canonical_name": "חזקוני",
+      "divisions": [
+        "תורה"
+      ],
+      "aliases": [
+        "חזקוני"
+      ]
+    }
+  ],
+  "parashot": [
+    {
+      "id": "bereshit",
+      "canonical_name": "בראשית",
+      "book": "בראשית",
+      "start_perek": 1,
+      "start_pasuk": 1,
+      "end_perek": 6,
+      "end_pasuk": 8,
+      "aliases": []
+    },
+    {
+      "id": "noach",
+      "canonical_name": "נח",
+      "book": "בראשית",
+      "start_perek": 6,
+      "start_pasuk": 9,
+      "end_perek": 11,
+      "end_pasuk": 32,
+      "aliases": [
+        "נוח"
+      ]
+    },
+    {
+      "id": "lech_lecha",
+      "canonical_name": "לך לך",
+      "book": "בראשית",
+      "start_perek": 12,
+      "start_pasuk": 1,
+      "end_perek": 17,
+      "end_pasuk": 27,
+      "aliases": []
+    },
+    {
+      "id": "vayera",
+      "canonical_name": "וירא",
+      "book": "בראשית",
+      "start_perek": 18,
+      "start_pasuk": 1,
+      "end_perek": 22,
+      "end_pasuk": 24,
+      "aliases": []
+    },
+    {
+      "id": "chayei_sara",
+      "canonical_name": "חיי שרה",
+      "book": "בראשית",
+      "start_perek": 23,
+      "start_pasuk": 1,
+      "end_perek": 25,
+      "end_pasuk": 18,
+      "aliases": []
+    },
+    {
+      "id": "toldot",
+      "canonical_name": "תולדות",
+      "book": "בראשית",
+      "start_perek": 25,
+      "start_pasuk": 19,
+      "end_perek": 28,
+      "end_pasuk": 9,
+      "aliases": []
+    },
+    {
+      "id": "vayetzei",
+      "canonical_name": "ויצא",
+      "book": "בראשית",
+      "start_perek": 28,
+      "start_pasuk": 10,
+      "end_perek": 32,
+      "end_pasuk": 3,
+      "aliases": []
+    },
+    {
+      "id": "vayishlach",
+      "canonical_name": "וישלח",
+      "book": "בראשית",
+      "start_perek": 32,
+      "start_pasuk": 4,
+      "end_perek": 36,
+      "end_pasuk": 43,
+      "aliases": []
+    },
+    {
+      "id": "vayeshev",
+      "canonical_name": "וישב",
+      "book": "בראשית",
+      "start_perek": 37,
+      "start_pasuk": 1,
+      "end_perek": 40,
+      "end_pasuk": 23,
+      "aliases": []
+    },
+    {
+      "id": "miketz",
+      "canonical_name": "מקץ",
+      "book": "בראשית",
+      "start_perek": 41,
+      "start_pasuk": 1,
+      "end_perek": 44,
+      "end_pasuk": 17,
+      "aliases": []
+    },
+    {
+      "id": "vayigash",
+      "canonical_name": "ויגש",
+      "book": "בראשית",
+      "start_perek": 44,
+      "start_pasuk": 18,
+      "end_perek": 47,
+      "end_pasuk": 27,
+      "aliases": [
+        "וייגש"
+      ]
+    },
+    {
+      "id": "vayechi",
+      "canonical_name": "ויחי",
+      "book": "בראשית",
+      "start_perek": 47,
+      "start_pasuk": 28,
+      "end_perek": 50,
+      "end_pasuk": 26,
+      "aliases": []
+    },
+    {
+      "id": "shemot",
+      "canonical_name": "שמות",
+      "book": "שמות",
+      "start_perek": 1,
+      "start_pasuk": 1,
+      "end_perek": 6,
+      "end_pasuk": 1,
+      "aliases": []
+    },
+    {
+      "id": "vaera",
+      "canonical_name": "וארא",
+      "book": "שמות",
+      "start_perek": 6,
+      "start_pasuk": 2,
+      "end_perek": 9,
+      "end_pasuk": 35,
+      "aliases": []
+    },
+    {
+      "id": "bo",
+      "canonical_name": "בא",
+      "book": "שמות",
+      "start_perek": 10,
+      "start_pasuk": 1,
+      "end_perek": 13,
+      "end_pasuk": 16,
+      "aliases": [
+        "בוא"
+      ]
+    },
+    {
+      "id": "beshalach",
+      "canonical_name": "בשלח",
+      "book": "שמות",
+      "start_perek": 13,
+      "start_pasuk": 17,
+      "end_perek": 17,
+      "end_pasuk": 16,
+      "aliases": []
+    },
+    {
+      "id": "yitro",
+      "canonical_name": "יתרו",
+      "book": "שמות",
+      "start_perek": 18,
+      "start_pasuk": 1,
+      "end_perek": 20,
+      "end_pasuk": 23,
+      "aliases": []
+    },
+    {
+      "id": "mishpatim",
+      "canonical_name": "משפטים",
+      "book": "שמות",
+      "start_perek": 21,
+      "start_pasuk": 1,
+      "end_perek": 24,
+      "end_pasuk": 18,
+      "aliases": []
+    },
+    {
+      "id": "terumah",
+      "canonical_name": "תרומה",
+      "book": "שמות",
+      "start_perek": 25,
+      "start_pasuk": 1,
+      "end_perek": 27,
+      "end_pasuk": 19,
+      "aliases": []
+    },
+    {
+      "id": "tetzaveh",
+      "canonical_name": "תצוה",
+      "book": "שמות",
+      "start_perek": 27,
+      "start_pasuk": 20,
+      "end_perek": 30,
+      "end_pasuk": 10,
+      "aliases": [
+        "תצווה"
+      ]
+    },
+    {
+      "id": "ki_tisa",
+      "canonical_name": "כי תשא",
+      "book": "שמות",
+      "start_perek": 30,
+      "start_pasuk": 11,
+      "end_perek": 34,
+      "end_pasuk": 35,
+      "aliases": []
+    },
+    {
+      "id": "vayakhel",
+      "canonical_name": "ויקהל",
+      "book": "שמות",
+      "start_perek": 35,
+      "start_pasuk": 1,
+      "end_perek": 38,
+      "end_pasuk": 20,
+      "aliases": []
+    },
+    {
+      "id": "pekudei",
+      "canonical_name": "פקודי",
+      "book": "שמות",
+      "start_perek": 38,
+      "start_pasuk": 21,
+      "end_perek": 40,
+      "end_pasuk": 38,
+      "aliases": []
+    },
+    {
+      "id": "vayikra",
+      "canonical_name": "ויקרא",
+      "book": "ויקרא",
+      "start_perek": 1,
+      "start_pasuk": 1,
+      "end_perek": 5,
+      "end_pasuk": 26,
+      "aliases": []
+    },
+    {
+      "id": "tzav",
+      "canonical_name": "צו",
+      "book": "ויקרא",
+      "start_perek": 6,
+      "start_pasuk": 1,
+      "end_perek": 8,
+      "end_pasuk": 36,
+      "aliases": []
+    },
+    {
+      "id": "shmini",
+      "canonical_name": "שמיני",
+      "book": "ויקרא",
+      "start_perek": 9,
+      "start_pasuk": 1,
+      "end_perek": 11,
+      "end_pasuk": 47,
+      "aliases": []
+    },
+    {
+      "id": "tazria",
+      "canonical_name": "תזריע",
+      "book": "ויקרא",
+      "start_perek": 12,
+      "start_pasuk": 1,
+      "end_perek": 13,
+      "end_pasuk": 59,
+      "aliases": []
+    },
+    {
+      "id": "metzora",
+      "canonical_name": "מצורע",
+      "book": "ויקרא",
+      "start_perek": 14,
+      "start_pasuk": 1,
+      "end_perek": 15,
+      "end_pasuk": 33,
+      "aliases": [
+        "מצורה"
+      ]
+    },
+    {
+      "id": "achrei_mot",
+      "canonical_name": "אחרי מות",
+      "book": "ויקרא",
+      "start_perek": 16,
+      "start_pasuk": 1,
+      "end_perek": 18,
+      "end_pasuk": 30,
+      "aliases": [
+        "אחרי"
+      ]
+    },
+    {
+      "id": "kedoshim",
+      "canonical_name": "קדושים",
+      "book": "ויקרא",
+      "start_perek": 19,
+      "start_pasuk": 1,
+      "end_perek": 20,
+      "end_pasuk": 27,
+      "aliases": []
+    },
+    {
+      "id": "emor",
+      "canonical_name": "אמור",
+      "book": "ויקרא",
+      "start_perek": 21,
+      "start_pasuk": 1,
+      "end_perek": 24,
+      "end_pasuk": 23,
+      "aliases": []
+    },
+    {
+      "id": "behar",
+      "canonical_name": "בהר",
+      "book": "ויקרא",
+      "start_perek": 25,
+      "start_pasuk": 1,
+      "end_perek": 26,
+      "end_pasuk": 2,
+      "aliases": [
+        "בהר סיני"
+      ]
+    },
+    {
+      "id": "bechukotai",
+      "canonical_name": "בחוקתי",
+      "book": "ויקרא",
+      "start_perek": 26,
+      "start_pasuk": 3,
+      "end_perek": 27,
+      "end_pasuk": 34,
+      "aliases": [
+        "בחוקותי",
+        "בחקותי",
+        "בחקתי"
+      ]
+    },
+    {
+      "id": "bamidbar",
+      "canonical_name": "במדבר",
+      "book": "במדבר",
+      "start_perek": 1,
+      "start_pasuk": 1,
+      "end_perek": 4,
+      "end_pasuk": 20,
+      "aliases": []
+    },
+    {
+      "id": "nasso",
+      "canonical_name": "נשא",
+      "book": "במדבר",
+      "start_perek": 4,
+      "start_pasuk": 21,
+      "end_perek": 7,
+      "end_pasuk": 89,
+      "aliases": []
+    },
+    {
+      "id": "beha_alotcha",
+      "canonical_name": "בהעלותך",
+      "book": "במדבר",
+      "start_perek": 8,
+      "start_pasuk": 1,
+      "end_perek": 12,
+      "end_pasuk": 16,
+      "aliases": []
+    },
+    {
+      "id": "sh_lach",
+      "canonical_name": "שלח",
+      "book": "במדבר",
+      "start_perek": 13,
+      "start_pasuk": 1,
+      "end_perek": 15,
+      "end_pasuk": 41,
+      "aliases": [
+        "שלח לך"
+      ]
+    },
+    {
+      "id": "korach",
+      "canonical_name": "קרח",
+      "book": "במדבר",
+      "start_perek": 16,
+      "start_pasuk": 1,
+      "end_perek": 18,
+      "end_pasuk": 32,
+      "aliases": [
+        "קורח"
+      ]
+    },
+    {
+      "id": "chukat",
+      "canonical_name": "חקת",
+      "book": "במדבר",
+      "start_perek": 19,
+      "start_pasuk": 1,
+      "end_perek": 22,
+      "end_pasuk": 1,
+      "aliases": [
+        "חוקת"
+      ]
+    },
+    {
+      "id": "balak",
+      "canonical_name": "בלק",
+      "book": "במדבר",
+      "start_perek": 22,
+      "start_pasuk": 2,
+      "end_perek": 25,
+      "end_pasuk": 9,
+      "aliases": []
+    },
+    {
+      "id": "pinchas",
+      "canonical_name": "פנחס",
+      "book": "במדבר",
+      "start_perek": 25,
+      "start_pasuk": 10,
+      "end_perek": 30,
+      "end_pasuk": 1,
+      "aliases": [
+        "פינחס"
+      ]
+    },
+    {
+      "id": "matot",
+      "canonical_name": "מטות",
+      "book": "במדבר",
+      "start_perek": 30,
+      "start_pasuk": 2,
+      "end_perek": 32,
+      "end_pasuk": 42,
+      "aliases": []
+    },
+    {
+      "id": "masei",
+      "canonical_name": "מסעי",
+      "book": "במדבר",
+      "start_perek": 33,
+      "start_pasuk": 1,
+      "end_perek": 36,
+      "end_pasuk": 13,
+      "aliases": []
+    },
+    {
+      "id": "devarim",
+      "canonical_name": "דברים",
+      "book": "דברים",
+      "start_perek": 1,
+      "start_pasuk": 1,
+      "end_perek": 3,
+      "end_pasuk": 22,
+      "aliases": []
+    },
+    {
+      "id": "vaetchanan",
+      "canonical_name": "ואתחנן",
+      "book": "דברים",
+      "start_perek": 3,
+      "start_pasuk": 23,
+      "end_perek": 7,
+      "end_pasuk": 11,
+      "aliases": []
+    },
+    {
+      "id": "eikev",
+      "canonical_name": "עקב",
+      "book": "דברים",
+      "start_perek": 7,
+      "start_pasuk": 12,
+      "end_perek": 11,
+      "end_pasuk": 25,
+      "aliases": []
+    },
+    {
+      "id": "re_eh",
+      "canonical_name": "ראה",
+      "book": "דברים",
+      "start_perek": 11,
+      "start_pasuk": 26,
+      "end_perek": 16,
+      "end_pasuk": 17,
+      "aliases": []
+    },
+    {
+      "id": "shoftim",
+      "canonical_name": "שופטים",
+      "book": "דברים",
+      "start_perek": 16,
+      "start_pasuk": 18,
+      "end_perek": 21,
+      "end_pasuk": 9,
+      "aliases": []
+    },
+    {
+      "id": "ki_teitzei",
+      "canonical_name": "כי תצא",
+      "book": "דברים",
+      "start_perek": 21,
+      "start_pasuk": 10,
+      "end_perek": 25,
+      "end_pasuk": 19,
+      "aliases": [
+        "כי תיסא"
+      ]
+    },
+    {
+      "id": "ki_tavo",
+      "canonical_name": "כי תבוא",
+      "book": "דברים",
+      "start_perek": 26,
+      "start_pasuk": 1,
+      "end_perek": 29,
+      "end_pasuk": 8,
+      "aliases": []
+    },
+    {
+      "id": "nitzavim",
+      "canonical_name": "נצבים",
+      "book": "דברים",
+      "start_perek": 29,
+      "start_pasuk": 9,
+      "end_perek": 30,
+      "end_pasuk": 20,
+      "aliases": []
+    },
+    {
+      "id": "vayeilech",
+      "canonical_name": "וילך",
+      "book": "דברים",
+      "start_perek": 31,
+      "start_pasuk": 1,
+      "end_perek": 31,
+      "end_pasuk": 30,
+      "aliases": []
+    },
+    {
+      "id": "ha_azinu",
+      "canonical_name": "האזינו",
+      "book": "דברים",
+      "start_perek": 32,
+      "start_pasuk": 1,
+      "end_perek": 32,
+      "end_pasuk": 52,
+      "aliases": []
+    },
+    {
+      "id": "v_zot_haberachah",
+      "canonical_name": "וזאת הברכה",
+      "book": "דברים",
+      "start_perek": 33,
+      "start_pasuk": 1,
+      "end_perek": 34,
+      "end_pasuk": 12,
+      "aliases": []
+    }
+  ]
+}

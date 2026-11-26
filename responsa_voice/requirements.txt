@@ -1,0 +1,28 @@
+# ============================================================
+# עוזר קולי לפרויקט השו"ת — תלויות צעד 1
+# התקנה: pip install -r requirements.txt
+# ============================================================
+
+# --- UI Automation & OS Control ---
+pywinauto>=0.6.8
+pywin32>=306
+pyperclip>=1.8.2
+keyboard>=0.13.5
+psutil>=5.9.0
+
+# --- Validation & Data ---
+pydantic>=2.0.0
+rapidfuzz>=3.0.0
+
+# --- צעד 2: קליטת שמע, VAD, STT, LLM, TTS ---
+sounddevice>=0.4.6
+numpy>=1.26
+webrtcvad-wheels>=2.0.14
+faster-whisper>=1.0.0
+openai>=2.0.0
+# הערה: TTS דרך SAPI של Windows (win32com — כבר כלול ב-pywin32).
+# אין להתקין webrtcvad רגיל — הוא דורש מהדר C ב-Python 3.12;
+# webrtcvad-wheels מספק גלגלים מוכנים ואותו import (import webrtcvad).
+
+# --- צעד 3 (הערה: לא נדרשים עדיין לצעד 1) ---
+# Pillow>=10.0.0  # כבר מותקן

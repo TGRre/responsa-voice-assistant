@@ -1,0 +1,798 @@
+{
+  "_meta": {
+    "source": "sefaria-index (https://www.sefaria.org/api/) + hand-authored alias tables",
+    "retrieved": "2026-11-24",
+    "conventions": {
+      "max_daf": "last daf of the standard Vilna Shas, per Sefaria's Talmud address schema (amudim=(2*max_daf or 2*max_daf-1)); e.g. Berakhot 64, Shabbat 157, Chullin 142, Bava Batra 176",
+      "rif_max_daf": "last daf in the Rif's OWN pagination (Vilna Rif print), per Sefaria's digitized Rif_<Tractate> texts. null when Sefaria has no digitized Rif for the tractate. NOTE: print tradition also has Rif on Chagigah/Nazir/Sotah; those are absent from Sefaria's digitization and are set null here — audit and extend if needed.",
+      "max_perek": "Mishnah chapter count for Bavli tractates (Rosh's perakim); MT chapter counts; Tanakh chapter counts",
+      "bavli_37": "Sefaria's Talmud/Bavli corpus: 36 full-Gemara tractates + Tamid (Kinnim/Middot are not part of Sefaria's Bavli set)",
+      "rambam_83": "Sefaria indexes 84 MT hilchot + 4 introductions; 'Seder HaTefillah' (סדר התפילה, liturgical appendix whose title lacks 'הלכות') is excluded -> the canonical 83",
+      "nosei_kelim_sub_unit": "citation-practice judgment (sk-indexed vs seif-indexed works)"
+    }
+  },
+  "rambam_hilchot": [
+    {
+      "id": "admission_into_the_sanctuary",
+      "canonical_name": "הלכות ביאת מקדש",
+      "sefer": "ספר עבודה",
+      "max_perek": 9,
+      "aliases": [
+        "ביאת מקדש"
+      ]
+    },
+    {
+      "id": "agents_and_partners",
+      "canonical_name": "הלכות שלוחין ושותפין",
+      "sefer": "ספר קנין",
+      "max_perek": 10,
+      "aliases": [
+        "שלוחין ושותפין"
+      ]
+    },
+    {
+      "id": "appraisals_and_devoted_property",
+      "canonical_name": "הלכות ערכים וחרמין",
+      "sefer": "ספר הפליאה",
+      "max_perek": 8,
+      "aliases": [
+        "ערכים",
+        "ערכים וחרמין",
+        "ערכין וחרמין"
+      ]
+    },
+    {
+      "id": "blessings",
+      "canonical_name": "הלכות ברכות",
+      "sefer": "ספר אהבה",
+      "max_perek": 11,
+      "aliases": [
+        "ברכות"
+      ]
+    },
+    {
+      "id": "borrowing_and_deposit",
+      "canonical_name": "הלכות שאלה ופיקדון",
+      "sefer": "ספר משפטים",
+      "max_perek": 8,
+      "aliases": [
+        "שאלה ופיקדון"
+      ]
+    },
+    {
+      "id": "circumcision",
+      "canonical_name": "הלכות מילה",
+      "sefer": "ספר אהבה",
+      "max_perek": 3,
+      "aliases": [
+        "מילה"
+      ]
+    },
+    {
+      "id": "creditor_and_debtor",
+      "canonical_name": "הלכות מלווה ולווה",
+      "sefer": "ספר משפטים",
+      "max_perek": 27,
+      "aliases": [
+        "מלווה ולווה"
+      ]
+    },
+    {
+      "id": "daily_offerings_and_additional_offerings",
+      "canonical_name": "הלכות תמידים ומוספין",
+      "sefer": "ספר עבודה",
+      "max_perek": 10,
+      "aliases": [
+        "תמידים ומוספין"
+      ]
+    },
+    {
+      "id": "damages_to_property",
+      "canonical_name": "הלכות נזקי ממון",
+      "sefer": "ספר נזיקין",
+      "max_perek": 14,
+      "aliases": [
+        "נזקי ממון"
+      ]
+    },
+    {
+      "id": "defilement_by_a_corpse",
+      "canonical_name": "הלכות טומאת מת",
+      "sefer": "ספר טהרה",
+      "max_perek": 25,
+      "aliases": [
+        "טומאת מת"
+      ]
+    },
+    {
+      "id": "defilement_by_leprosy",
+      "canonical_name": "הלכות טומאת צרעת",
+      "sefer": "ספר טהרה",
+      "max_perek": 16,
+      "aliases": [
+        "טומאת צרעת"
+      ]
+    },
+    {
+      "id": "defilement_of_foods",
+      "canonical_name": "הלכות טומאת אוכלים",
+      "sefer": "ספר טהרה",
+      "max_perek": 16,
+      "aliases": [
+        "טומאת אוכלים"
+      ]
+    },
+    {
+      "id": "diverse_species",
+      "canonical_name": "הלכות כלאים",
+      "sefer": "ספר זרעים",
+      "max_perek": 10,
+      "aliases": [
+        "כלאים"
+      ]
+    },
+    {
+      "id": "divorce",
+      "canonical_name": "הלכות גירושין",
+      "sefer": "ספר נשים",
+      "max_perek": 13,
+      "aliases": [
+        "גירושין"
+      ]
+    },
+    {
+      "id": "eruvin",
+      "canonical_name": "הלכות עירובין",
+      "sefer": "ספר זמנים",
+      "max_perek": 8,
+      "aliases": [
+        "עירובין"
+      ]
+    },
+    {
+      "id": "fasts",
+      "canonical_name": "הלכות תעניות",
+      "sefer": "ספר זמנים",
+      "max_perek": 5,
+      "aliases": [
+        "תעניות"
+      ]
+    },
+    {
+      "id": "festival_offering",
+      "canonical_name": "הלכות חגיגה",
+      "sefer": "ספר קרבנות",
+      "max_perek": 3,
+      "aliases": [
+        "חגיגה"
+      ]
+    },
+    {
+      "id": "first_fruits_and_other_gifts_to_priests_outside_the_sanctuary",
+      "canonical_name": "הלכות ביכורים ושאר מתנות כהונה שבגבולין",
+      "sefer": "ספר זרעים",
+      "max_perek": 12,
+      "aliases": [
+        "ביכורים",
+        "ביכורים ושאר מתנות כהונה שבגבולין",
+        "מתנות כהונה"
+      ]
+    },
+    {
+      "id": "firstlings",
+      "canonical_name": "הלכות בכורות",
+      "sefer": "ספר קרבנות",
+      "max_perek": 8,
+      "aliases": [
+        "בכורות"
+      ]
+    },
+    {
+      "id": "forbidden_foods",
+      "canonical_name": "הלכות מאכלות אסורות",
+      "sefer": "ספר קדושה",
+      "max_perek": 17,
+      "aliases": [
+        "מאכלות אסורות"
+      ]
+    },
+    {
+      "id": "forbidden_intercourse",
+      "canonical_name": "הלכות איסורי ביאה",
+      "sefer": "ספר קדושה",
+      "max_perek": 22,
+      "aliases": [
+        "איסורי ביאה"
+      ]
+    },
+    {
+      "id": "foreign_worship_and_customs_of_the_nations",
+      "canonical_name": "הלכות עבודה זרה וחוקות הגויים",
+      "sefer": "ספר המדע",
+      "max_perek": 12,
+      "aliases": [
+        "חוקות הגויים",
+        "עבודה זרה",
+        "עבודה זרה וחוקות הגויים",
+        "עבודת כוכבים"
+      ]
+    },
+    {
+      "id": "foundations_of_the_torah",
+      "canonical_name": "הלכות יסודי התורה",
+      "sefer": "ספר המדע",
+      "max_perek": 10,
+      "aliases": [
+        "המדע",
+        "יסודי התורה"
+      ]
+    },
+    {
+      "id": "fringes",
+      "canonical_name": "הלכות ציצית",
+      "sefer": "ספר אהבה",
+      "max_perek": 3,
+      "aliases": [
+        "ציצית"
+      ]
+    },
+    {
+      "id": "gifts_to_the_poor",
+      "canonical_name": "הלכות מתנות עניים",
+      "sefer": "ספר זרעים",
+      "max_perek": 10,
+      "aliases": [
+        "מתנות עניים"
+      ]
+    },
+    {
+      "id": "heave_offerings",
+      "canonical_name": "הלכות תרומות",
+      "sefer": "ספר זרעים",
+      "max_perek": 15,
+      "aliases": [
+        "תרומות"
+      ]
+    },
+    {
+      "id": "hiring",
+      "canonical_name": "הלכות שכירות",
+      "sefer": "ספר משפטים",
+      "max_perek": 13,
+      "aliases": [
+        "שכירות"
+      ]
+    },
+    {
+      "id": "human_dispositions",
+      "canonical_name": "הלכות דעות",
+      "sefer": "ספר המדע",
+      "max_perek": 7,
+      "aliases": [
+        "דעות"
+      ]
+    },
+    {
+      "id": "immersion_pools",
+      "canonical_name": "הלכות מקואות",
+      "sefer": "ספר טהרה",
+      "max_perek": 11,
+      "aliases": [
+        "מקואות"
+      ]
+    },
+    {
+      "id": "inheritances",
+      "canonical_name": "הלכות נחלות",
+      "sefer": "ספר משפטים",
+      "max_perek": 11,
+      "aliases": [
+        "נחלות"
+      ]
+    },
+    {
+      "id": "kings_and_wars",
+      "canonical_name": "הלכות מלכים ומלחמות",
+      "sefer": "ספר שופטים",
+      "max_perek": 12,
+      "aliases": [
+        "מלחמות",
+        "מלכים",
+        "מלכים ומלחמות"
+      ]
+    },
+    {
+      "id": "leavened_and_unleavened_bread",
+      "canonical_name": "הלכות חמץ ומצה",
+      "sefer": "ספר זמנים",
+      "max_perek": 9,
+      "aliases": [
+        "חמץ ומצה"
+      ]
+    },
+    {
+      "id": "levirate_marriage_and_release",
+      "canonical_name": "הלכות יבום וחליצה",
+      "sefer": "ספר נשים",
+      "max_perek": 8,
+      "aliases": [
+        "חליצה",
+        "יבום",
+        "יבום וחליצה"
+      ]
+    },
+    {
+      "id": "marriage",
+      "canonical_name": "הלכות אישות",
+      "sefer": "ספר נשים",
+      "max_perek": 25,
+      "aliases": [
+        "אישות"
+      ]
+    },
+    {
+      "id": "mourning",
+      "canonical_name": "הלכות אבל",
+      "sefer": "ספר שופטים",
+      "max_perek": 14,
+      "aliases": [
+        "אבל"
+      ]
+    },
+    {
+      "id": "murderer_and_the_preservation_of_life",
+      "canonical_name": "הלכות רוצח ושמירת נפש",
+      "sefer": "ספר נזיקין",
+      "max_perek": 13,
+      "aliases": [
+        "רוצח",
+        "רוצח ושמירת נפש",
+        "שמירת נפש"
+      ]
+    },
+    {
+      "id": "nazariteship",
+      "canonical_name": "הלכות נזירות",
+      "sefer": "ספר הפליאה",
+      "max_perek": 10,
+      "aliases": [
+        "נזיר",
+        "נזירות"
+      ]
+    },
+    {
+      "id": "neighbors",
+      "canonical_name": "הלכות שכנים",
+      "sefer": "ספר קנין",
+      "max_perek": 14,
+      "aliases": [
+        "שכנים"
+      ]
+    },
+    {
+      "id": "oaths",
+      "canonical_name": "הלכות שבועות",
+      "sefer": "ספר הפליאה",
+      "max_perek": 12,
+      "aliases": [
+        "שבועות"
+      ]
+    },
+    {
+      "id": "offerings_for_those_with_incomplete_atonement",
+      "canonical_name": "הלכות מחוסרי כפרה",
+      "sefer": "ספר קרבנות",
+      "max_perek": 5,
+      "aliases": [
+        "מחוסרי כפרה"
+      ]
+    },
+    {
+      "id": "offerings_for_unintentional_transgressions",
+      "canonical_name": "הלכות שגגות",
+      "sefer": "ספר קרבנות",
+      "max_perek": 15,
+      "aliases": [
+        "שגגות"
+      ]
+    },
+    {
+      "id": "one_who_injures_a_person_or_property",
+      "canonical_name": "הלכות חובל ומזיק",
+      "sefer": "ספר נזיקין",
+      "max_perek": 8,
+      "aliases": [
+        "חובל ומזיק"
+      ]
+    },
+    {
+      "id": "other_sources_of_defilement",
+      "canonical_name": "הלכות שאר אבות הטומאות",
+      "sefer": "ספר טהרה",
+      "max_perek": 20,
+      "aliases": [
+        "שאר אבות הטומאות"
+      ]
+    },
+    {
+      "id": "ownerless_property_and_gifts",
+      "canonical_name": "הלכות זכייה ומתנה",
+      "sefer": "ספר קנין",
+      "max_perek": 12,
+      "aliases": [
+        "זכייה ומתנה"
+      ]
+    },
+    {
+      "id": "paschal_offering",
+      "canonical_name": "הלכות קרבן פסח",
+      "sefer": "ספר קרבנות",
+      "max_perek": 10,
+      "aliases": [
+        "קרבן פסח"
+      ]
+    },
+    {
+      "id": "plaintiff_and_defendant",
+      "canonical_name": "הלכות טוען ונטען",
+      "sefer": "ספר משפטים",
+      "max_perek": 16,
+      "aliases": [
+        "טוען ונטען"
+      ]
+    },
+    {
+      "id": "prayer_and_the_priestly_blessing",
+      "canonical_name": "הלכות תפילה וברכת כהנים",
+      "sefer": "ספר אהבה",
+      "max_perek": 15,
+      "aliases": [
+        "ברכת כהנים",
+        "תפילה",
+        "תפילה וברכת כהנים",
+        "תפלה"
+      ]
+    },
+    {
+      "id": "reading_the_shema",
+      "canonical_name": "הלכות קריאת שמע",
+      "sefer": "ספר אהבה",
+      "max_perek": 4,
+      "aliases": [
+        "קריאת שמע"
+      ]
+    },
+    {
+      "id": "rebels",
+      "canonical_name": "הלכות ממרים",
+      "sefer": "ספר שופטים",
+      "max_perek": 7,
+      "aliases": [
+        "ממרים"
+      ]
+    },
+    {
+      "id": "red_heifer",
+      "canonical_name": "הלכות פרה אדומה",
+      "sefer": "ספר טהרה",
+      "max_perek": 15,
+      "aliases": [
+        "פרה אדומה"
+      ]
+    },
+    {
+      "id": "repentance",
+      "canonical_name": "הלכות תשובה",
+      "sefer": "ספר המדע",
+      "max_perek": 10,
+      "aliases": [
+        "תשובה"
+      ]
+    },
+    {
+      "id": "rest_on_a_holiday",
+      "canonical_name": "הלכות שביתת יום טוב",
+      "sefer": "ספר זמנים",
+      "max_perek": 8,
+      "aliases": [
+        "יום טוב",
+        "יום טובים",
+        "שביתת יום טוב"
+      ]
+    },
+    {
+      "id": "rest_on_the_tenth_of_tishrei",
+      "canonical_name": "הלכות שביתת עשור",
+      "sefer": "ספר זמנים",
+      "max_perek": 3,
+      "aliases": [
+        "שביתת עשור"
+      ]
+    },
+    {
+      "id": "ritual_slaughter",
+      "canonical_name": "הלכות שחיטה",
+      "sefer": "ספר קדושה",
+      "max_perek": 14,
+      "aliases": [
+        "שחיטה"
+      ]
+    },
+    {
+      "id": "robbery_and_lost_property",
+      "canonical_name": "הלכות גזילה ואבידה",
+      "sefer": "ספר נזיקין",
+      "max_perek": 18,
+      "aliases": [
+        "אבדה",
+        "גזילה ואבידה"
+      ]
+    },
+    {
+      "id": "sabbath",
+      "canonical_name": "הלכות שבת",
+      "sefer": "ספר זמנים",
+      "max_perek": 30,
+      "aliases": [
+        "שבת"
+      ]
+    },
+    {
+      "id": "sabbatical_year_and_the_jubilee",
+      "canonical_name": "הלכות שמיטה ויובל",
+      "sefer": "ספר זרעים",
+      "max_perek": 13,
+      "aliases": [
+        "יובל",
+        "שמיטה",
+        "שמיטה ויובל"
+      ]
+    },
+    {
+      "id": "sacrifices_rendered_unfit",
+      "canonical_name": "הלכות פסולי המוקדשין",
+      "sefer": "ספר עבודה",
+      "max_perek": 19,
+      "aliases": [
+        "פסולי המוקדשין"
+      ]
+    },
+    {
+      "id": "sacrificial_procedure",
+      "canonical_name": "הלכות מעשה הקרבנות",
+      "sefer": "ספר עבודה",
+      "max_perek": 19,
+      "aliases": [
+        "מעשה הקרבנות"
+      ]
+    },
+    {
+      "id": "sales",
+      "canonical_name": "הלכות מכירה",
+      "sefer": "ספר קנין",
+      "max_perek": 30,
+      "aliases": [
+        "מכירה"
+      ]
+    },
+    {
+      "id": "sanctification_of_the_new_month",
+      "canonical_name": "הלכות קידוש החודש",
+      "sefer": "ספר זמנים",
+      "max_perek": 19,
+      "aliases": [
+        "חידוש החודש",
+        "קידוש החודש"
+      ]
+    },
+    {
+      "id": "scroll_of_esther_and_hanukkah",
+      "canonical_name": "הלכות מגילה וחנוכה",
+      "sefer": "ספר זמנים",
+      "max_perek": 4,
+      "aliases": [
+        "חנוכה",
+        "מגילה וחנוכה"
+      ]
+    },
+    {
+      "id": "second_tithes_and_fourth_year_s_fruit",
+      "canonical_name": "הלכות מעשר שני ונטע רבעי",
+      "sefer": "ספר זרעים",
+      "max_perek": 11,
+      "aliases": [
+        "מעשר שני",
+        "מעשר שני ונטע רבעי",
+        "נטע רבעי"
+      ]
+    },
+    {
+      "id": "service_on_the_day_of_atonement",
+      "canonical_name": "הלכות עבודת יום הכפורים",
+      "sefer": "ספר עבודה",
+      "max_perek": 5,
+      "aliases": [
+        "עבודת יום הכפורים"
+      ]
+    },
+    {
+      "id": "sheqel_dues",
+      "canonical_name": "הלכות שקלים",
+      "sefer": "ספר זמנים",
+      "max_perek": 4,
+      "aliases": [
+        "שקלים"
+      ]
+    },
+    {
+      "id": "shofar_sukkah_and_lulav",
+      "canonical_name": "הלכות שופר וסוכה ולולב",
+      "sefer": "ספר זמנים",
+      "max_perek": 8,
+      "aliases": [
+        "לולב",
+        "סוכה ולולב",
+        "שופר",
+        "שופר וסוכה ולולב"
+      ]
+    },
+    {
+      "id": "slaves",
+      "canonical_name": "הלכות עבדים",
+      "sefer": "ספר קנין",
+      "max_perek": 9,
+      "aliases": [
+        "עבדים"
+      ]
+    },
+    {
+      "id": "substitution",
+      "canonical_name": "הלכות תמורה",
+      "sefer": "ספר קרבנות",
+      "max_perek": 4,
+      "aliases": [
+        "תמורה"
+      ]
+    },
+    {
+      "id": "tefillin_mezuzah_and_the_torah_scroll",
+      "canonical_name": "הלכות תפילין ומזוזה וספר תורה",
+      "sefer": "ספר אהבה",
+      "max_perek": 10,
+      "aliases": [
+        "מזוזה",
+        "ספר תורה",
+        "תפילין",
+        "תפילין ומזוזה וספר תורה"
+      ]
+    },
+    {
+      "id": "testimony",
+      "canonical_name": "הלכות עדות",
+      "sefer": "ספר שופטים",
+      "max_perek": 22,
+      "aliases": [
+        "עדות"
+      ]
+    },
+    {
+      "id": "the_chosen_temple",
+      "canonical_name": "הלכות בית הבחירה",
+      "sefer": "ספר עבודה",
+      "max_perek": 8,
+      "aliases": [
+        "בית הבחירה"
+      ]
+    },
+    {
+      "id": "the_sanhedrin_and_the_penalties_within_their_jurisdiction",
+      "canonical_name": "הלכות סנהדרין והעונשין המסורין להם",
+      "sefer": "ספר שופטים",
+      "max_perek": 26,
+      "aliases": [
+        "סנהדרין",
+        "סנהדרין והעונשין המסורין להם"
+      ]
+    },
+    {
+      "id": "theft",
+      "canonical_name": "הלכות גניבה",
+      "sefer": "ספר נזיקין",
+      "max_perek": 9,
+      "aliases": [
+        "גניבה"
+      ]
+    },
+    {
+      "id": "things_forbidden_on_the_altar",
+      "canonical_name": "הלכות איסורי המזבח",
+      "sefer": "ספר עבודה",
+      "max_perek": 7,
+      "aliases": [
+        "איסורי המזבח"
+      ]
+    },
+    {
+      "id": "those_who_defile_bed_or_seat",
+      "canonical_name": "הלכות מטמאי משכב ומושב",
+      "sefer": "ספר טהרה",
+      "max_perek": 13,
+      "aliases": [
+        "מטמאי משכב ומושב"
+      ]
+    },
+    {
+      "id": "tithes",
+      "canonical_name": "הלכות מעשרות",
+      "sefer": "ספר זרעים",
+      "max_perek": 14,
+      "aliases": [
+        "מעשרות"
+      ]
+    },
+    {
+      "id": "torah_study",
+      "canonical_name": "הלכות תלמוד תורה",
+      "sefer": "ספר המדע",
+      "max_perek": 7,
+      "aliases": [
+        "תלמוד תורה"
+      ]
+    },
+    {
+      "id": "trespass",
+      "canonical_name": "הלכות מעילה",
+      "sefer": "ספר עבודה",
+      "max_perek": 8,
+      "aliases": [
+        "מעילה"
+      ]
+    },
+    {
+      "id": "vessels",
+      "canonical_name": "הלכות כלים",
+      "sefer": "ספר טהרה",
+      "max_perek": 28,
+      "aliases": [
+        "כלים"
+      ]
+    },
+    {
+      "id": "vessels_of_the_sanctuary_and_those_who_serve_therein",
+      "canonical_name": "הלכות כלי המקדש והעובדין בו",
+      "sefer": "ספר עבודה",
+      "max_perek": 10,
+      "aliases": [
+        "כלי המקדש",
+        "כלי המקדש והעובדין בו"
+      ]
+    },
+    {
+      "id": "virgin_maiden",
+      "canonical_name": "הלכות נערה בתולה",
+      "sefer": "ספר נשים",
+      "max_perek": 3,
+      "aliases": [
+        "נערה בתולה"
+      ]
+    },
+    {
+      "id": "vows",
+      "canonical_name": "הלכות נדרים",
+      "sefer": "ספר הפליאה",
+      "max_perek": 13,
+      "aliases": [
+        "נדרים"
+      ]
+    },
+    {
+      "id": "woman_suspected_of_infidelity",
+      "canonical_name": "הלכות סוטה",
+      "sefer": "ספר נשים",
+      "max_perek": 4,
+      "aliases": [
+        "סוטה"
+      ]
+    }
+  ]
+}

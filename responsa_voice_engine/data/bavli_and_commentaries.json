@@ -1,0 +1,618 @@
+{
+  "_meta": {
+    "source": "sefaria-index (https://www.sefaria.org/api/) + hand-authored alias tables",
+    "retrieved": "2026-11-24",
+    "conventions": {
+      "max_daf": "last daf of the standard Vilna Shas, per Sefaria's Talmud address schema (amudim=(2*max_daf or 2*max_daf-1)); e.g. Berakhot 64, Shabbat 157, Chullin 142, Bava Batra 176",
+      "rif_max_daf": "last daf in the Rif's OWN pagination (Vilna Rif print), per Sefaria's digitized Rif_<Tractate> texts. null when Sefaria has no digitized Rif for the tractate. NOTE: print tradition also has Rif on Chagigah/Nazir/Sotah; those are absent from Sefaria's digitization and are set null here — audit and extend if needed.",
+      "max_perek": "Mishnah chapter count for Bavli tractates (Rosh's perakim); MT chapter counts; Tanakh chapter counts",
+      "bavli_37": "Sefaria's Talmud/Bavli corpus: 36 full-Gemara tractates + Tamid (Kinnim/Middot are not part of Sefaria's Bavli set)",
+      "rambam_83": "Sefaria indexes 84 MT hilchot + 4 introductions; 'Seder HaTefillah' (סדר התפילה, liturgical appendix whose title lacks 'הלכות') is excluded -> the canonical 83",
+      "nosei_kelim_sub_unit": "citation-practice judgment (sk-indexed vs seif-indexed works)"
+    }
+  },
+  "bavli_tractates": [
+    {
+      "id": "berakhot",
+      "canonical_name": "ברכות",
+      "max_daf": 64,
+      "rif_max_daf": 45,
+      "max_perek": 9,
+      "aliases": []
+    },
+    {
+      "id": "shabbat",
+      "canonical_name": "שבת",
+      "max_daf": 157,
+      "rif_max_daf": 68,
+      "max_perek": 24,
+      "aliases": []
+    },
+    {
+      "id": "eruvin",
+      "canonical_name": "עירובין",
+      "max_daf": 105,
+      "rif_max_daf": 35,
+      "max_perek": 10,
+      "aliases": [
+        "עירוב"
+      ]
+    },
+    {
+      "id": "pesachim",
+      "canonical_name": "פסחים",
+      "max_daf": 121,
+      "rif_max_daf": 28,
+      "max_perek": 10,
+      "aliases": [
+        "פסח"
+      ]
+    },
+    {
+      "id": "rosh_hashanah",
+      "canonical_name": "ראש השנה",
+      "max_daf": 35,
+      "rif_max_daf": 12,
+      "max_perek": 4,
+      "aliases": [
+        "רה"
+      ]
+    },
+    {
+      "id": "yoma",
+      "canonical_name": "יומא",
+      "max_daf": 88,
+      "rif_max_daf": 6,
+      "max_perek": 8,
+      "aliases": [
+        "יום הכפורים",
+        "יומה"
+      ]
+    },
+    {
+      "id": "sukkah",
+      "canonical_name": "סוכה",
+      "max_daf": 56,
+      "rif_max_daf": 23,
+      "max_perek": 5,
+      "aliases": [
+        "סכות"
+      ]
+    },
+    {
+      "id": "beitzah",
+      "canonical_name": "ביצה",
+      "max_daf": 40,
+      "rif_max_daf": 22,
+      "max_perek": 5,
+      "aliases": []
+    },
+    {
+      "id": "taanit",
+      "canonical_name": "תענית",
+      "max_daf": 31,
+      "rif_max_daf": 10,
+      "max_perek": 4,
+      "aliases": [
+        "תעניתות"
+      ]
+    },
+    {
+      "id": "megillah",
+      "canonical_name": "מגילה",
+      "max_daf": 32,
+      "rif_max_daf": 16,
+      "max_perek": 4,
+      "aliases": []
+    },
+    {
+      "id": "moed_katan",
+      "canonical_name": "מועד קטן",
+      "max_daf": 29,
+      "rif_max_daf": 18,
+      "max_perek": 3,
+      "aliases": [
+        "מוק"
+      ]
+    },
+    {
+      "id": "chagigah",
+      "canonical_name": "חגיגה",
+      "max_daf": 27,
+      "rif_max_daf": null,
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "yevamot",
+      "canonical_name": "יבמות",
+      "max_daf": 122,
+      "rif_max_daf": 47,
+      "max_perek": 16,
+      "aliases": [
+        "במות"
+      ]
+    },
+    {
+      "id": "ketubot",
+      "canonical_name": "כתובות",
+      "max_daf": 112,
+      "rif_max_daf": 65,
+      "max_perek": 13,
+      "aliases": []
+    },
+    {
+      "id": "nedarim",
+      "canonical_name": "נדרים",
+      "max_daf": 91,
+      "rif_max_daf": 28,
+      "max_perek": 11,
+      "aliases": []
+    },
+    {
+      "id": "nazir",
+      "canonical_name": "נזיר",
+      "max_daf": 66,
+      "rif_max_daf": null,
+      "max_perek": 9,
+      "aliases": []
+    },
+    {
+      "id": "sotah",
+      "canonical_name": "סוטה",
+      "max_daf": 49,
+      "rif_max_daf": null,
+      "max_perek": 9,
+      "aliases": []
+    },
+    {
+      "id": "gittin",
+      "canonical_name": "גיטין",
+      "max_daf": 90,
+      "rif_max_daf": 51,
+      "max_perek": 9,
+      "aliases": [
+        "גטין"
+      ]
+    },
+    {
+      "id": "kiddushin",
+      "canonical_name": "קידושין",
+      "max_daf": 82,
+      "rif_max_daf": 33,
+      "max_perek": 4,
+      "aliases": [
+        "קדושין"
+      ]
+    },
+    {
+      "id": "bava_kamma",
+      "canonical_name": "בבא קמא",
+      "max_daf": 119,
+      "rif_max_daf": 46,
+      "max_perek": 10,
+      "aliases": [
+        "בק",
+        "בבא קמה"
+      ]
+    },
+    {
+      "id": "bava_metzia",
+      "canonical_name": "בבא מציעא",
+      "max_daf": 119,
+      "rif_max_daf": 73,
+      "max_perek": 10,
+      "aliases": [
+        "במ"
+      ]
+    },
+    {
+      "id": "bava_batra",
+      "canonical_name": "בבא בתרא",
+      "max_daf": 176,
+      "rif_max_daf": 83,
+      "max_perek": 10,
+      "aliases": [
+        "בב"
+      ]
+    },
+    {
+      "id": "sanhedrin",
+      "canonical_name": "סנהדרין",
+      "max_daf": 113,
+      "rif_max_daf": 20,
+      "max_perek": 11,
+      "aliases": []
+    },
+    {
+      "id": "makkot",
+      "canonical_name": "מכות",
+      "max_daf": 24,
+      "rif_max_daf": 4,
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "shevuot",
+      "canonical_name": "שבועות",
+      "max_daf": 49,
+      "rif_max_daf": 33,
+      "max_perek": 8,
+      "aliases": []
+    },
+    {
+      "id": "avodah_zarah",
+      "canonical_name": "עבודה זרה",
+      "max_daf": 76,
+      "rif_max_daf": 40,
+      "max_perek": 5,
+      "aliases": [
+        "עז",
+        "עבודת כוכבים"
+      ]
+    },
+    {
+      "id": "horayot",
+      "canonical_name": "הוריות",
+      "max_daf": 14,
+      "rif_max_daf": null,
+      "max_perek": 3,
+      "aliases": []
+    },
+    {
+      "id": "zevachim",
+      "canonical_name": "זבחים",
+      "max_daf": 120,
+      "rif_max_daf": null,
+      "max_perek": 14,
+      "aliases": []
+    },
+    {
+      "id": "menachot",
+      "canonical_name": "מנחות",
+      "max_daf": 110,
+      "rif_max_daf": null,
+      "max_perek": 13,
+      "aliases": []
+    },
+    {
+      "id": "chullin",
+      "canonical_name": "חולין",
+      "max_daf": 142,
+      "rif_max_daf": 48,
+      "max_perek": 12,
+      "aliases": [
+        "פולין"
+      ]
+    },
+    {
+      "id": "bekhorot",
+      "canonical_name": "בכורות",
+      "max_daf": 61,
+      "rif_max_daf": null,
+      "max_perek": 9,
+      "aliases": []
+    },
+    {
+      "id": "arakhin",
+      "canonical_name": "ערכין",
+      "max_daf": 34,
+      "rif_max_daf": null,
+      "max_perek": 9,
+      "aliases": []
+    },
+    {
+      "id": "temurah",
+      "canonical_name": "תמורה",
+      "max_daf": 34,
+      "rif_max_daf": null,
+      "max_perek": 7,
+      "aliases": []
+    },
+    {
+      "id": "keritot",
+      "canonical_name": "כריתות",
+      "max_daf": 28,
+      "rif_max_daf": null,
+      "max_perek": 6,
+      "aliases": []
+    },
+    {
+      "id": "meilah",
+      "canonical_name": "מעילה",
+      "max_daf": 22,
+      "rif_max_daf": null,
+      "max_perek": 6,
+      "aliases": []
+    },
+    {
+      "id": "tamid",
+      "canonical_name": "תמיד",
+      "max_daf": 33,
+      "rif_max_daf": null,
+      "max_perek": 7,
+      "aliases": []
+    },
+    {
+      "id": "niddah",
+      "canonical_name": "נדה",
+      "max_daf": 73,
+      "rif_max_daf": null,
+      "max_perek": 10,
+      "aliases": [
+        "נידה"
+      ]
+    }
+  ],
+  "talmud_commentaries": [
+    {
+      "id": "rashi",
+      "canonical_name": "רשי",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רשי"
+      ]
+    },
+    {
+      "id": "tosafot",
+      "canonical_name": "תוספות",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "תוס'"
+      ]
+    },
+    {
+      "id": "rashbam",
+      "canonical_name": "רשבם",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רשבם"
+      ]
+    },
+    {
+      "id": "ramban",
+      "canonical_name": "רמבן",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רמבן",
+        "נמני"
+      ]
+    },
+    {
+      "id": "rashba",
+      "canonical_name": "רשבא",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רשבא"
+      ]
+    },
+    {
+      "id": "ritba",
+      "canonical_name": "ריטבא",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "ריטבא"
+      ]
+    },
+    {
+      "id": "ran",
+      "canonical_name": "רן",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רן",
+        "הרן"
+      ]
+    },
+    {
+      "id": "meiri",
+      "canonical_name": "מאירי",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "בית הבחירה"
+      ]
+    },
+    {
+      "id": "nimukei_yosef",
+      "canonical_name": "נימוקי יוסף",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "נימוקי"
+      ]
+    },
+    {
+      "id": "shita_mekubetzet",
+      "canonical_name": "שיטה מקובצת",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "שמק"
+      ]
+    },
+    {
+      "id": "tosafot_yeshanim",
+      "canonical_name": "תוספות ישנים",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "תים"
+      ]
+    },
+    {
+      "id": "tosafot_harosh",
+      "canonical_name": "תוספות הראש",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "תוהר"
+      ]
+    },
+    {
+      "id": "mordechai",
+      "canonical_name": "מרדכי",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "מרדכי"
+      ]
+    },
+    {
+      "id": "ri_migash",
+      "canonical_name": "רי מגאש",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "ר' יוסף מגאש",
+        "רימגאש"
+      ]
+    },
+    {
+      "id": "rabbeinu_chananel",
+      "canonical_name": "רבנו חננאל",
+      "category": "rishon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רחנל",
+        "רבנו חננאל"
+      ]
+    },
+    {
+      "id": "rosh",
+      "canonical_name": "ראש",
+      "category": "rishon",
+      "ref_type": "perek_siman",
+      "aliases": [
+        "ראש",
+        "רבינו אשר",
+        "רש"
+      ]
+    },
+    {
+      "id": "rif",
+      "canonical_name": "ריף",
+      "category": "rishon",
+      "ref_type": "daf_rif",
+      "aliases": [
+        "ריף",
+        "רבינו יצחק אלפסי"
+      ]
+    },
+    {
+      "id": "maharsha",
+      "canonical_name": "מהרשא",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "מהרשא"
+      ]
+    },
+    {
+      "id": "maharam",
+      "canonical_name": "מהרם",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "מהרם"
+      ]
+    },
+    {
+      "id": "maharshal",
+      "canonical_name": "מהרשל",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "מהרשל"
+      ]
+    },
+    {
+      "id": "pnei_yehoshua",
+      "canonical_name": "פני יהושע",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "פני"
+      ]
+    },
+    {
+      "id": "akiva_eger",
+      "canonical_name": "רבי עקיבא איגר",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רעקא",
+        "רעקא"
+      ]
+    },
+    {
+      "id": "chatam_sofer",
+      "canonical_name": "חתם סופר",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "חתס"
+      ]
+    },
+    {
+      "id": "rashash",
+      "canonical_name": "רשש",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "רשש"
+      ]
+    },
+    {
+      "id": "aruch_laner",
+      "canonical_name": "ערוך לנר",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "ערול"
+      ]
+    },
+    {
+      "id": "shemirat_shabbat",
+      "canonical_name": "שפת אמת",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "שפא"
+      ]
+    },
+    {
+      "id": "chazon_ish",
+      "canonical_name": "חזון איש",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "חזוא"
+      ]
+    },
+    {
+      "id": "berachat_shmuel",
+      "canonical_name": "ברכת שמואל",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "ברכש"
+      ]
+    },
+    {
+      "id": "kehilot_yaakov",
+      "canonical_name": "קהילות יעקב",
+      "category": "acharon",
+      "ref_type": "daf_amud",
+      "aliases": [
+        "קהיי"
+      ]
+    }
+  ]
+}

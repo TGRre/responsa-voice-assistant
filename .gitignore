@@ -1,0 +1,38 @@
+# Secrets & local configuration
+.env
+.env.*
+!.env.example
+settings.json
+
+# Python virtual environments & caches
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# Build & installer outputs
+build/
+dist/
+installer_output/
+*.exe
+*.zip
+*.msi
+
+# Logs & local debug dumps
+*.log
+captured_controls.json
+responsa_ui_tree*.json
+.build/
+
+# Editor / tool state
+.mimocode/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

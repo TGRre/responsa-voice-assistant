@@ -1,0 +1,337 @@
+{
+  "_meta": {
+    "source": "sefaria-index (https://www.sefaria.org/api/) + hand-authored alias tables",
+    "retrieved": "2026-11-24",
+    "conventions": {
+      "max_daf": "last daf of the standard Vilna Shas, per Sefaria's Talmud address schema (amudim=(2*max_daf or 2*max_daf-1)); e.g. Berakhot 64, Shabbat 157, Chullin 142, Bava Batra 176",
+      "rif_max_daf": "last daf in the Rif's OWN pagination (Vilna Rif print), per Sefaria's digitized Rif_<Tractate> texts. null when Sefaria has no digitized Rif for the tractate. NOTE: print tradition also has Rif on Chagigah/Nazir/Sotah; those are absent from Sefaria's digitization and are set null here — audit and extend if needed.",
+      "max_perek": "Mishnah chapter count for Bavli tractates (Rosh's perakim); MT chapter counts; Tanakh chapter counts",
+      "bavli_37": "Sefaria's Talmud/Bavli corpus: 36 full-Gemara tractates + Tamid (Kinnim/Middot are not part of Sefaria's Bavli set)",
+      "rambam_83": "Sefaria indexes 84 MT hilchot + 4 introductions; 'Seder HaTefillah' (סדר התפילה, liturgical appendix whose title lacks 'הלכות') is excluded -> the canonical 83",
+      "nosei_kelim_sub_unit": "citation-practice judgment (sk-indexed vs seif-indexed works)"
+    }
+  },
+  "sections": [
+    {
+      "id": "orach_chaim",
+      "canonical_name": "אורח חיים",
+      "max_siman": 697,
+      "aliases": [
+        "אוח",
+        "אוח",
+        "אח"
+      ]
+    },
+    {
+      "id": "yoreh_deah",
+      "canonical_name": "יורה דעה",
+      "max_siman": 403,
+      "aliases": [
+        "יוד",
+        "יוד",
+        "יד"
+      ]
+    },
+    {
+      "id": "even_haezer",
+      "canonical_name": "אבן העזר",
+      "max_siman": 178,
+      "aliases": [
+        "אהע",
+        "אהע",
+        "אע"
+      ]
+    },
+    {
+      "id": "choshen_mishpat",
+      "canonical_name": "חושן משפט",
+      "max_siman": 427,
+      "aliases": [
+        "חומ",
+        "חומ",
+        "חומש",
+        "חמ"
+      ]
+    }
+  ],
+  "base_works": [
+    {
+      "id": "shulchan_aruch",
+      "canonical_name": "שולחן ערוך",
+      "aliases": [
+        "שוע",
+        "שוע",
+        "שע"
+      ]
+    },
+    {
+      "id": "tur",
+      "canonical_name": "טור",
+      "aliases": [
+        "טור",
+        "הטור"
+      ]
+    },
+    {
+      "id": "beit_yosef",
+      "canonical_name": "בית יוסף",
+      "aliases": [
+        "בי",
+        "בית יוסף"
+      ]
+    },
+    {
+      "id": "darchei_moshe",
+      "canonical_name": "דרכי משה",
+      "aliases": [
+        "דמ",
+        "דרכי משה"
+      ]
+    },
+    {
+      "id": "rema",
+      "canonical_name": "רמא",
+      "aliases": [
+        "רמה",
+        "המפה",
+        "מפה"
+      ]
+    }
+  ],
+  "nosei_kelim": [
+    {
+      "id": "mishnah_berurah",
+      "canonical_name": "משנה ברורה",
+      "applicable_sections": [
+        "אורח חיים"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "מב",
+        "מב",
+        "משנב"
+      ]
+    },
+    {
+      "id": "magen_avraham",
+      "canonical_name": "מגן אברהם",
+      "applicable_sections": [
+        "אורח חיים"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "מגא",
+        "מגא"
+      ]
+    },
+    {
+      "id": "beur_halacha",
+      "canonical_name": "באור הלכה",
+      "applicable_sections": [
+        "אורח חיים"
+      ],
+      "sub_unit": "seif",
+      "aliases": [
+        "בארור הלכה",
+        "בהל"
+      ]
+    },
+    {
+      "id": "shaar_hatziyun",
+      "canonical_name": "שער הציון",
+      "applicable_sections": [
+        "אורח חיים"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "שעה",
+        "שה"
+      ]
+    },
+    {
+      "id": "kaf_hachaim",
+      "canonical_name": "כף החיים",
+      "applicable_sections": [
+        "אורח חיים",
+        "יורה דעה"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "כף החיים",
+        "כח"
+      ]
+    },
+    {
+      "id": "shach",
+      "canonical_name": "שך",
+      "applicable_sections": [
+        "יורה דעה",
+        "חושן משפט"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "שך",
+        "סך"
+      ]
+    },
+    {
+      "id": "taz",
+      "canonical_name": "טז",
+      "applicable_sections": [
+        "אורח חיים",
+        "יורה דעה",
+        "אבן העזר",
+        "חושן משפט"
+      ],
+      "sub_unit": "seif",
+      "aliases": [
+        "טז",
+        "תז"
+      ]
+    },
+    {
+      "id": "pri_chadash",
+      "canonical_name": "פרי חדש",
+      "applicable_sections": [
+        "אורח חיים",
+        "יורה דעה"
+      ],
+      "sub_unit": "seif",
+      "aliases": [
+        "פרח",
+        "פרח"
+      ]
+    },
+    {
+      "id": "pri_megadim",
+      "canonical_name": "פרי מגדים",
+      "applicable_sections": [
+        "אורח חיים",
+        "יורה דעה"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "פרמ",
+        "פרמג"
+      ]
+    },
+    {
+      "id": "pitchei_teshuvah",
+      "canonical_name": "פתחי תשובה",
+      "applicable_sections": [
+        "יורה דעה",
+        "אבן העזר",
+        "חושן משפט"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "פת",
+        "פתת"
+      ]
+    },
+    {
+      "id": "chelkat_mechokek",
+      "canonical_name": "חלקת מחוקק",
+      "applicable_sections": [
+        "אבן העזר"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "חמ",
+        "חלקמ"
+      ]
+    },
+    {
+      "id": "beit_shmuel",
+      "canonical_name": "בית שמואל",
+      "applicable_sections": [
+        "אבן העזר"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "בש",
+        "בית שמואל"
+      ]
+    },
+    {
+      "id": "avnei_miluim",
+      "canonical_name": "אבני מילואים",
+      "applicable_sections": [
+        "אבן העזר"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "אמ",
+        "אבמ"
+      ]
+    },
+    {
+      "id": "sema",
+      "canonical_name": "סמע",
+      "applicable_sections": [
+        "חושן משפט"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "סמע",
+        "סע",
+        "מאירת עינים"
+      ]
+    },
+    {
+      "id": "ketzot_hachoshen",
+      "canonical_name": "קצות החושן",
+      "applicable_sections": [
+        "חושן משפט"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "קצות",
+        "קצוהח"
+      ]
+    },
+    {
+      "id": "netivot_hamishpat",
+      "canonical_name": "נתיבות המשפט",
+      "applicable_sections": [
+        "חושן משפט"
+      ],
+      "sub_unit": "seif_katan",
+      "aliases": [
+        "נתיבות",
+        "נהמ"
+      ]
+    },
+    {
+      "id": "biur_hagra",
+      "canonical_name": "ביאור הגרא",
+      "applicable_sections": [
+        "אורח חיים",
+        "יורה דעה",
+        "אבן העזר",
+        "חושן משפט"
+      ],
+      "sub_unit": "seif",
+      "aliases": [
+        "גרא",
+        "הגרא",
+        "גרא"
+      ]
+    },
+    {
+      "id": "aruch_hashulchan",
+      "canonical_name": "ערוך השולחן",
+      "applicable_sections": [
+        "אורח חיים",
+        "יורה דעה",
+        "אבן העזר",
+        "חושן משפט"
+      ],
+      "sub_unit": "seif",
+      "aliases": [
+        "עהש",
+        "ערוהש"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12330 @@
+[
+ {
+  "canonical": "חגי",
+  "aliases": [
+   "Haggai",
+   "חגי",
+   "ספר חגי"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "רות",
+  "aliases": [
+   "Ruth",
+   "ספר רות",
+   "רות"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "איוב",
+  "aliases": [
+   "Job",
+   "איוב",
+   "ספר איוב"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "איכה",
+  "aliases": [
+   "Lamentations",
+   "איכה",
+   "ספר איכה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "אסתר",
+  "aliases": [
+   "Esther",
+   "אסתר",
+   "ספר אסתר"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "הושע",
+  "aliases": [
+   "Hosea",
+   "הושע",
+   "ספר הושע"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "יואל",
+  "aliases": [
+   "Joel",
+   "יואל",
+   "ספר יואל"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "יונה",
+  "aliases": [
+   "Jonah",
+   "יונה",
+   "ספר יונה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מיכה",
+  "aliases": [
+   "Micah",
+   "מיכה",
+   "ספר מיכה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "משלי",
+  "aliases": [
+   "Proverbs",
+   "משלי",
+   "ספר משלי"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "נחום",
+  "aliases": [
+   "Nahum",
+   "נחום",
+   "ספר נחום"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "עזרא",
+  "aliases": [
+   "Ezra",
+   "ספר עזרא",
+   "עזרא"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "עמוס",
+  "aliases": [
+   "Amos",
+   "ספר עמוס",
+   "עמוס"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "קהלת",
+  "aliases": [
+   "Ecclesiastes",
+   "ספר קהלת",
+   "קהלת"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "שמות",
+  "aliases": [
+   "Exodus",
+   "חומש שמות",
+   "ספר שמות",
+   "שמות"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "במדבר",
+  "aliases": [
+   "Numbers",
+   "במדבר",
+   "חומש במדבר",
+   "ספר במדבר"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "דברים",
+  "aliases": [
+   "Deuteronomy",
+   "דברים",
+   "חומש דברים",
+   "ספר דברים"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "דניאל",
+  "aliases": [
+   "Daniel",
+   "דניאל",
+   "ספר דניאל"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "ויקרא",
+  "aliases": [
+   "Leviticus",
+   "ויקרא",
+   "חומש ויקרא",
+   "ספר ויקרא"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "זכריה",
+  "aliases": [
+   "Zechariah",
+   "זכריה",
+   "ספר זכריה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "חבקוק",
+  "aliases": [
+   "Habakkuk",
+   "חבקוק",
+   "ספר חבקוק"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "יהושע",
+  "aliases": [
+   "Joshua",
+   "יהושע",
+   "ספר יהושע"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מזרחי",
+  "aliases": [
+   "Mizrachi",
+   "מזרחי",
+   "ספר מזרחי"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מלאכי",
+  "aliases": [
+   "Malachi",
+   "מלאכי",
+   "ספר מלאכי"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "נחמיה",
+  "aliases": [
+   "Nehemiah",
+   "נחמיה",
+   "ספר נחמיה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "צפניה",
+  "aliases": [
+   "Zephaniah",
+   "ספר צפניה",
+   "צפניה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "בראשית",
+  "aliases": [
+   "Genesis",
+   "בראשית",
+   "חומש בראשית",
+   "ספר בראשית"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "חזקוני",
+  "aliases": [
+   "Chizkuni",
+   "חזקוני",
+   "ספר חזקוני"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יחזקאל",
+  "aliases": [
+   "Ezekiel",
+   "יחזקאל",
+   "ספר יחזקאל"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "ירמיהו",
+  "aliases": [
+   "Jeremiah",
+   "ירמיהו",
+   "ספר ירמיהו"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "ישעיהו",
+  "aliases": [
+   "Isaiah",
+   "ישעיהו",
+   "ספר ישעיהו"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "עובדיה",
+  "aliases": [
+   "Obadiah",
+   "ספר עובדיה",
+   "עובדיה"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "שופטים",
+  "aliases": [
+   "Judges",
+   "ספר שופטים",
+   "שופטים"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "תהילים",
+  "aliases": [
+   "Psalms",
+   "ספר תהילים",
+   "תהילים"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "אבי עזר",
+  "aliases": [
+   "Avi Ezer",
+   "אבי עזר",
+   "ספר אבי עזר"
+  ],
+  "category": "tanakh",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "נדה",
+  "aliases": [
+   "Niddah",
+   "נדה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "שבת",
+  "aliases": [
+   "Shabbat",
+   "שבת"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "ביצה",
+  "aliases": [
+   "Beitzah",
+   "ביצה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "יומא",
+  "aliases": [
+   "Yoma",
+   "יומא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מכות",
+  "aliases": [
+   "Makkot",
+   "מכות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "נזיר",
+  "aliases": [
+   "Nazir",
+   "נזיר"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "סוטה",
+  "aliases": [
+   "Sotah",
+   "סוטה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "סוכה",
+  "aliases": [
+   "Sukkah",
+   "סוכה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "תמיד",
+  "aliases": [
+   "Tamid",
+   "תמיד"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "ברכות",
+  "aliases": [
+   "Berakhot",
+   "ברכות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "גיטין",
+  "aliases": [
+   "Gittin",
+   "גיטין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "זבחים",
+  "aliases": [
+   "Zevachim",
+   "זבחים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "חגיגה",
+  "aliases": [
+   "Chagigah",
+   "חגיגה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "חולין",
+  "aliases": [
+   "Chullin",
+   "חולין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "יבמות",
+  "aliases": [
+   "Yevamot",
+   "יבמות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מגילה",
+  "aliases": [
+   "Megillah",
+   "מגילה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מנחות",
+  "aliases": [
+   "Menachot",
+   "מנחות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מעילה",
+  "aliases": [
+   "Meilah",
+   "מעילה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "נדרים",
+  "aliases": [
+   "Nedarim",
+   "נדרים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "ערכין",
+  "aliases": [
+   "Arakhin",
+   "ערכין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "פסחים",
+  "aliases": [
+   "Pesachim",
+   "פסחים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "תמורה",
+  "aliases": [
+   "Temurah",
+   "תמורה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "תענית",
+  "aliases": [
+   "Taanit",
+   "תענית"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "בכורות",
+  "aliases": [
+   "Bekhorot",
+   "בכורות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "הוריות",
+  "aliases": [
+   "Horayot",
+   "הוריות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "כריתות",
+  "aliases": [
+   "Keritot",
+   "כריתות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "כתובות",
+  "aliases": [
+   "Ketubot",
+   "כתובות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "שבועות",
+  "aliases": [
+   "Shevuot",
+   "שבועות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "בבא קמא",
+  "aliases": [
+   "Bava Kamma",
+   "בבא קמא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "סנהדרין",
+  "aliases": [
+   "Sanhedrin",
+   "סנהדרין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "עירובין",
+  "aliases": [
+   "Eruvin",
+   "עירובין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "קידושין",
+  "aliases": [
+   "Kiddushin",
+   "קידושין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "בבא בתרא",
+  "aliases": [
+   "Bava Batra",
+   "בבא בתרא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מועד קטן",
+  "aliases": [
+   "Moed Katan",
+   "מועד קטן"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מסכת כלה",
+  "aliases": [
+   "Tractate Kallah",
+   "מסכת כלה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "עין אי\"ה",
+  "aliases": [
+   "Ein Ayah",
+   "עין אי\"ה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "ראש השנה",
+  "aliases": [
+   "Rosh Hashanah",
+   "ראש השנה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף שבת",
+  "aliases": [
+   "Rif Shabbat",
+   "רי\"ף שבת"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "בבא מציעא",
+  "aliases": [
+   "Bava Metzia",
+   "בבא מציעא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "מסכת גרים",
+  "aliases": [
+   "Tractate Gerim",
+   "מסכת גרים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "עבודה זרה",
+  "aliases": [
+   "Avodah Zarah",
+   "עבודה זרה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף ביצה",
+  "aliases": [
+   "Rif Beitzah",
+   "רי\"ף ביצה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף יומא",
+  "aliases": [
+   "Rif Yoma",
+   "רי\"ף יומא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף מכות",
+  "aliases": [
+   "Rif Makkot",
+   "רי\"ף מכות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף סוכה",
+  "aliases": [
+   "Rif Sukkah",
+   "רי\"ף סוכה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "מסכת כותים",
+  "aliases": [
+   "Tractate Kutim",
+   "מסכת כותים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת מזוזה",
+  "aliases": [
+   "Tractate Mezuzah",
+   "מסכת מזוזה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת עבדים",
+  "aliases": [
+   "Tractate Avadim",
+   "מסכת עבדים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת ציצית",
+  "aliases": [
+   "Tractate Tzitzit",
+   "מסכת ציצית"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת שמחות",
+  "aliases": [
+   "Tractate Semachot",
+   "מסכת שמחות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף ברכות",
+  "aliases": [
+   "Rif Berakhot",
+   "רי\"ף ברכות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף גיטין",
+  "aliases": [
+   "Rif Gittin",
+   "רי\"ף גיטין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף חולין",
+  "aliases": [
+   "Rif Chullin",
+   "רי\"ף חולין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף יבמות",
+  "aliases": [
+   "Rif Yevamot",
+   "רי\"ף יבמות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף מגילה",
+  "aliases": [
+   "Rif Megillah",
+   "רי\"ף מגילה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף נדרים",
+  "aliases": [
+   "Rif Nedarim",
+   "רי\"ף נדרים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף פסחים",
+  "aliases": [
+   "Rif Pesachim",
+   "רי\"ף פסחים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף תענית",
+  "aliases": [
+   "Rif Ta'anit",
+   "רי\"ף תענית"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "דרכי התלמוד",
+  "aliases": [
+   "Darkhei HaTalmud",
+   "דרכי התלמוד"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הקדמת המאור",
+  "aliases": [
+   "Introdution to HaMaor",
+   "הקדמת המאור"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "מבוא התלמוד",
+  "aliases": [
+   "Mevo HaTalmud (Chajes)",
+   "מבוא התלמוד"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מסכת סופרים",
+  "aliases": [
+   "Tractate Soferim",
+   "מסכת סופרים"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת תפילין",
+  "aliases": [
+   "Tractate Tefillin",
+   "מסכת תפילין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף כתובות",
+  "aliases": [
+   "Rif Ketubot",
+   "רי\"ף כתובות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף שבועות",
+  "aliases": [
+   "Rif Shevuot",
+   "רי\"ף שבועות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף בבא קמא",
+  "aliases": [
+   "Rif Bava Kamma",
+   "רי\"ף בבא קמא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף סנהדרין",
+  "aliases": [
+   "Rif Sanhedrin",
+   "רי\"ף סנהדרין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף עירובין",
+  "aliases": [
+   "Rif Eruvin",
+   "רי\"ף עירובין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף קידושין",
+  "aliases": [
+   "Rif Kiddushin",
+   "רי\"ף קידושין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "אבות דרבי נתן",
+  "aliases": [
+   "Avot DeRabbi Natan",
+   "אבות דרבי נתן"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת כלה רבתי",
+  "aliases": [
+   "Tractate Kallah Rabbati",
+   "מסכת כלה רבתי"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "מסכת ספר תורה",
+  "aliases": [
+   "Tractate Sefer Torah",
+   "מסכת ספר תורה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "רי\"ף בבא בתרא",
+  "aliases": [
+   "Rif Bava Batra",
+   "רי\"ף בבא בתרא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף מועד קטן",
+  "aliases": [
+   "Rif Moed Katan",
+   "רי\"ף מועד קטן"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף ראש השנה",
+  "aliases": [
+   "Rif Rosh Hashanah",
+   "רי\"ף ראש השנה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף בבא מציעא",
+  "aliases": [
+   "Rif Bava Metzia",
+   "רי\"ף בבא מציעא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "רי\"ף עבודה זרה",
+  "aliases": [
+   "Rif Avodah Zarah",
+   "רי\"ף עבודה זרה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "הקדמת מלחמת השם",
+  "aliases": [
+   "Introdution to Milchemet Hashem",
+   "הקדמת מלחמת השם"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "דף שבועי על סוכה",
+  "aliases": [
+   "Daf Shevui to Sukkah",
+   "דף שבועי על סוכה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "מסכת דרך ארץ רבה",
+  "aliases": [
+   "Tractate Derekh Eretz Rabbah",
+   "מסכת דרך ארץ רבה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "דף שבועי על מגילה",
+  "aliases": [
+   "Daf Shevui to Megillah",
+   "דף שבועי על מגילה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "השגות הראב\"ד מכות",
+  "aliases": [
+   "Hasagot HaRa'avad Makkot",
+   "השגות הראב\"ד מכות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "מסכת דרך ארץ זוטא",
+  "aliases": [
+   "Tractate Derekh Eretz Zuta",
+   "מסכת דרך ארץ זוטא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי חלה",
+  "aliases": [
+   "Jerusalem Talmud Challah",
+   "תלמוד ירושלמי חלה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי נדה",
+  "aliases": [
+   "Jerusalem Talmud Niddah",
+   "תלמוד ירושלמי נדה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי פאה",
+  "aliases": [
+   "Jerusalem Talmud Peah",
+   "תלמוד ירושלמי פאה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי שבת",
+  "aliases": [
+   "Jerusalem Talmud Shabbat",
+   "תלמוד ירושלמי שבת"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "דף שבועי על כתובות",
+  "aliases": [
+   "Daf Shevui to Ketubot",
+   "דף שבועי על כתובות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "השגות הראב\"ד גיטין",
+  "aliases": [
+   "Hasagot HaRa'avad Gittin",
+   "השגות הראב\"ד גיטין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי ביצה",
+  "aliases": [
+   "Jerusalem Talmud Beitzah",
+   "תלמוד ירושלמי ביצה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי דמאי",
+  "aliases": [
+   "Jerusalem Talmud Demai",
+   "תלמוד ירושלמי דמאי"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי יומא",
+  "aliases": [
+   "Jerusalem Talmud Yoma",
+   "תלמוד ירושלמי יומא"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי מכות",
+  "aliases": [
+   "Jerusalem Talmud Makkot",
+   "תלמוד ירושלמי מכות"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי נזיר",
+  "aliases": [
+   "Jerusalem Talmud Nazir",
+   "תלמוד ירושלמי נזיר"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי סוטה",
+  "aliases": [
+   "Jerusalem Talmud Sotah",
+   "תלמוד ירושלמי סוטה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי סוכה",
+  "aliases": [
+   "Jerusalem Talmud Sukkah",
+   "תלמוד ירושלמי סוכה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "תלמוד ירושלמי ערלה",
+  "aliases": [
+   "Jerusalem Talmud Orlah",
+   "תלמוד ירושלמי ערלה"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "אֲהֵבוּךָ עַד מָוֶת",
+  "aliases": [
+   "Ahevukha Ad Mavet",
+   "אֲהֵבוּךָ עַד מָוֶת"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דף שבועי על קידושין",
+  "aliases": [
+   "Daf Shevui to Kiddushin",
+   "דף שבועי על קידושין"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הקדמות לתלמוד הבבלי",
+  "aliases": [
+   "Introductions to the Babylonian Talmud",
+   "הקדמות לתלמוד הבבלי"
+  ],
+  "category": "talmud",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "עמוד"
+  ]
+ },
+ {
+  "canonical": "דרך חיים",
+  "aliases": [
+   "Derekh Chayyim",
+   "דרך חיים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משנה חלה",
+  "aliases": [
+   "Mishnah Challah",
+   "משנה חלה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה נדה",
+  "aliases": [
+   "Mishnah Niddah",
+   "משנה נדה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה פאה",
+  "aliases": [
+   "Mishnah Peah",
+   "משנה פאה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה פרה",
+  "aliases": [
+   "Mishnah Parah",
+   "משנה פרה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה שבת",
+  "aliases": [
+   "Mishnah Shabbat",
+   "משנה שבת"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה אבות",
+  "aliases": [
+   "Pirkei Avot",
+   "משנה אבות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה ביצה",
+  "aliases": [
+   "Mishnah Beitzah",
+   "משנה ביצה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה דמאי",
+  "aliases": [
+   "Mishnah Demai",
+   "משנה דמאי"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה זבים",
+  "aliases": [
+   "Mishnah Zavim",
+   "משנה זבים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה ידים",
+  "aliases": [
+   "Mishnah Yadayim",
+   "משנה ידים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה יומא",
+  "aliases": [
+   "Mishnah Yoma",
+   "משנה יומא"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה כלים",
+  "aliases": [
+   "Mishnah Kelim",
+   "משנה כלים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מדות",
+  "aliases": [
+   "Mishnah Middot",
+   "משנה מדות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מכות",
+  "aliases": [
+   "Mishnah Makkot",
+   "משנה מכות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה נזיר",
+  "aliases": [
+   "Mishnah Nazir",
+   "משנה נזיר"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה סוטה",
+  "aliases": [
+   "Mishnah Sotah",
+   "משנה סוטה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה סוכה",
+  "aliases": [
+   "Mishnah Sukkah",
+   "משנה סוכה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה ערלה",
+  "aliases": [
+   "Mishnah Orlah",
+   "משנה ערלה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה תמיד",
+  "aliases": [
+   "Mishnah Tamid",
+   "משנה תמיד"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה אהלות",
+  "aliases": [
+   "Mishnah Oholot",
+   "משנה אהלות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה ברכות",
+  "aliases": [
+   "Mishnah Berakhot",
+   "משנה ברכות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה גיטין",
+  "aliases": [
+   "Mishnah Gittin",
+   "משנה גיטין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה זבחים",
+  "aliases": [
+   "Mishnah Zevachim",
+   "משנה זבחים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה חגיגה",
+  "aliases": [
+   "Mishnah Chagigah",
+   "משנה חגיגה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה חולין",
+  "aliases": [
+   "Mishnah Chullin",
+   "משנה חולין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה טהרות",
+  "aliases": [
+   "Mishnah Tahorot",
+   "משנה טהרות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה יבמות",
+  "aliases": [
+   "Mishnah Yevamot",
+   "משנה יבמות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה כלאים",
+  "aliases": [
+   "Mishnah Kilayim",
+   "משנה כלאים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מגילה",
+  "aliases": [
+   "Mishnah Megillah",
+   "משנה מגילה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מנחות",
+  "aliases": [
+   "Mishnah Menachot",
+   "משנה מנחות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מעילה",
+  "aliases": [
+   "Mishnah Meilah",
+   "משנה מעילה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה נגעים",
+  "aliases": [
+   "Mishnah Negaim",
+   "משנה נגעים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה נדרים",
+  "aliases": [
+   "Mishnah Nedarim",
+   "משנה נדרים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה עדיות",
+  "aliases": [
+   "Mishnah Eduyot",
+   "משנה עדיות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה ערכין",
+  "aliases": [
+   "Mishnah Arakhin",
+   "משנה ערכין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה פסחים",
+  "aliases": [
+   "Mishnah Pesachim",
+   "משנה פסחים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה קינים",
+  "aliases": [
+   "Mishnah Kinnim",
+   "משנה קינים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה שקלים",
+  "aliases": [
+   "Mishnah Shekalim",
+   "משנה שקלים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה תמורה",
+  "aliases": [
+   "Mishnah Temurah",
+   "משנה תמורה"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה תענית",
+  "aliases": [
+   "Mishnah Ta'anit",
+   "משנה תענית"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "תוספתא חלה",
+  "aliases": [
+   "Tosefta Challah",
+   "תוספתא חלה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא נדה",
+  "aliases": [
+   "Tosefta Niddah",
+   "תוספתא נדה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא פאה",
+  "aliases": [
+   "Tosefta Peah",
+   "תוספתא פאה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא פרה",
+  "aliases": [
+   "Tosefta Parah",
+   "תוספתא פרה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא שבת",
+  "aliases": [
+   "Tosefta Shabbat",
+   "תוספתא שבת"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "משנה בכורות",
+  "aliases": [
+   "Mishnah Bekhorot",
+   "משנה בכורות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה הוריות",
+  "aliases": [
+   "Mishnah Horayot",
+   "משנה הוריות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה כריתות",
+  "aliases": [
+   "Mishnah Keritot",
+   "משנה כריתות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה כתובות",
+  "aliases": [
+   "Mishnah Ketubot",
+   "משנה כתובות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מעשרות",
+  "aliases": [
+   "Mishnah Maasrot",
+   "משנה מעשרות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מקואות",
+  "aliases": [
+   "Mishnah Mikvaot",
+   "משנה מקואות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה עוקצים",
+  "aliases": [
+   "Mishnah Oktzin",
+   "משנה עוקצים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה שבועות",
+  "aliases": [
+   "Mishnah Shevuot",
+   "משנה שבועות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה שביעית",
+  "aliases": [
+   "Mishnah Sheviit",
+   "משנה שביעית"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה תרומות",
+  "aliases": [
+   "Mishnah Terumot",
+   "משנה תרומות"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "תוספתא ביצה",
+  "aliases": [
+   "Tosefta Beitzah",
+   "תוספתא ביצה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא דמאי",
+  "aliases": [
+   "Tosefta Demai",
+   "תוספתא דמאי"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא זבים",
+  "aliases": [
+   "Tosefta Zavim",
+   "תוספתא זבים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא ידים",
+  "aliases": [
+   "Tosefta Yadayim",
+   "תוספתא ידים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא יומא",
+  "aliases": [
+   "Tosefta Yoma",
+   "תוספתא יומא"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מכות",
+  "aliases": [
+   "Tosefta Makkot",
+   "תוספתא מכות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא נזיר",
+  "aliases": [
+   "Tosefta Nazir",
+   "תוספתא נזיר"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא סוטה",
+  "aliases": [
+   "Tosefta Sotah",
+   "תוספתא סוטה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא סוכה",
+  "aliases": [
+   "Tosefta Sukkah",
+   "תוספתא סוכה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא ערלה",
+  "aliases": [
+   "Tosefta Orlah",
+   "תוספתא ערלה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "משנה בבא קמא",
+  "aliases": [
+   "Mishnah Bava Kamma",
+   "משנה בבא קמא"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה ביכורים",
+  "aliases": [
+   "Mishnah Bikkurim",
+   "משנה ביכורים"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מכשירין",
+  "aliases": [
+   "Mishnah Makhshirin",
+   "משנה מכשירין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה סנהדרין",
+  "aliases": [
+   "Mishnah Sanhedrin",
+   "משנה סנהדרין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה עירובין",
+  "aliases": [
+   "Mishnah Eruvin",
+   "משנה עירובין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה קידושין",
+  "aliases": [
+   "Mishnah Kiddushin",
+   "משנה קידושין"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "תוספתא אהלות",
+  "aliases": [
+   "Tosefta Oholot",
+   "תוספתא אהלות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא ברכות",
+  "aliases": [
+   "Tosefta Berakhot",
+   "תוספתא ברכות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא גיטין",
+  "aliases": [
+   "Tosefta Gittin",
+   "תוספתא גיטין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא זבחים",
+  "aliases": [
+   "Tosefta Zevachim",
+   "תוספתא זבחים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא חגיגה",
+  "aliases": [
+   "Tosefta Chagigah",
+   "תוספתא חגיגה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא חולין",
+  "aliases": [
+   "Tosefta Chullin",
+   "תוספתא חולין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא טהרות",
+  "aliases": [
+   "Tosefta Tahorot",
+   "תוספתא טהרות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא יבמות",
+  "aliases": [
+   "Tosefta Yevamot",
+   "תוספתא יבמות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא כלאים",
+  "aliases": [
+   "Tosefta Kilayim",
+   "תוספתא כלאים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מגילה",
+  "aliases": [
+   "Tosefta Megillah",
+   "תוספתא מגילה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מנחות",
+  "aliases": [
+   "Tosefta Menachot",
+   "תוספתא מנחות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מעילה",
+  "aliases": [
+   "Tosefta Meilah",
+   "תוספתא מעילה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא נגעים",
+  "aliases": [
+   "Tosefta Negaim",
+   "תוספתא נגעים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא נדרים",
+  "aliases": [
+   "Tosefta Nedarim",
+   "תוספתא נדרים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא ערכין",
+  "aliases": [
+   "Tosefta Arakhin",
+   "תוספתא ערכין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא פסחים",
+  "aliases": [
+   "Tosefta Pesachim",
+   "תוספתא פסחים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא שקלים",
+  "aliases": [
+   "Tosefta Shekalim",
+   "תוספתא שקלים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא תמורה",
+  "aliases": [
+   "Tosefta Temurah",
+   "תוספתא תמורה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא תענית",
+  "aliases": [
+   "Tosefta Ta'anit",
+   "תוספתא תענית"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "משנה בבא בתרא",
+  "aliases": [
+   "Mishnah Bava Batra",
+   "משנה בבא בתרא"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה טבול יום",
+  "aliases": [
+   "Mishnah Tevul Yom",
+   "משנה טבול יום"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "משנה מועד קטן",
+  "aliases": [
+   "Mishnah Moed Katan",
+   "משנה מועד קטן"
+  ],
+  "category": "mishnah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "תוספתא בכורות",
+  "aliases": [
+   "Tosefta Bekhorot",
+   "תוספתא בכורות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא הוריות",
+  "aliases": [
+   "Tosefta Horayot",
+   "תוספתא הוריות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא כריתות",
+  "aliases": [
+   "Tosefta Keritot",
+   "תוספתא כריתות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא כתובות",
+  "aliases": [
+   "Tosefta Ketubot",
+   "תוספתא כתובות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מעשרות",
+  "aliases": [
+   "Tosefta Maasrot",
+   "תוספתא מעשרות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא עדויות",
+  "aliases": [
+   "Tosefta Eduyot",
+   "תוספתא עדויות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא עוקצין",
+  "aliases": [
+   "Tosefta Oktsin",
+   "תוספתא עוקצין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא שבועות",
+  "aliases": [
+   "Tosefta Shevuot",
+   "תוספתא שבועות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא שביעית",
+  "aliases": [
+   "Tosefta Sheviit",
+   "תוספתא שביעית"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא תרומות",
+  "aliases": [
+   "Tosefta Terumot",
+   "תוספתא תרומות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא בבא קמא",
+  "aliases": [
+   "Tosefta Bava Kamma",
+   "תוספתא בבא קמא"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא ביכורים",
+  "aliases": [
+   "Tosefta Bikkurim",
+   "תוספתא ביכורים"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מכשירין",
+  "aliases": [
+   "Tosefta Makhshirin",
+   "תוספתא מכשירין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מקוואות",
+  "aliases": [
+   "Tosefta Mikvaot",
+   "תוספתא מקוואות"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא סנהדרין",
+  "aliases": [
+   "Tosefta Sanhedrin",
+   "תוספתא סנהדרין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא עירובין",
+  "aliases": [
+   "Tosefta Eruvin",
+   "תוספתא עירובין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא קידושין",
+  "aliases": [
+   "Tosefta Kiddushin",
+   "תוספתא קידושין"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא בבא בתרא",
+  "aliases": [
+   "Tosefta Bava Batra",
+   "תוספתא בבא בתרא"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא טבול יום",
+  "aliases": [
+   "Tosefta Tevul Yom",
+   "תוספתא טבול יום"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא כלים קמא",
+  "aliases": [
+   "Tosefta Kelim Kamma",
+   "תוספתא כלים קמא"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מועד קטן",
+  "aliases": [
+   "Tosefta Moed Katan",
+   "תוספתא מועד קטן"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא מעשר שני",
+  "aliases": [
+   "Tosefta Maaser Sheni",
+   "תוספתא מעשר שני"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא ראש השנה",
+  "aliases": [
+   "Tosefta Rosh Hashanah",
+   "תוספתא ראש השנה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא בבא מציעא",
+  "aliases": [
+   "Tosefta Bava Metzia",
+   "תוספתא בבא מציעא"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא כלים בתרא",
+  "aliases": [
+   "Tosefta Kelim Batra",
+   "תוספתא כלים בתרא"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "תוספתא עבודה זרה",
+  "aliases": [
+   "Tosefta Avodah Zarah",
+   "תוספתא עבודה זרה"
+  ],
+  "category": "tosefta",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "תוספתא"
+  ]
+ },
+ {
+  "canonical": "שולחן ערוך הרב",
+  "aliases": [
+   "Shulchan Arukh HaRav",
+   "שולחן ערוך הרב"
+  ],
+  "category": "shulchan_aruch",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שולחן ערוך הקדמה",
+  "aliases": [
+   "Shulchan Arukh, Introduction",
+   "הקדמה",
+   "שולחן ערוך הקדמה",
+   "שולחן ערוך, הקדמה"
+  ],
+  "category": "shulchan_aruch",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות אבל",
+  "aliases": [
+   "Mishneh Torah, Mourning",
+   "הלכות אבל",
+   "משנה תורה הלכות אבל",
+   "משנה תורה, הלכות אבל",
+   "רמב\"ם הלכות אבל"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שבת",
+  "aliases": [
+   "Mishneh Torah, Sabbath",
+   "הלכות שבת",
+   "משנה תורה הלכות שבת",
+   "משנה תורה, הלכות שבת",
+   "רמב\"ם הלכות שבת"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה מצוות עשה",
+  "aliases": [
+   "Mishneh Torah, Positive Mitzvot",
+   "מצוות עשה",
+   "משנה תורה מצוות עשה",
+   "משנה תורה, מצוות עשה",
+   "רמב\"ם מצוות עשה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "מצוה"
+  ]
+ },
+ {
+  "canonical": "שולחן ערוך אבן העזר",
+  "aliases": [
+   "Shulchan Arukh, Even HaEzer",
+   "אבן העזר",
+   "שולחן ערוך אבן העזר",
+   "שולחן ערוך, אבן העזר"
+  ],
+  "category": "shulchan_aruch",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "שולחן ערוך יורה דעה",
+  "aliases": [
+   "Shulchan Arukh, Yoreh De'ah",
+   "יורה דעה",
+   "שולחן ערוך יורה דעה",
+   "שולחן ערוך, יורה דעה"
+  ],
+  "category": "shulchan_aruch",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות דעות",
+  "aliases": [
+   "Mishneh Torah, Human Dispositions",
+   "הלכות דעות",
+   "משנה תורה הלכות דעות",
+   "משנה תורה, הלכות דעות",
+   "רמב\"ם הלכות דעות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות כלים",
+  "aliases": [
+   "Mishneh Torah, Vessels",
+   "הלכות כלים",
+   "משנה תורה הלכות כלים",
+   "משנה תורה, הלכות כלים",
+   "רמב\"ם הלכות כלים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מילה",
+  "aliases": [
+   "Mishneh Torah, Circumcision",
+   "הלכות מילה",
+   "משנה תורה הלכות מילה",
+   "משנה תורה, הלכות מילה",
+   "רמב\"ם הלכות מילה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות סוטה",
+  "aliases": [
+   "Mishneh Torah, Woman Suspected of Infidelity",
+   "הלכות סוטה",
+   "משנה תורה הלכות סוטה",
+   "משנה תורה, הלכות סוטה",
+   "רמב\"ם הלכות סוטה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות עדות",
+  "aliases": [
+   "Mishneh Torah, Testimony",
+   "הלכות עדות",
+   "משנה תורה הלכות עדות",
+   "משנה תורה, הלכות עדות",
+   "רמב\"ם הלכות עדות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה סדר התפילה",
+  "aliases": [
+   "Mishneh Torah, The Order of Prayer",
+   "משנה תורה סדר התפילה",
+   "משנה תורה, סדר התפילה",
+   "סדר התפילה",
+   "רמב\"ם סדר התפילה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "שולחן ערוך אורח חיים",
+  "aliases": [
+   "Shulchan Arukh, Orach Chayim",
+   "אורח חיים",
+   "שולחן ערוך אורח חיים",
+   "שולחן ערוך, אורח חיים"
+  ],
+  "category": "shulchan_aruch",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "שולחן ערוך חושן משפט",
+  "aliases": [
+   "Shulchan Arukh, Choshen Mishpat",
+   "חושן משפט",
+   "שולחן ערוך חושן משפט",
+   "שולחן ערוך, חושן משפט"
+  ],
+  "category": "shulchan_aruch",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות אישות",
+  "aliases": [
+   "Mishneh Torah, Marriage",
+   "הלכות אישות",
+   "משנה תורה הלכות אישות",
+   "משנה תורה, הלכות אישות",
+   "רמב\"ם הלכות אישות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות ברכות",
+  "aliases": [
+   "Mishneh Torah, Blessings",
+   "הלכות ברכות",
+   "משנה תורה הלכות ברכות",
+   "משנה תורה, הלכות ברכות",
+   "רמב\"ם הלכות ברכות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות גניבה",
+  "aliases": [
+   "Mishneh Torah, Theft",
+   "הלכות גניבה",
+   "משנה תורה הלכות גניבה",
+   "משנה תורה, הלכות גניבה",
+   "רמב\"ם הלכות גניבה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות חגיגה",
+  "aliases": [
+   "Mishneh Torah, Festival Offering",
+   "הלכות חגיגה",
+   "משנה תורה הלכות חגיגה",
+   "משנה תורה, הלכות חגיגה",
+   "רמב\"ם הלכות חגיגה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות כלאים",
+  "aliases": [
+   "Mishneh Torah, Diverse Species",
+   "הלכות כלאים",
+   "משנה תורה הלכות כלאים",
+   "משנה תורה, הלכות כלאים",
+   "רמב\"ם הלכות כלאים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מכירה",
+  "aliases": [
+   "Mishneh Torah, Sales",
+   "הלכות מכירה",
+   "משנה תורה הלכות מכירה",
+   "משנה תורה, הלכות מכירה",
+   "רמב\"ם הלכות מכירה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות ממרים",
+  "aliases": [
+   "Mishneh Torah, Rebels",
+   "הלכות ממרים",
+   "משנה תורה הלכות ממרים",
+   "משנה תורה, הלכות ממרים",
+   "רמב\"ם הלכות ממרים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מעילה",
+  "aliases": [
+   "Mishneh Torah, Trespass",
+   "הלכות מעילה",
+   "משנה תורה הלכות מעילה",
+   "משנה תורה, הלכות מעילה",
+   "רמב\"ם הלכות מעילה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות נדרים",
+  "aliases": [
+   "Mishneh Torah, Vows",
+   "הלכות נדרים",
+   "משנה תורה הלכות נדרים",
+   "משנה תורה, הלכות נדרים",
+   "רמב\"ם הלכות נדרים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות נחלות",
+  "aliases": [
+   "Mishneh Torah, Inheritances",
+   "הלכות נחלות",
+   "משנה תורה הלכות נחלות",
+   "משנה תורה, הלכות נחלות",
+   "רמב\"ם הלכות נחלות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות עבדים",
+  "aliases": [
+   "Mishneh Torah, Slaves",
+   "הלכות עבדים",
+   "משנה תורה הלכות עבדים",
+   "משנה תורה, הלכות עבדים",
+   "רמב\"ם הלכות עבדים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות ציצית",
+  "aliases": [
+   "Mishneh Torah, Fringes",
+   "הלכות ציצית",
+   "משנה תורה הלכות ציצית",
+   "משנה תורה, הלכות ציצית",
+   "רמב\"ם הלכות ציצית"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שגגות",
+  "aliases": [
+   "Mishneh Torah, Offerings for Unintentional Transgressions",
+   "הלכות שגגות",
+   "משנה תורה הלכות שגגות",
+   "משנה תורה, הלכות שגגות",
+   "רמב\"ם הלכות שגגות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שחיטה",
+  "aliases": [
+   "Mishneh Torah, Ritual Slaughter",
+   "הלכות שחיטה",
+   "משנה תורה הלכות שחיטה",
+   "משנה תורה, הלכות שחיטה",
+   "רמב\"ם הלכות שחיטה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שכנים",
+  "aliases": [
+   "Mishneh Torah, Neighbors",
+   "הלכות שכנים",
+   "משנה תורה הלכות שכנים",
+   "משנה תורה, הלכות שכנים",
+   "רמב\"ם הלכות שכנים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שקלים",
+  "aliases": [
+   "Mishneh Torah, Sheqel Dues",
+   "הלכות שקלים",
+   "משנה תורה הלכות שקלים",
+   "משנה תורה, הלכות שקלים",
+   "רמב\"ם הלכות שקלים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תמורה",
+  "aliases": [
+   "Mishneh Torah, Substitution",
+   "הלכות תמורה",
+   "משנה תורה הלכות תמורה",
+   "משנה תורה, הלכות תמורה",
+   "רמב\"ם הלכות תמורה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תשובה",
+  "aliases": [
+   "Mishneh Torah, Repentance",
+   "הלכות תשובה",
+   "משנה תורה הלכות תשובה",
+   "משנה תורה, הלכות תשובה",
+   "רמב\"ם הלכות תשובה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה תוכן החיבור",
+  "aliases": [
+   "Mishneh Torah, Overview of Mishneh Torah Contents",
+   "משנה תורה תוכן החיבור",
+   "משנה תורה, תוכן החיבור",
+   "רמב\"ם תוכן החיבור",
+   "תוכן החיבור"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות בכורות",
+  "aliases": [
+   "Mishneh Torah, Firstlings",
+   "הלכות בכורות",
+   "משנה תורה הלכות בכורות",
+   "משנה תורה, הלכות בכורות",
+   "רמב\"ם הלכות בכורות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מעשרות",
+  "aliases": [
+   "Mishneh Torah, Tithes",
+   "הלכות מעשרות",
+   "משנה תורה הלכות מעשרות",
+   "משנה תורה, הלכות מעשרות",
+   "רמב\"ם הלכות מעשרות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מקואות",
+  "aliases": [
+   "Mishneh Torah, Immersion Pools",
+   "הלכות מקואות",
+   "משנה תורה הלכות מקואות",
+   "משנה תורה, הלכות מקואות",
+   "רמב\"ם הלכות מקואות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות נזירות",
+  "aliases": [
+   "Mishneh Torah, Nazariteship",
+   "הלכות נזירות",
+   "משנה תורה הלכות נזירות",
+   "משנה תורה, הלכות נזירות",
+   "רמב\"ם הלכות נזירות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שבועות",
+  "aliases": [
+   "Mishneh Torah, Oaths",
+   "הלכות שבועות",
+   "משנה תורה הלכות שבועות",
+   "משנה תורה, הלכות שבועות",
+   "רמב\"ם הלכות שבועות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שכירות",
+  "aliases": [
+   "Mishneh Torah, Hiring",
+   "הלכות שכירות",
+   "משנה תורה הלכות שכירות",
+   "משנה תורה, הלכות שכירות",
+   "רמב\"ם הלכות שכירות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תעניות",
+  "aliases": [
+   "Mishneh Torah, Fasts",
+   "הלכות תעניות",
+   "משנה תורה הלכות תעניות",
+   "משנה תורה, הלכות תעניות",
+   "רמב\"ם הלכות תעניות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תרומות",
+  "aliases": [
+   "Mishneh Torah, Heave Offerings",
+   "הלכות תרומות",
+   "משנה תורה הלכות תרומות",
+   "משנה תורה, הלכות תרומות",
+   "רמב\"ם הלכות תרומות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות גירושין",
+  "aliases": [
+   "Mishneh Torah, Divorce",
+   "הלכות גירושין",
+   "משנה תורה הלכות גירושין",
+   "משנה תורה, הלכות גירושין",
+   "רמב\"ם הלכות גירושין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות עירובין",
+  "aliases": [
+   "Mishneh Torah, Eruvin",
+   "הלכות עירובין",
+   "משנה תורה הלכות עירובין",
+   "משנה תורה, הלכות עירובין",
+   "רמב\"ם הלכות עירובין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה מצוות לא תעשה",
+  "aliases": [
+   "Mishneh Torah, Negative Mitzvot",
+   "מצוות לא תעשה",
+   "משנה תורה מצוות לא תעשה",
+   "משנה תורה, מצוות לא תעשה",
+   "רמב\"ם מצוות לא תעשה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "מצוה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות חמץ ומצה",
+  "aliases": [
+   "Mishneh Torah, Leavened and Unleavened Bread",
+   "הלכות חמץ ומצה",
+   "משנה תורה הלכות חמץ ומצה",
+   "משנה תורה, הלכות חמץ ומצה",
+   "רמב\"ם הלכות חמץ ומצה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות טומאת מת",
+  "aliases": [
+   "Mishneh Torah, Defilement by a Corpse",
+   "הלכות טומאת מת",
+   "משנה תורה הלכות טומאת מת",
+   "משנה תורה, הלכות טומאת מת",
+   "רמב\"ם הלכות טומאת מת"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות קרבן פסח",
+  "aliases": [
+   "Mishneh Torah, Paschal Offering",
+   "הלכות קרבן פסח",
+   "משנה תורה הלכות קרבן פסח",
+   "משנה תורה, הלכות קרבן פסח",
+   "רמב\"ם הלכות קרבן פסח"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות ביאת מקדש",
+  "aliases": [
+   "Mishneh Torah, Admission into the Sanctuary",
+   "הלכות ביאת מקדש",
+   "משנה תורה הלכות ביאת מקדש",
+   "משנה תורה, הלכות ביאת מקדש",
+   "רמב\"ם הלכות ביאת מקדש"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות נזקי ממון",
+  "aliases": [
+   "Mishneh Torah, Damages to Property",
+   "הלכות נזקי ממון",
+   "משנה תורה הלכות נזקי ממון",
+   "משנה תורה, הלכות נזקי ממון",
+   "רמב\"ם הלכות נזקי ממון"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות פרה אדומה",
+  "aliases": [
+   "Mishneh Torah, Red Heifer",
+   "הלכות פרה אדומה",
+   "משנה תורה הלכות פרה אדומה",
+   "משנה תורה, הלכות פרה אדומה",
+   "רמב\"ם הלכות פרה אדומה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות קריאת שמע",
+  "aliases": [
+   "Mishneh Torah, Reading the Shema",
+   "הלכות קריאת שמע",
+   "משנה תורה הלכות קריאת שמע",
+   "משנה תורה, הלכות קריאת שמע",
+   "רמב\"ם הלכות קריאת שמע"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות בית הבחירה",
+  "aliases": [
+   "Mishneh Torah, The Chosen Temple",
+   "הלכות בית הבחירה",
+   "משנה תורה הלכות בית הבחירה",
+   "משנה תורה, הלכות בית הבחירה",
+   "רמב\"ם הלכות בית הבחירה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות חובל ומזיק",
+  "aliases": [
+   "Mishneh Torah, One Who Injures a Person or Property",
+   "הלכות חובל ומזיק",
+   "משנה תורה הלכות חובל ומזיק",
+   "משנה תורה, הלכות חובל ומזיק",
+   "רמב\"ם הלכות חובל ומזיק"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות טומאת צרעת",
+  "aliases": [
+   "Mishneh Torah, Defilement by Leprosy",
+   "הלכות טומאת צרעת",
+   "משנה תורה הלכות טומאת צרעת",
+   "משנה תורה, הלכות טומאת צרעת",
+   "רמב\"ם הלכות טומאת צרעת"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות טוען ונטען",
+  "aliases": [
+   "Mishneh Torah, Plaintiff and Defendant",
+   "הלכות טוען ונטען",
+   "משנה תורה הלכות טוען ונטען",
+   "משנה תורה, הלכות טוען ונטען",
+   "רמב\"ם הלכות טוען ונטען"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות נערה בתולה",
+  "aliases": [
+   "Mishneh Torah, Virgin Maiden",
+   "הלכות נערה בתולה",
+   "משנה תורה הלכות נערה בתולה",
+   "משנה תורה, הלכות נערה בתולה",
+   "רמב\"ם הלכות נערה בתולה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תלמוד תורה",
+  "aliases": [
+   "Mishneh Torah, Torah Study",
+   "הלכות תלמוד תורה",
+   "משנה תורה הלכות תלמוד תורה",
+   "משנה תורה, הלכות תלמוד תורה",
+   "רמב\"ם הלכות תלמוד תורה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות איסורי ביאה",
+  "aliases": [
+   "Mishneh Torah, Forbidden Intercourse",
+   "הלכות איסורי ביאה",
+   "משנה תורה הלכות איסורי ביאה",
+   "משנה תורה, הלכות איסורי ביאה",
+   "רמב\"ם הלכות איסורי ביאה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות זכייה ומתנה",
+  "aliases": [
+   "Mishneh Torah, Ownerless Property and Gifts",
+   "הלכות זכייה ומתנה",
+   "משנה תורה הלכות זכייה ומתנה",
+   "משנה תורה, הלכות זכייה ומתנה",
+   "רמב\"ם הלכות זכייה ומתנה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות יבום וחליצה",
+  "aliases": [
+   "Mishneh Torah, Levirate Marriage and Release",
+   "הלכות יבום וחליצה",
+   "משנה תורה הלכות יבום וחליצה",
+   "משנה תורה, הלכות יבום וחליצה",
+   "רמב\"ם הלכות יבום וחליצה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות יסודי התורה",
+  "aliases": [
+   "Mishneh Torah, Foundations of the Torah",
+   "הלכות יסודי התורה",
+   "משנה תורה הלכות יסודי התורה",
+   "משנה תורה, הלכות יסודי התורה",
+   "רמב\"ם הלכות יסודי התורה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מחוסרי כפרה",
+  "aliases": [
+   "Mishneh Torah, Offerings for Those with Incomplete Atonement",
+   "הלכות מחוסרי כפרה",
+   "משנה תורה הלכות מחוסרי כפרה",
+   "משנה תורה, הלכות מחוסרי כפרה",
+   "רמב\"ם הלכות מחוסרי כפרה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מלווה ולווה",
+  "aliases": [
+   "Mishneh Torah, Creditor and Debtor",
+   "הלכות מלווה ולווה",
+   "משנה תורה הלכות מלווה ולווה",
+   "משנה תורה, הלכות מלווה ולווה",
+   "רמב\"ם הלכות מלווה ולווה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מתנות עניים",
+  "aliases": [
+   "Mishneh Torah, Gifts to the Poor",
+   "הלכות מתנות עניים",
+   "משנה תורה הלכות מתנות עניים",
+   "משנה תורה, הלכות מתנות עניים",
+   "רמב\"ם הלכות מתנות עניים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות קידוש החודש",
+  "aliases": [
+   "Mishneh Torah, Sanctification of the New Month",
+   "הלכות קידוש החודש",
+   "משנה תורה הלכות קידוש החודש",
+   "משנה תורה, הלכות קידוש החודש",
+   "רמב\"ם הלכות קידוש החודש"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שמיטה ויובל",
+  "aliases": [
+   "Mishneh Torah, Sabbatical Year and the Jubilee",
+   "הלכות שמיטה ויובל",
+   "משנה תורה הלכות שמיטה ויובל",
+   "משנה תורה, הלכות שמיטה ויובל",
+   "רמב\"ם הלכות שמיטה ויובל"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות גזילה ואבידה",
+  "aliases": [
+   "Mishneh Torah, Robbery and Lost Property",
+   "הלכות גזילה ואבידה",
+   "משנה תורה הלכות גזילה ואבידה",
+   "משנה תורה, הלכות גזילה ואבידה",
+   "רמב\"ם הלכות גזילה ואבידה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות טומאת אוכלים",
+  "aliases": [
+   "Mishneh Torah, Defilement of Foods",
+   "הלכות טומאת אוכלים",
+   "משנה תורה הלכות טומאת אוכלים",
+   "משנה תורה, הלכות טומאת אוכלים",
+   "רמב\"ם הלכות טומאת אוכלים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מגילה וחנוכה",
+  "aliases": [
+   "Mishneh Torah, Scroll of Esther and Hanukkah",
+   "הלכות מגילה וחנוכה",
+   "משנה תורה הלכות מגילה וחנוכה",
+   "משנה תורה, הלכות מגילה וחנוכה",
+   "רמב\"ם הלכות מגילה וחנוכה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מעשה הקרבנות",
+  "aliases": [
+   "Mishneh Torah, Sacrificial Procedure",
+   "הלכות מעשה הקרבנות",
+   "משנה תורה הלכות מעשה הקרבנות",
+   "משנה תורה, הלכות מעשה הקרבנות",
+   "רמב\"ם הלכות מעשה הקרבנות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות ערכים וחרמין",
+  "aliases": [
+   "Mishneh Torah, Appraisals and Devoted Property",
+   "הלכות ערכים וחרמין",
+   "משנה תורה הלכות ערכים וחרמין",
+   "משנה תורה, הלכות ערכים וחרמין",
+   "רמב\"ם הלכות ערכים וחרמין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שאלה ופיקדון",
+  "aliases": [
+   "Mishneh Torah, Borrowing and Deposit",
+   "הלכות שאלה ופיקדון",
+   "משנה תורה הלכות שאלה ופיקדון",
+   "משנה תורה, הלכות שאלה ופיקדון",
+   "רמב\"ם הלכות שאלה ופיקדון"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה מסירת תורה שבעל פה",
+  "aliases": [
+   "Mishneh Torah, Transmission of the Oral Law",
+   "מסירת תורה שבעל פה",
+   "משנה תורה מסירת תורה שבעל פה",
+   "משנה תורה, מסירת תורה שבעל פה",
+   "רמב\"ם מסירת תורה שבעל פה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מאכלות אסורות",
+  "aliases": [
+   "Mishneh Torah, Forbidden Foods",
+   "הלכות מאכלות אסורות",
+   "משנה תורה הלכות מאכלות אסורות",
+   "משנה תורה, הלכות מאכלות אסורות",
+   "רמב\"ם הלכות מאכלות אסורות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מלכים ומלחמות",
+  "aliases": [
+   "Mishneh Torah, Kings and Wars",
+   "הלכות מלכים ומלחמות",
+   "משנה תורה הלכות מלכים ומלחמות",
+   "משנה תורה, הלכות מלכים ומלחמות",
+   "רמב\"ם הלכות מלכים ומלחמות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות פסולי המוקדשין",
+  "aliases": [
+   "Mishneh Torah, Sacrifices Rendered Unfit",
+   "הלכות פסולי המוקדשין",
+   "משנה תורה הלכות פסולי המוקדשין",
+   "משנה תורה, הלכות פסולי המוקדשין",
+   "רמב\"ם הלכות פסולי המוקדשין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שלוחין ושותפין",
+  "aliases": [
+   "Mishneh Torah, Agents and Partners",
+   "הלכות שלוחין ושותפין",
+   "משנה תורה הלכות שלוחין ושותפין",
+   "משנה תורה, הלכות שלוחין ושותפין",
+   "רמב\"ם הלכות שלוחין ושותפין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תמידים ומוספין",
+  "aliases": [
+   "Mishneh Torah, Daily Offerings and Additional Offerings",
+   "הלכות תמידים ומוספין",
+   "משנה תורה הלכות תמידים ומוספין",
+   "משנה תורה, הלכות תמידים ומוספין",
+   "רמב\"ם הלכות תמידים ומוספין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות רוצח ושמירת נפש",
+  "aliases": [
+   "Mishneh Torah, Murderer and the Preservation of Life",
+   "הלכות רוצח ושמירת נפש",
+   "משנה תורה הלכות רוצח ושמירת נפש",
+   "משנה תורה, הלכות רוצח ושמירת נפש",
+   "רמב\"ם הלכות רוצח ושמירת נפש"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "ביאור שטיינזלץ הקדמות למשנה תורה",
+  "aliases": [
+   "Steinsaltz Introductions to Mishneh Torah",
+   "ביאור שטיינזלץ הקדמות למשנה תורה",
+   "ביאור שטיינזלץ, הקדמות למשנה תורה",
+   "הקדמות למשנה תורה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מטמאי משכב ומושב",
+  "aliases": [
+   "Mishneh Torah, Those Who Defile Bed or Seat",
+   "הלכות מטמאי משכב ומושב",
+   "משנה תורה הלכות מטמאי משכב ומושב",
+   "משנה תורה, הלכות מטמאי משכב ומושב",
+   "רמב\"ם הלכות מטמאי משכב ומושב"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שאר אבות הטומאות",
+  "aliases": [
+   "Mishneh Torah, Other Sources of Defilement",
+   "הלכות שאר אבות הטומאות",
+   "משנה תורה הלכות שאר אבות הטומאות",
+   "משנה תורה, הלכות שאר אבות הטומאות",
+   "רמב\"ם הלכות שאר אבות הטומאות"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות שופר וסוכה ולולב",
+  "aliases": [
+   "Mishneh Torah, Shofar, Sukkah and Lulav",
+   "הלכות שופר וסוכה ולולב",
+   "משנה תורה הלכות שופר וסוכה ולולב",
+   "משנה תורה, הלכות שופר וסוכה ולולב",
+   "רמב\"ם הלכות שופר וסוכה ולולב"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תפילה וברכת כהנים",
+  "aliases": [
+   "Mishneh Torah, Prayer and the Priestly Blessing",
+   "הלכות תפילה וברכת כהנים",
+   "משנה תורה הלכות תפילה וברכת כהנים",
+   "משנה תורה, הלכות תפילה וברכת כהנים",
+   "רמב\"ם הלכות תפילה וברכת כהנים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות מעשר שני ונטע רבעי",
+  "aliases": [
+   "Mishneh Torah, Second Tithes and Fourth Year's Fruit",
+   "הלכות מעשר שני ונטע רבעי",
+   "משנה תורה הלכות מעשר שני ונטע רבעי",
+   "משנה תורה, הלכות מעשר שני ונטע רבעי",
+   "רמב\"ם הלכות מעשר שני ונטע רבעי"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות כלי המקדש והעובדין בו",
+  "aliases": [
+   "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein",
+   "הלכות כלי המקדש והעובדין בו",
+   "משנה תורה הלכות כלי המקדש והעובדין בו",
+   "משנה תורה, הלכות כלי המקדש והעובדין בו",
+   "רמב\"ם הלכות כלי המקדש והעובדין בו"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות עבודה זרה וחוקות הגויים",
+  "aliases": [
+   "Mishneh Torah, Foreign Worship and Customs of the Nations",
+   "הלכות עבודה זרה וחוקות הגויים",
+   "משנה תורה הלכות עבודה זרה וחוקות הגויים",
+   "משנה תורה, הלכות עבודה זרה וחוקות הגויים",
+   "רמב\"ם הלכות עבודה זרה וחוקות הגויים"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות תפילין ומזוזה וספר תורה",
+  "aliases": [
+   "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll",
+   "הלכות תפילין ומזוזה וספר תורה",
+   "משנה תורה הלכות תפילין ומזוזה וספר תורה",
+   "משנה תורה, הלכות תפילין ומזוזה וספר תורה",
+   "רמב\"ם הלכות תפילין ומזוזה וספר תורה"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות סנהדרין והעונשין המסורין להם",
+  "aliases": [
+   "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction",
+   "הלכות סנהדרין והעונשין המסורין להם",
+   "משנה תורה הלכות סנהדרין והעונשין המסורין להם",
+   "משנה תורה, הלכות סנהדרין והעונשין המסורין להם",
+   "רמב\"ם הלכות סנהדרין והעונשין המסורין להם"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "משנה תורה הלכות ביכורים ושאר מתנות כהונה שבגבולין",
+  "aliases": [
+   "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary",
+   "הלכות ביכורים ושאר מתנות כהונה שבגבולין",
+   "משנה תורה הלכות ביכורים ושאר מתנות כהונה שבגבולין",
+   "משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין",
+   "רמב\"ם הלכות ביכורים ושאר מתנות כהונה שבגבולין"
+  ],
+  "category": "rambam",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "ספרא",
+  "aliases": [
+   "Sifra",
+   "ספרא"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "רות רבה",
+  "aliases": [
+   "Ruth Rabbah",
+   "רות רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "איכה רבה",
+  "aliases": [
+   "Eikhah Rabbah",
+   "איכה רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אסתר רבה",
+  "aliases": [
+   "Esther Rabbah",
+   "אסתר רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עין יעקב",
+  "aliases": [
+   "Ein Yaakov",
+   "עין יעקב"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שמות רבה",
+  "aliases": [
+   "Shemot Rabbah",
+   "שמות רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "במדבר רבה",
+  "aliases": [
+   "Bamidbar Rabbah",
+   "במדבר רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דברים רבה",
+  "aliases": [
+   "Devarim Rabbah",
+   "דברים רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ויקרא רבה",
+  "aliases": [
+   "Vayikra Rabbah",
+   "ויקרא רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדרש אגדה",
+  "aliases": [
+   "Midrash Aggadah",
+   "אגדה",
+   "מדרש אגדה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מדרש משלי",
+  "aliases": [
+   "Midrash Mishlei",
+   "מדרש משלי",
+   "משלי"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "ספרי זוטא",
+  "aliases": [
+   "Sifrei Zuta",
+   "ספרי זוטא"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "קוהלת רבה",
+  "aliases": [
+   "Kohelet Rabbah",
+   "קוהלת רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרשה",
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בראשית רבה",
+  "aliases": [
+   "Bereshit Rabbah",
+   "בראשית רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספרי במדבר",
+  "aliases": [
+   "Sifrei Bamidbar",
+   "ספרי במדבר"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספרי דברים",
+  "aliases": [
+   "Sifrei Devarim",
+   "ספרי דברים"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגדת בראשית",
+  "aliases": [
+   "Aggadat Bereshit",
+   "אגדת בראשית"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אוצר מדרשים",
+  "aliases": [
+   "Otzar Midrashim",
+   "אוצר מדרשים"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בראשית רבתי",
+  "aliases": [
+   "Bereshit Rabbati",
+   "בראשית רבתי"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדרש תהילים",
+  "aliases": [
+   "Midrash Tehillim",
+   "מדרש תהילים",
+   "תהילים"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "מזמור",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "מדרש תנחומא",
+  "aliases": [
+   "Midrash Tanchuma",
+   "מדרש תנחומא",
+   "תנחומא"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פסיקתא רבתי",
+  "aliases": [
+   "Pesikta Rabbati",
+   "פסיקתא רבתי"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "תנחומא בובר",
+  "aliases": [
+   "Midrash Tanchuma Buber",
+   "תנחומא בובר"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדרש לקח טוב",
+  "aliases": [
+   "Midrash Lekach Tov",
+   "לקח טוב",
+   "מדרש לקח טוב"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מדרש שכל טוב",
+  "aliases": [
+   "Midrash Sekhel Tov",
+   "מדרש שכל טוב",
+   "שכל טוב"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "סדר עולם רבה",
+  "aliases": [
+   "Seder Olam Rabbah",
+   "סדר עולם רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגדות היהודים",
+  "aliases": [
+   "Legends of the Jews",
+   "אגדות היהודים"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "כרך",
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "סדר עולם זוטא",
+  "aliases": [
+   "Seder Olam Zutta",
+   "סדר עולם זוטא"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לפשוטו של מדרש",
+  "aliases": [
+   "Learning to Read Midrash",
+   "לפשוטו של מדרש"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שיר השירים רבה",
+  "aliases": [
+   "Shir HaShirim Rabbah",
+   "שיר השירים רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרשה",
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "משנת רבי אליעזר",
+  "aliases": [
+   "Mishnat Rabbi Eliezer",
+   "משנת רבי אליעזר"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרשה",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פסיקתא דרב כהנא",
+  "aliases": [
+   "Pesikta DeRav Kahana",
+   "פסיקתא דרב כהנא"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה",
+   ""
+  ]
+ },
+ {
+  "canonical": "פרקי דרבי אליעזר",
+  "aliases": [
+   "Pirkei DeRabbi Eliezer",
+   "פרקי דרבי אליעזר"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תנא דבי אליהו רבה",
+  "aliases": [
+   "Tanna DeBei Eliyahu Rabbah",
+   "תנא דבי אליהו רבה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מכילתא דרבי ישמעאל",
+  "aliases": [
+   "Mekhilta DeRabbi Yishmael",
+   "מכילתא דרבי ישמעאל"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תנא דבי אליהו זוטא",
+  "aliases": [
+   "Tanna DeBei Eliyahu Zuta",
+   "תנא דבי אליהו זוטא"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספרי זוטא; מדרשה של לוד",
+  "aliases": [
+   "Sifrei Zuta; Midrashah shel Lod",
+   "ספרי זוטא; מדרשה של לוד"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מכילתא דרבי שמעון בן יוחאי",
+  "aliases": [
+   "Mekhilta DeRabbi Shimon Ben Yochai",
+   "מכילתא דרבי שמעון בן יוחאי"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מדרש ילמדנו מתוך ילקוט תלמוד תורה",
+  "aliases": [
+   "Midrash Yelamdenu, Selections from Yalkut Talmud Torah",
+   "ילמדנו מתוך ילקוט תלמוד תורה",
+   "מדרש ילמדנו מתוך ילקוט תלמוד תורה"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "רות רבה (לרנר)",
+  "aliases": [
+   "Ruth Rabbah (Lerner)",
+   "רות רבה",
+   "רות רבה (לרנר)"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרשה",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "ספר הישר (מדרש)",
+  "aliases": [
+   "Sefer HaYashar (midrash)",
+   "הישר (מדרש)",
+   "ספר הישר",
+   "ספר הישר (מדרש)"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עין יעקב (מאת שמואל צבי גליק)",
+  "aliases": [
+   "Ein Yaakov (Glick Edition)",
+   "עין יעקב",
+   "עין יעקב (מאת שמואל צבי גליק)"
+  ],
+  "category": "midrash",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חכם צבי",
+  "aliases": [
+   "Chakham Tzvi",
+   "חכם צבי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מטה לוי",
+  "aliases": [
+   "Mateh Levi",
+   "מטה לוי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "באר יצחק",
+  "aliases": [
+   "Be'er Yitzchak",
+   "באר יצחק"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יין הטוב",
+  "aliases": [
+   "Yein HaTov",
+   "יין הטוב"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אבקת רוכל",
+  "aliases": [
+   "Avkat Rokhel",
+   "אבקת רוכל"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אדמת קודש",
+  "aliases": [
+   "Admat Kodesh",
+   "אדמת קודש"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בנין עולם",
+  "aliases": [
+   "Binyan Olam",
+   "בנין עולם"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בנין ציון",
+  "aliases": [
+   "Binyan Tziyon",
+   "בנין ציון"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חוות יאיר",
+  "aliases": [
+   "Havot Yair",
+   "חוות יאיר"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נשמת הבית",
+  "aliases": [
+   "Nishmat HaBayit",
+   "נשמת הבית"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת הר\"ן",
+  "aliases": [
+   "Teshuvot HaRan",
+   "שו\"ת הר\"ן"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דברי ריבות",
+  "aliases": [
+   "Divrei Rivot",
+   "דברי ריבות"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חזה התנופה",
+  "aliases": [
+   "Chazeh Hatenufa",
+   "חזה התנופה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "מהר\"י וייל",
+  "aliases": [
+   "Mahari Weil",
+   "מהר\"י וייל"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר התשב\"ץ",
+  "aliases": [
+   "Sefer HaTashbetz",
+   "התשב\"ץ",
+   "ספר התשב\"ץ"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שאילת יעבץ",
+  "aliases": [
+   "Sheilat Yaavetz",
+   "שאילת יעבץ"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תורת נתנאל",
+  "aliases": [
+   "Torat Netanel",
+   "תורת נתנאל"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תרומת הדשן",
+  "aliases": [
+   "Terumat HaDeshen",
+   "תרומת הדשן"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "הלכות קטנות",
+  "aliases": [
+   "Halakhot Ketanot",
+   "הלכות קטנות"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "כרך של רומי",
+  "aliases": [
+   "Kerakh shel Romi",
+   "כרך של רומי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מהר\"י ברונא",
+  "aliases": [
+   "Mahari Bruna",
+   "מהר\"י ברונא"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרי\"ט",
+  "aliases": [
+   "Teshuvot Maharit",
+   "שו\"ת מהרי\"ט"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרי\"ל",
+  "aliases": [
+   "Teshuvot Maharil",
+   "שו\"ת מהרי\"ל"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרי\"ק",
+  "aliases": [
+   "Teshuvot Maharik",
+   "שו\"ת מהרי\"ק"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות רש\"י",
+  "aliases": [
+   "Teshuvot Rashi",
+   "תשובות רש\"י"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "האלף לך שלמה",
+  "aliases": [
+   "HaElef Lekha Shlomo",
+   "האלף לך שלמה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משפטי עוזיאל",
+  "aliases": [
+   "Mishpetei Uziel",
+   "משפטי עוזיאל"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרשד\"ם",
+  "aliases": [
+   "Responsa Maharashdam",
+   "שו\"ת מהרשד\"ם"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרא\"ש",
+  "aliases": [
+   "Teshuvot HaRosh",
+   "תשובות הרא\"ש"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "כלל",
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "תשובות מהר\"ם",
+  "aliases": [
+   "Teshuvot Maharam",
+   "תשובות מהר\"ם"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "איגרות הרמב\"ם",
+  "aliases": [
+   "Iggerot HaRambam",
+   "איגרות הרמב\"ם"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת בני בנים",
+  "aliases": [
+   "Responsa Benei Banim",
+   "שו\"ת בני בנים"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "שו\"ת חתם סופר",
+  "aliases": [
+   "Responsa Chatam Sofer",
+   "שו\"ת חתם סופר"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת רב פעלים",
+  "aliases": [
+   "Responsa Rav Pealim",
+   "שו\"ת רב פעלים"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "תשובות הריב\"ש",
+  "aliases": [
+   "Teshuvot HaRivash",
+   "תשובות הריב\"ש"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרמב\"ם",
+  "aliases": [
+   "Teshuvot HaRambam",
+   "תשובות הרמב\"ם"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרשב\"ש",
+  "aliases": [
+   "Teshuvot HaRashbash",
+   "תשובות הרשב\"ש"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות מהרש\"ל",
+  "aliases": [
+   "Teshuvot Maharshal",
+   "תשובות מהרש\"ל"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מרכז לינדנבאום",
+  "aliases": [
+   "Lindenbaum Center",
+   "מרכז לינדנבאום"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "תשובות בית חדש",
+  "aliases": [
+   "Teshuvot Bayit Chadash",
+   "תשובות בית חדש"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הגאונים",
+  "aliases": [
+   "Teshuvot HaGeonim",
+   "תשובות הגאונים"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הריטב\"א",
+  "aliases": [
+   "Teshuvot HaRitva",
+   "תשובות הריטב\"א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות משיב דבר",
+  "aliases": [
+   "Teshuvot Meshiv Davar",
+   "תשובות משיב דבר"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שאגת אריה החדשות",
+  "aliases": [
+   "Sha'agat Aryeh HaChadashot",
+   "שאגת אריה החדשות"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תורתן של ראשונים",
+  "aliases": [
+   "Toratan shel Rishonim",
+   "תורתן של ראשונים"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מלמד להועיל חלק א",
+  "aliases": [
+   "Melammed Lehoil Part I",
+   "מלמד להועיל חלק א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מלמד להועיל חלק ב",
+  "aliases": [
+   "Melammed Lehoil Part II",
+   "מלמד להועיל חלק ב"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מלמד להועיל חלק ג",
+  "aliases": [
+   "Melammed Lehoil Part III",
+   "מלמד להועיל חלק ג"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת הרשב\"א חלק א",
+  "aliases": [
+   "Teshuvot haRashba part I",
+   "שו\"ת הרשב\"א חלק א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת הרשב\"א חלק ד",
+  "aliases": [
+   "Teshuvot haRashba part IV",
+   "שו\"ת הרשב\"א חלק ד"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "שו\"ת הרשב\"א חלק ה",
+  "aliases": [
+   "Teshuvot haRashba part V",
+   "שו\"ת הרשב\"א חלק ה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "שו\"ת הרשב\"א חלק ו",
+  "aliases": [
+   "Teshuvot haRashba part VI",
+   "שו\"ת הרשב\"א חלק ו"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "שו\"ת הרשב\"א חלק ז",
+  "aliases": [
+   "Teshuvot haRashba part VII",
+   "שו\"ת הרשב\"א חלק ז"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "שו\"ת חידושי הרי\"מ",
+  "aliases": [
+   "Chiddushei HaRim Responsa",
+   "שו\"ת חידושי הרי\"מ"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהר\"ם פדוואה",
+  "aliases": [
+   "Responsa Maharam of Padua",
+   "שו\"ת מהר\"ם פדוואה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרש\"ם חלק א",
+  "aliases": [
+   "Teshuvot Maharsham Volume I",
+   "שו\"ת מהרש\"ם חלק א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרש\"ם חלק ב",
+  "aliases": [
+   "Teshuvot Maharsham Volume II",
+   "שו\"ת מהרש\"ם חלק ב"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת מהרש\"ם חלק ג",
+  "aliases": [
+   "Teshuvot Maharsham Volume III",
+   "שו\"ת מהרש\"ם חלק ג"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובה מאהבה חלק א",
+  "aliases": [
+   "Teshuva MeAhava Part I",
+   "תשובה מאהבה חלק א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הר\"י מיגאש",
+  "aliases": [
+   "Teshuvot HaRi Migash",
+   "תשובות הר\"י מיגאש"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרת רב שרירא גאון",
+  "aliases": [
+   "Epistle of Rav Sherira Gaon",
+   "אגרת רב שרירא גאון"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בדי הארון - שביעית",
+  "aliases": [
+   "Badei HaAron; Sheviit",
+   "בדי הארון - שביעית"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שאלות ותשובות רמ\"א",
+  "aliases": [
+   "Responsa of Rema",
+   "שאלות ותשובות רמ\"א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לַכְּלָל וְלַפְּרָט",
+  "aliases": [
+   "LaKelal VeLaPerat",
+   "לַכְּלָל וְלַפְּרָט"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרדב\"ז חלק א",
+  "aliases": [
+   "Teshuvot HaRadbaz Volume 1",
+   "תשובות הרדב\"ז חלק א"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרדב\"ז חלק ב",
+  "aliases": [
+   "Teshuvot HaRadbaz Volume 2",
+   "תשובות הרדב\"ז חלק ב"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרדב\"ז חלק ג",
+  "aliases": [
+   "Teshuvot HaRadbaz Volume 3",
+   "תשובות הרדב\"ז חלק ג"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרדב\"ז חלק ד",
+  "aliases": [
+   "Teshuvot HaRadbaz Volume 4",
+   "תשובות הרדב\"ז חלק ד"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרדב\"ז חלק ה",
+  "aliases": [
+   "Teshuvot HaRadbaz Volume 5",
+   "תשובות הרדב\"ז חלק ה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות הרדב\"ז חלק ו",
+  "aliases": [
+   "Teshuvot HaRadbaz Volume 6",
+   "תשובות הרדב\"ז חלק ו"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מוספיה תשובות הגאונים",
+  "aliases": [
+   "Musafia Teshuvot HaGeonim",
+   "מוספיה תשובות הגאונים"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שואל ומשיב מהדורא קמא",
+  "aliases": [
+   "Shoel uMeshiv Mahadura I",
+   "שואל ומשיב מהדורא קמא"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "כרך",
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "תשובות מהר\"ח אור זרוע",
+  "aliases": [
+   "Maharach Or Zarua Responsa",
+   "תשובות מהר\"ח אור זרוע"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תשובות רבי עקיבא איגר",
+  "aliases": [
+   "Teshuvot Rabbi Akiva Eiger",
+   "תשובות רבי עקיבא איגר"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נודע ביהודה מהדורא קמא",
+  "aliases": [
+   "Noda BiYehudah I",
+   "נודע ביהודה מהדורא קמא"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פאר הדור תשובות הרמב\"ם",
+  "aliases": [
+   "Pe'er HaDor Teshuvot HaRambam",
+   "פאר הדור תשובות הרמב\"ם"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שאלות ותשובות מן השמים",
+  "aliases": [
+   "Teshuvot Min HaShamayim",
+   "שאלות ותשובות מן השמים"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק שני",
+  "aliases": [
+   "B'Mareh HaBazak Volume II",
+   "שו\"ת במראה הבזק חלק שני"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שואל ומשיב מהדורא תנינא",
+  "aliases": [
+   "Shoel uMeshiv Mahadura II",
+   "שואל ומשיב מהדורא תנינא"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "כרך",
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "נודע ביהודה מהדורא תנינא",
+  "aliases": [
+   "Noda BiYehudah II",
+   "נודע ביהודה מהדורא תנינא"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק שישי",
+  "aliases": [
+   "B'Mareh HaBazak Volume VI",
+   "שו\"ת במראה הבזק חלק שישי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שואל ומשיב מהדורא חמישאה",
+  "aliases": [
+   "Shoel uMeshiv Mahadura V",
+   "שואל ומשיב מהדורא חמישאה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שואל ומשיב מהדורא רביעאה",
+  "aliases": [
+   "Shoel uMeshiv Mahadura IV",
+   "שואל ומשיב מהדורא רביעאה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "כרך",
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "שואל ומשיב מהדורא שתיתאה",
+  "aliases": [
+   "Shoel uMeshiv Mahadura VI",
+   "שואל ומשיב מהדורא שתיתאה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שואל ומשיב מהדורא תליתאה",
+  "aliases": [
+   "Shoel uMeshiv Mahadura III",
+   "שואל ומשיב מהדורא תליתאה"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "כרך",
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק חמישי",
+  "aliases": [
+   "B'Mareh HaBazak Volume V",
+   "שו\"ת במראה הבזק חלק חמישי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק עשירי",
+  "aliases": [
+   "B'Mareh HaBazak Volume X",
+   "שו\"ת במראה הבזק חלק עשירי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק ראשון",
+  "aliases": [
+   "B'Mareh HaBazak Volume I",
+   "שו\"ת במראה הבזק חלק ראשון"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק רביעי",
+  "aliases": [
+   "B'Mareh HaBazak Volume IV",
+   "שו\"ת במראה הבזק חלק רביעי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שו\"ת במראה הבזק חלק שביעי",
+  "aliases": [
+   "B'Mareh HaBazak Volume VII",
+   "שו\"ת במראה הבזק חלק שביעי"
+  ],
+  "category": "responsa",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חורב",
+  "aliases": [
+   "Horeb",
+   "חורב"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תניא",
+  "aliases": [
+   "Tanya",
+   "תניא"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אורות",
+  "aliases": [
+   "Orot",
+   "אורות"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אור ה'",
+  "aliases": [
+   "Ohr Hashem",
+   "אור ה'"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בת עין",
+  "aliases": [
+   "Bat Ayin",
+   "בת עין"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרך ה'",
+  "aliases": [
+   "Derekh Hashem",
+   "דרך ה'"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הכוזרי",
+  "aliases": [
+   "Kuzari",
+   "הכוזרי"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "מאמר",
+   ""
+  ]
+ },
+ {
+  "canonical": "מטה דן",
+  "aliases": [
+   "Matteh Dan",
+   "מטה דן"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פת לחם",
+  "aliases": [
+   "Pat Lechem",
+   "פת לחם"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אש קודש",
+  "aliases": [
+   "Esh Kodesh",
+   "אש קודש"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "גן נעול",
+  "aliases": [
+   "Gan Naul",
+   "גן נעול"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יקר מפז",
+  "aliases": [
+   "Yakar MiPaz",
+   "יקר מפז"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "כד הקמח",
+  "aliases": [
+   "Kad HaKemach",
+   "כד הקמח"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "נר מצוה",
+  "aliases": [
+   "Ner Mitzvah",
+   "נר מצוה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קב הישר",
+  "aliases": [
+   "Kav HaYashar",
+   "קב הישר"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שפת אמת",
+  "aliases": [
+   "Sefat Emet",
+   "שפת אמת"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אהבת דוד",
+  "aliases": [
+   "Ahavat David",
+   "אהבת דוד"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אמרי שפר",
+  "aliases": [
+   "Imrei Shefer",
+   "אמרי שפר"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בית אהרן",
+  "aliases": [
+   "Beit Aharon",
+   "בית אהרן"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דבר בעתו",
+  "aliases": [
+   "Davar BeItto",
+   "דבר בעתו"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דברי אמת",
+  "aliases": [
+   "Divrei Emet",
+   "דברי אמת"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דובר צדק",
+  "aliases": [
+   "Dover Tzedek",
+   "דובר צדק"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרך המלך",
+  "aliases": [
+   "Derekh HaMelekh",
+   "דרך המלך"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "זרע קודש",
+  "aliases": [
+   "Zera Kodesh",
+   "זרע קודש"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ישמח משה",
+  "aliases": [
+   "Yismach Moshe",
+   "ישמח משה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדבר שור",
+  "aliases": [
+   "Midbar Shur",
+   "מדבר שור"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "דרוש",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מי השלוח",
+  "aliases": [
+   "Mei HaShiloach",
+   "מי השלוח"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "משיב צדק",
+  "aliases": [
+   "Meshiv Tzedek",
+   "משיב צדק"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר הישר",
+  "aliases": [
+   "Sefer HaYashar",
+   "הישר",
+   "ספר הישר"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ערבי נחל",
+  "aliases": [
+   "Arvei Nachal",
+   "ערבי נחל"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עת האוכל",
+  "aliases": [
+   "Et HaOchel",
+   "עת האוכל"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פלא יועץ",
+  "aliases": [
+   "Pele Yoetz",
+   "פלא יועץ"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרי הארץ",
+  "aliases": [
+   "Peri HaAretz",
+   "פרי הארץ"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרי צדיק",
+  "aliases": [
+   "Peri Tzadik",
+   "פרי צדיק"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "צו וזרוז",
+  "aliases": [
+   "Tzav VeZeruz",
+   "צו וזרוז"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קול התור",
+  "aliases": [
+   "Kol HaTor",
+   "קול התור"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "שבט מוסר",
+  "aliases": [
+   "Shevet Musar",
+   "שבט מוסר"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שקל הקדש",
+  "aliases": [
+   "Shekel HaKodesh",
+   "שקל הקדש"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תורה אור",
+  "aliases": [
+   "Torah Ohr",
+   "תורה אור"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תורת אמך",
+  "aliases": [
+   "Torah of the Mothers",
+   "תורת אמך"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרא דכלה",
+  "aliases": [
+   "Agra DeKala",
+   "אגרא דכלה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אור המאיר",
+  "aliases": [
+   "Ohr HaMeir",
+   "אור המאיר"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אור הצפון",
+  "aliases": [
+   "Ohr HaTzafun",
+   "אור הצפון"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אור ישראל",
+  "aliases": [
+   "Ohr Yisrael",
+   "אור ישראל"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אור לשמים",
+  "aliases": [
+   "Ohr LaShamayim",
+   "אור לשמים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אמרי בינה",
+  "aliases": [
+   "Imrei Binah",
+   "אמרי בינה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בית אלהים",
+  "aliases": [
+   "Beit Elohim",
+   "בית אלהים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בני יששכר",
+  "aliases": [
+   "Bnei Yissaschar",
+   "בני יששכר"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חיים וחסד",
+  "aliases": [
+   "Chayyim VaChesed",
+   "חיים וחסד"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חנה אריאל",
+  "aliases": [
+   "Chanah Ariel",
+   "חנה אריאל"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאור ושמש",
+  "aliases": [
+   "Maor VaShemesh",
+   "מאור ושמש"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאמר הדור",
+  "aliases": [
+   "Ma'amar Hador",
+   "מאמר הדור"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדרש פנחס",
+  "aliases": [
+   "Midrash Pinchas",
+   "מדרש פנחס",
+   "פנחס"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מוסר אביך",
+  "aliases": [
+   "Musar Avikha",
+   "מוסר אביך"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מרפא לנפש",
+  "aliases": [
+   "Marpeh la'Nefesh",
+   "מרפא לנפש"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נפש החיים",
+  "aliases": [
+   "Nefesh HaChayim",
+   "נפש החיים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נצח ישראל",
+  "aliases": [
+   "Netzach Yisrael",
+   "נצח ישראל"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נשמת חיים",
+  "aliases": [
+   "Nishmat Chayyim",
+   "נשמת חיים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סוד ישרים",
+  "aliases": [
+   "Sod Yesharim",
+   "סוד ישרים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר החיים",
+  "aliases": [
+   "Sefer HaChaim",
+   "החיים",
+   "ספר החיים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר היראה",
+  "aliases": [
+   "Sefer HaYirah",
+   "היראה",
+   "ספר היראה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר המדות",
+  "aliases": [
+   "Sefer HaMiddot",
+   "המדות",
+   "ספר המדות"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עולת ראיה",
+  "aliases": [
+   "Olat Reiyah",
+   "עולת ראיה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פניך אבקש",
+  "aliases": [
+   "Panekha Avakesh",
+   "פניך אבקש"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קדושת לוי",
+  "aliases": [
+   "Kedushat Levi",
+   "קדושת לוי"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שבחי הר\"ן",
+  "aliases": [
+   "Shivchei HaRan",
+   "שבחי הר\"ן"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שיחת שדים",
+  "aliases": [
+   "Sichat Shedim",
+   "שיחת שדים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שם משמואל",
+  "aliases": [
+   "Shem MiShmuel",
+   "שם משמואל"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרות צפון",
+  "aliases": [
+   "Nineteen Letters",
+   "אגרות צפון"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "אות",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרת הגר\"א",
+  "aliases": [
+   "Iggeret HaGra",
+   "אגרת הגר\"א"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אהבת ישראל",
+  "aliases": [
+   "Ahavat Yisrael",
+   "אהבת ישראל"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אוהב ישראל",
+  "aliases": [
+   "Ohev Yisrael",
+   "אוהב ישראל"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בחינת עולם",
+  "aliases": [
+   "Bechinat Olam",
+   "בחינת עולם"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "גבורות השם",
+  "aliases": [
+   "Gevurot Hashem",
+   "גבורות השם"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרך מצותיך",
+  "aliases": [
+   "Derekh Mitzvotekha",
+   "דרך מצותיך"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרכי ישרים",
+  "aliases": [
+   "Darkhei Yesharim",
+   "דרכי ישרים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרשות הר\"ן",
+  "aliases": [
+   "Derashot HaRan",
+   "דרשות הר\"ן"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הלכה ואגדה",
+  "aliases": [
+   "Halakhah and Aggadah",
+   "הלכה ואגדה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "זכור ושמור",
+  "aliases": [
+   "Zakhor VeShamor",
+   "זכור ושמור"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חיי מוהר\"ן",
+  "aliases": [
+   "Chayei Moharan",
+   "חיי מוהר\"ן"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חשבון הנפש",
+  "aliases": [
+   "Cheshbon HaNefesh",
+   "חשבון הנפש"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "טוב הלבנון",
+  "aliases": [
+   "Tov haLevanon",
+   "טוב הלבנון"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "יסוד היראה",
+  "aliases": [
+   "Yesod HaYirah",
+   "יסוד היראה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "כתונת פסים",
+  "aliases": [
+   "Ketonet Pasim",
+   "כתונת פסים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "כתר שם טוב",
+  "aliases": [
+   "Keter Shem Tov",
+   "כתר שם טוב"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "",
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "לקוטי תורה",
+  "aliases": [
+   "Likkutei Torah",
+   "לקוטי תורה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאור עינים",
+  "aliases": [
+   "Me'or Einayim",
+   "מאור עינים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מגילת עיפה",
+  "aliases": [
+   "Megillat Eifah",
+   "מגילת עיפה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מלחמות השם",
+  "aliases": [
+   "The Wars of the Lord",
+   "מלחמות השם"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מנחת קנאות",
+  "aliases": [
+   "Minchat Kenaot",
+   "מנחת קנאות"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משיב הטענה",
+  "aliases": [
+   "Meshiv HaTa'anah",
+   "משיב הטענה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר ההגיון",
+  "aliases": [
+   "Sefer HaHiggayon",
+   "ההגיון",
+   "ספר ההגיון"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר המליצה",
+  "aliases": [
+   "Sefer HaMelitzah",
+   "המליצה",
+   "ספר המליצה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר העקרים",
+  "aliases": [
+   "Sefer HaIkkarim",
+   "העקרים",
+   "ספר העקרים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עקידת יצחק",
+  "aliases": [
+   "Akeidat Yitzchak",
+   "עקידת יצחק"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פוקד עקרים",
+  "aliases": [
+   "Poked Akarim",
+   "פוקד עקרים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרשת דרכים",
+  "aliases": [
+   "Parashat Derakhim",
+   "פרשת דרכים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "צדקת הצדיק",
+  "aliases": [
+   "Tzidkat HaTzadik",
+   "צדקת הצדיק"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "קומץ המנחה",
+  "aliases": [
+   "Kometz HaMinchah",
+   "קומץ המנחה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רסיסי לילה",
+  "aliases": [
+   "Resisei Layla",
+   "רסיסי לילה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שיחות הר\"ן",
+  "aliases": [
+   "Sichot HaRan",
+   "שיחות הר\"ן"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "שערי עבודה",
+  "aliases": [
+   "Sha'arei Avodah",
+   "שערי עבודה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תומר דבורה",
+  "aliases": [
+   "Tomer Devorah",
+   "תומר דבורה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תורת העולה",
+  "aliases": [
+   "Torat HaOlah",
+   "תורת העולה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תלמוד מהו?",
+  "aliases": [
+   "What is the Talmud",
+   "תלמוד מהו?"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תפארת יוסף",
+  "aliases": [
+   "Tiferet Yosef",
+   "תפארת יוסף"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תפארת שלמה",
+  "aliases": [
+   "Tiferet Shlomo",
+   "תפארת שלמה"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "תקנת השבין",
+  "aliases": [
+   "Takanat HaShavin",
+   "תקנת השבין"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרת הרמב\"ן",
+  "aliases": [
+   "Iggeret HaRamban",
+   "אגרת הרמב\"ן"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אורות הקודש",
+  "aliases": [
+   "Orot HaKodesh",
+   "אורות הקודש"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "כרך",
+   "שער"
+  ]
+ },
+ {
+  "canonical": "אורות התורה",
+  "aliases": [
+   "Orot HaTorah",
+   "אורות התורה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אמונה בעתיד",
+  "aliases": [
+   "Faith in the Future",
+   "אמונה בעתיד"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דברי חלומות",
+  "aliases": [
+   "Divrei Chalomot",
+   "דברי חלומות"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דברי סופרים",
+  "aliases": [
+   "Divrei Soferim",
+   "דברי סופרים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "האדם ויוצרו",
+  "aliases": [
+   "Man and God",
+   "האדם ויוצרו"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יסוד התשובה",
+  "aliases": [
+   "Yesod HaTeshuvah",
+   "יסוד התשובה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ליקוטי עצות",
+  "aliases": [
+   "Likkutei Etzot",
+   "ליקוטי עצות"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לנבוכי הדור",
+  "aliases": [
+   "For the Perplexed of the Generation",
+   "לנבוכי הדור"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מבוא השערים",
+  "aliases": [
+   "Mevo HaShearim",
+   "מבוא השערים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדרש האתמרי",
+  "aliases": [
+   "Midrash HaIttamari",
+   "האתמרי",
+   "מדרש האתמרי"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "",
+   ""
+  ]
+ },
+ {
+  "canonical": "מורה נבוכים",
+  "aliases": [
+   "Guide for the Perplexed",
+   "מורה נבוכים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחשבות חרוץ",
+  "aliases": [
+   "Machshavot Charutz",
+   "מחשבות חרוץ"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מנורת המאור",
+  "aliases": [
+   "Menorat HaMaor",
+   "מנורת המאור"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מסילת ישרים",
+  "aliases": [
+   "Mesillat Yesharim",
+   "מסילת ישרים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מעלות המדות",
+  "aliases": [
+   "Ma'alot HaMiddot",
+   "מעלות המדות"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משבר ואמונה",
+  "aliases": [
+   "Crisis and Faith",
+   "משבר ואמונה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נועם אלימלך",
+  "aliases": [
+   "Noam Elimelekh",
+   "נועם אלימלך"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "נתיבות עולם",
+  "aliases": [
+   "Netivot Olam",
+   "נתיבות עולם"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עבודת ישראל",
+  "aliases": [
+   "Avodat Yisrael",
+   "עבודת ישראל"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שבחי הבעש\"ט",
+  "aliases": [
+   "Shivchei HaBesht",
+   "שבחי הבעש\"ט"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שמונה פרקים",
+  "aliases": [
+   "Eight Chapters",
+   "שמונה פרקים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שמונה קבצים",
+  "aliases": [
+   "Shemonah Kevatzim",
+   "שמונה קבצים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "קובץ",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שמירת הלשון",
+  "aliases": [
+   "Shemirat HaLashon",
+   "שמירת הלשון"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אדם מן האדמה",
+  "aliases": [
+   "Adam Min HaAdamah",
+   "אדם מן האדמה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אורות התשובה",
+  "aliases": [
+   "Orot HaTeshuvah",
+   "אורות התשובה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בן פורת יוסף",
+  "aliases": [
+   "Ben Porat Yosef",
+   "בן פורת יוסף"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרכה של תורה",
+  "aliases": [
+   "Darkah shel Torah",
+   "דרכה של תורה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרשוני כרך א",
+  "aliases": [
+   "Dirshuni I",
+   "דרשוני כרך א"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרשוני כרך ב",
+  "aliases": [
+   "Dirshuni II",
+   "דרשוני כרך ב"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרשות אל עמי",
+  "aliases": [
+   "Sermons Unto My People",
+   "דרשות אל עמי"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרשות מהר''ל",
+  "aliases": [
+   "Drashot Maharal",
+   "דרשות מהר''ל"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חובות הלבבות",
+  "aliases": [
+   "Duties of the Heart",
+   "חובות הלבבות"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ישראל קדושים",
+  "aliases": [
+   "Yisrael Kedoshim",
+   "ישראל קדושים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ליקוטי הלכות",
+  "aliases": [
+   "Likutei Halakhot",
+   "ליקוטי הלכות"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מבחר הפנינים",
+  "aliases": [
+   "Mivchar HaPeninim",
+   "מבחר הפנינים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מידות הראי\"ה",
+  "aliases": [
+   "Middot HaRa'ayah",
+   "מידות הראי\"ה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סדורו של שבת",
+  "aliases": [
+   "Sidduro Shel Shabbat",
+   "סדורו של שבת"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "עירין קדישין",
+  "aliases": [
+   "Irin Kadishin",
+   "עירין קדישין"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "צוואת הריב\"ש",
+  "aliases": [
+   "Tzava'at HaRivash",
+   "צוואת הריב\"ש"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "אורחות צדיקים",
+  "aliases": [
+   "Orchot Tzadikim",
+   "אורחות צדיקים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אם הבנים שמחה",
+  "aliases": [
+   "Em HaBanim Semecha",
+   "אם הבנים שמחה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרוש על התורה",
+  "aliases": [
+   "Derush al HaTorah",
+   "דרוש על התורה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "האחדות ביהדות",
+  "aliases": [
+   "Unity in Judaism",
+   "האחדות ביהדות"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הגיוני עוזיאל",
+  "aliases": [
+   "Hegyonei Uziel",
+   "הגיוני עוזיאל"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הכשרת האברכים",
+  "aliases": [
+   "Hakhsharat HaAvrekhim",
+   "הכשרת האברכים"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חובת התלמידים",
+  "aliases": [
+   "Chovat HaTalmidim",
+   "חובת התלמידים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יושר דברי אמת",
+  "aliases": [
+   "Yosher Divrei Emet",
+   "יושר דברי אמת"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ליקוטי מוהר\"ן",
+  "aliases": [
+   "Likutei Moharan",
+   "ליקוטי מוהר\"ן"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ליקוטי תפילות",
+  "aliases": [
+   "Likutei Tefilot",
+   "ליקוטי תפילות"
+  ],
+  "category": "chasidut",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לנבוכי התקופה",
+  "aliases": [
+   "LeNevukhei HaTekufah",
+   "לנבוכי התקופה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עמו אנכי בצרה",
+  "aliases": [
+   "With God in Hell",
+   "עמו אנכי בצרה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קול דודי דופק",
+  "aliases": [
+   "Kol Dodi Dofek",
+   "קול דודי דופק"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בין אתמול למחר",
+  "aliases": [
+   "Between Yesterday and Tomorrow",
+   "בין אתמול למחר"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דברי שלום ואמת",
+  "aliases": [
+   "Words of Peace and Truth",
+   "דברי שלום ואמת"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "אות",
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "דרשת שבת הגדול",
+  "aliases": [
+   "Derashat Shabbat HaGadol",
+   "דרשת שבת הגדול"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "האמונות והדעות",
+  "aliases": [
+   "HaEmunot veHaDeot",
+   "האמונות והדעות"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הגיונות אל עמי",
+  "aliases": [
+   "Hegyonot El Ami",
+   "הגיונות אל עמי"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאמר על ישמעאל",
+  "aliases": [
+   "Ma'amar al Yishmael",
+   "מאמר על ישמעאל"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאמר תורת הבית",
+  "aliases": [
+   "Ma'amar Torat HaBayit",
+   "מאמר תורת הבית"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על תחיית המתים",
+  "aliases": [
+   "On Resurrection of the Dead",
+   "על תחיית המתים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "צורת בית המקדש",
+  "aliases": [
+   "The Third Beit HaMikdash",
+   "צורת בית המקדש"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קהילה של אמונה",
+  "aliases": [
+   "Community of Faith",
+   "קהילה של אמונה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תקון מדות הנפש",
+  "aliases": [
+   "The Improvement of the Moral Qualities",
+   "תקון מדות הנפש"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יערות דבש חלק א",
+  "aliases": [
+   "Ya'arot Devash I",
+   "יערות דבש חלק א"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "דרוש",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יערות דבש חלק ב",
+  "aliases": [
+   "Ya'arot Devash II",
+   "יערות דבש חלק ב"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "דרוש",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאמר מזכה הרבים",
+  "aliases": [
+   "Ma'amar Mezakeh HaRabim",
+   "מאמר מזכה הרבים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מורה נבוכי הזמן",
+  "aliases": [
+   "Moreh Nevukhei HaZeman",
+   "מורה נבוכי הזמן"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחלוקת לשם שמים",
+  "aliases": [
+   "Arguments for the Sake of Heaven",
+   "מחלוקת לשם שמים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר יסודי התורה",
+  "aliases": [
+   "Sefer Yesodei HaTorah",
+   "יסודי התורה",
+   "ספר יסודי התורה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קונטרס שפת תמים",
+  "aliases": [
+   "Kuntres Sefat Tamim",
+   "קונטרס שפת תמים"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שיחות עבודת לוי",
+  "aliases": [
+   "Sichot Avodat Levi",
+   "שיחות עבודת לוי"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שני לוחות הברית",
+  "aliases": [
+   "Shenei Luchot HaBerit",
+   "שני לוחות הברית"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אגרת הרמב\"ן לבנו",
+  "aliases": [
+   "Letter from Ramban to his Son",
+   "אגרת הרמב\"ן לבנו"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרוש חדושי הלבנה",
+  "aliases": [
+   "Derush Chiddushei HaLevanah",
+   "דרוש חדושי הלבנה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "זכרון ליום ראשון",
+  "aliases": [
+   "Zikaron leYom Rishon",
+   "זכרון ליום ראשון"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאמר צפית לישועה",
+  "aliases": [
+   "Ma'amar Tzipita LeYeshuah",
+   "מאמר צפית לישועה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מעמד האשה ביהדות",
+  "aliases": [
+   "Jewish Women in Time and Torah",
+   "מעמד האשה ביהדות"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פני שביעית נקבלה",
+  "aliases": [
+   "Penei Sheviit Nekabelah",
+   "פני שביעית נקבלה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "המידות לחקר ההלכה",
+  "aliases": [
+   "HaMiddot leCheker haHalakhah",
+   "המידות לחקר ההלכה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יסוד ושורש העבודה",
+  "aliases": [
+   "Yesod VeShoresh HaAvodah",
+   "יסוד ושורש העבודה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אורחות חיים להרא\"ש",
+  "aliases": [
+   "Orchot Chaim L'HaRosh",
+   "אורחות חיים להרא\"ש"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "גילוי וכיסוי בלשון",
+  "aliases": [
+   "Revealment and Concealment in Language",
+   "גילוי וכיסוי בלשון"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קונטרס חובת השמירה",
+  "aliases": [
+   "Kuntres Chovat HaShemirah",
+   "קונטרס חובת השמירה"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער הגמול - רמב''ן",
+  "aliases": [
+   "Sha'ar HaGemul of the Ramban",
+   "שער הגמול - רמב''ן"
+  ],
+  "category": "musar",
+  "volumes": [],
+  "sections": [
+   "שער הגמול - רמב''ן"
+  ]
+ },
+ {
+  "canonical": "אגרת אל עשרת השבטים",
+  "aliases": [
+   "Letter to the Ten Lost Tribes of Israel",
+   "אגרת אל עשרת השבטים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יסוד מורא וסוד תורה",
+  "aliases": [
+   "Yesod Mora VeSod HaTorah",
+   "יסוד מורא וסוד תורה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "גיור 'כהלכתו' - מהו?",
+  "aliases": [
+   "Conversion \"According to Halakhah\"; What Is It",
+   "גיור 'כהלכתו' - מהו?"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לקראת יהדות היסטורית",
+  "aliases": [
+   "Towards Historic Judaism",
+   "לקראת יהדות היסטורית"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מסורת בעידן לא מסורתי",
+  "aliases": [
+   "Tradition in an Untraditional Age",
+   "מסורת בעידן לא מסורתי"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שיעורים בגמרא - שמיטה",
+  "aliases": [
+   "Talmud Series; Shemitah",
+   "שיעורים בגמרא - שמיטה"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "היהדות; מאובנת או תוססת?",
+  "aliases": [
+   "Judaism; Fossil or Ferment",
+   "היהדות; מאובנת או תוססת?"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "רדיקלית אז רדיקלית עכשיו",
+  "aliases": [
+   "Radical Then, Radical Now",
+   "רדיקלית אז רדיקלית עכשיו",
+   "רדיקלית אז, רדיקלית עכשיו",
+   "רדיקלית עכשיו"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "השקפת העולם המדעית והדתית",
+  "aliases": [
+   "The Scientific and the Religious World View",
+   "השקפת העולם המדעית והדתית"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פור הוא הגורל; דרשות לפורים",
+  "aliases": [
+   "Pur Hu HaGoral; Homilies for Purim",
+   "פור הוא הגורל; דרשות לפורים"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מועדים לשיחה; מהדורה משפחתית",
+  "aliases": [
+   "Ceremony and Celebration Family Edition, The Hagim",
+   "מועדים לשיחה; מהדורה משפחתית"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לא בשם האל; אל מול האלימות הדתית",
+  "aliases": [
+   "Not in God's Name; Confronting Religious Violence",
+   "לא בשם האל; אל מול האלימות הדתית"
+  ],
+  "category": "thought",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עץ חיים",
+  "aliases": [
+   "Sefer Etz Chaim",
+   "עץ חיים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אור השכל",
+  "aliases": [
+   "Ohr HaSekhel",
+   "אור השכל"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   ""
+  ]
+ },
+ {
+  "canonical": "אור נערב",
+  "aliases": [
+   "Ohr Ne'erav",
+   "אור נערב"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "גט השמות",
+  "aliases": [
+   "Get HaShemot",
+   "גט השמות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   ""
+  ]
+ },
+ {
+  "canonical": "זוהר חדש",
+  "aliases": [
+   "Zohar Chadash",
+   "זוהר חדש"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר הזהר",
+  "aliases": [
+   "Zohar",
+   "הזהר",
+   "ספר הזהר"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר החשק",
+  "aliases": [
+   "Sefer HaCheshek",
+   "החשק",
+   "ספר החשק"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ספר הקנה",
+  "aliases": [
+   "Sefer HaKanah",
+   "הקנה",
+   "ספר הקנה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "שערי צדק",
+  "aliases": [
+   "Sha'arei Tzedek",
+   "שערי צדק"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אדרא זוטא",
+  "aliases": [
+   "Idra Zuta",
+   "אדרא זוטא"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר הבהיר",
+  "aliases": [
+   "Sefer HaBahir",
+   "הבהיר",
+   "ספר הבהיר"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "ספר יצירה",
+  "aliases": [
+   "Sefer Yetzirah",
+   "יצירה",
+   "ספר יצירה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "שערי אורה",
+  "aliases": [
+   "Sha'arei Orah",
+   "שערי אורה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דעת תבונות",
+  "aliases": [
+   "Da'at Tevunot",
+   "דעת תבונות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חסד לאברהם",
+  "aliases": [
+   "Chesed LeAvraham",
+   "חסד לאברהם"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרי עץ הדר",
+  "aliases": [
+   "Peri Etz Hadar",
+   "פרי עץ הדר"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ראשית חכמה",
+  "aliases": [
+   "Reshit Chokhmah",
+   "ראשית חכמה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער המצוות",
+  "aliases": [
+   "Sha'ar HaMitzvot",
+   "שער המצוות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שערי קדושה",
+  "aliases": [
+   "Sha'arei Kedusha",
+   "שערי קדושה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תקוני הזהר",
+  "aliases": [
+   "Tikkunei Zohar",
+   "תקוני הזהר"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "דף",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "היכלות רבתי",
+  "aliases": [
+   "Heikhalot Rabbati",
+   "היכלות רבתי"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "מגיד מישרים",
+  "aliases": [
+   "Maggid Meisharim",
+   "מגיד מישרים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרשה",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מטפחת ספרים",
+  "aliases": [
+   "Mitpachat Sefarim",
+   "מטפחת ספרים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרדס רמונים",
+  "aliases": [
+   "Pardes Rimmonim",
+   "פרדס רמונים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרי עץ חיים",
+  "aliases": [
+   "Pri Etz Chaim",
+   "פרי עץ חיים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "שומר אמונים",
+  "aliases": [
+   "Shomer Emunim",
+   "שומר אמונים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער ההקדמות",
+  "aliases": [
+   "Sha'ar HaHakdamot",
+   "שער ההקדמות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער הכוונות",
+  "aliases": [
+   "Sha'ar HaKavanot",
+   "שער הכוונות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער הפסוקים",
+  "aliases": [
+   "Sha'ar HaPesukim",
+   "שער הפסוקים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   ""
+  ]
+ },
+ {
+  "canonical": "מערכת האלקות",
+  "aliases": [
+   "Ma'arekhet HaElokut",
+   "מערכת האלקות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער הגלגולים",
+  "aliases": [
+   "Sha'ar HaGilgulim",
+   "שער הגלגולים"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער רוח הקודש",
+  "aliases": [
+   "Sha'ar Ruach HaKodesh",
+   "שער רוח הקודש"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מאמר זהר הרקיע",
+  "aliases": [
+   "Ma'amar Zohar HaRakia",
+   "מאמר זהר הרקיע"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קל\"ח פתחי חכמה",
+  "aliases": [
+   "Kalach Pitchei Chokhmah",
+   "קל\"ח פתחי חכמה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער מאמרי רז\"ל",
+  "aliases": [
+   "Sha'ar Ma'amarei Razal",
+   "שער מאמרי רז\"ל"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מבוא לספר הזוהר",
+  "aliases": [
+   "Baal HaSulam's Preface to Zohar",
+   "מבוא לספר הזוהר"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קונטרס מתן תורה",
+  "aliases": [
+   "Kuntres Mattan Torah",
+   "קונטרס מתן תורה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שער מאמרי רשב\"י",
+  "aliases": [
+   "Sha'ar Ma'amarei Rashbi",
+   "שער מאמרי רשב\"י"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרת וזאת ליהודה",
+  "aliases": [
+   "VeZot LiYehuda",
+   "אגרת וזאת ליהודה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ביאור עשר ספירות",
+  "aliases": [
+   "Beur Eser Sefirot",
+   "ביאור עשר ספירות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "כללי התחלת החכמה",
+  "aliases": [
+   "The Beginning of Wisdom",
+   "כללי התחלת החכמה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פתיחה לחכמת הקבלה",
+  "aliases": [
+   "Petichah LeChokhmat HaKabbalah",
+   "פתיחה לחכמת הקבלה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שובי שובי השולמית",
+  "aliases": [
+   "Shuvi Shuvi HaShulamit",
+   "שובי שובי השולמית"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תלמוד עשר הספירות",
+  "aliases": [
+   "Talmud Eser HaSefirot",
+   "תלמוד עשר הספירות"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פתיחה לפירוש הסולם",
+  "aliases": [
+   "Introduction to Sulam Commentary",
+   "פתיחה לפירוש הסולם"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עשרה פרקים להרמח''ל",
+  "aliases": [
+   "Asarah Perakim LeRamchal",
+   "עשרה פרקים להרמח''ל"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מלחמות השם יחיא קאפח",
+  "aliases": [
+   "The Wars of God",
+   "מלחמות השם יחיא קאפח"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "",
+   ""
+  ]
+ },
+ {
+  "canonical": "ספר יצירה נוסח הגר\"א",
+  "aliases": [
+   "Sefer Yetzirah Gra Version",
+   "יצירה נוסח הגר\"א",
+   "ספר יצירה נוסח הגר\"א"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "משנה"
+  ]
+ },
+ {
+  "canonical": "הקדמות לחכמת האמת - ספר הזוהר",
+  "aliases": [
+   "Baal HaSulam's Introduction to Zohar",
+   "הקדמות לחכמת האמת - ספר הזוהר"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "השפעה; הלימוד המרכזי של הקבלה",
+  "aliases": [
+   "Giving; The Essential Teaching of the Kabbalah",
+   "השפעה; הלימוד המרכזי של הקבלה"
+  ],
+  "category": "kabbalah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הלל",
+  "aliases": [
+   "Hallel",
+   "הלל"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הדרן",
+  "aliases": [
+   "Hadran",
+   "הדרן"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "הדרן"
+  ]
+ },
+ {
+  "canonical": "יזכור",
+  "aliases": [
+   "Yizkor",
+   "יזכור"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ידיד נפש",
+  "aliases": [
+   "Yedid Nefesh",
+   "ידיד נפש"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "סדר התפילה"
+  ]
+ },
+ {
+  "canonical": "מעבר יבק",
+  "aliases": [
+   "Ma'avar Yabbok",
+   "מעבר יבק"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרק שירה",
+  "aliases": [
+   "Perek Shirah",
+   "פרק שירה"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קבלת שבת",
+  "aliases": [
+   "Kabbalat Shabbat",
+   "קבלת שבת"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "מזמור"
+  ]
+ },
+ {
+  "canonical": "כתר מלכות",
+  "aliases": [
+   "Keter Malkhut",
+   "כתר מלכות"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שיר הכבוד",
+  "aliases": [
+   "Shir HaKavod",
+   "שיר הכבוד"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "שורה",
+   ""
+  ]
+ },
+ {
+  "canonical": "ברכת המזון",
+  "aliases": [
+   "Birkat Hamazon",
+   "ברכת המזון"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ונתנה תוקף",
+  "aliases": [
+   "Unetaneh Tokef",
+   "ונתנה תוקף"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לשון חכמים",
+  "aliases": [
+   "Leshon Chakhamim",
+   "לשון חכמים"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "סדר מעמדות",
+  "aliases": [
+   "Seder Ma'amadot",
+   "סדר מעמדות"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "",
+   "חלק"
+  ]
+ },
+ {
+  "canonical": "סידור ספרד",
+  "aliases": [
+   "Siddur Sefard",
+   "סידור ספרד"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "שלום עליכם",
+  "aliases": [
+   "Shalom Aleichem",
+   "שלום עליכם"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "שורה"
+  ]
+ },
+ {
+  "canonical": "הגדה של פסח",
+  "aliases": [
+   "Pesach Haggadah",
+   "הגדה של פסח"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "נוסח הכתובה",
+  "aliases": [
+   "Ketubah Text",
+   "נוסח הכתובה"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   ""
+  ]
+ },
+ {
+  "canonical": "סידור אשכנז",
+  "aliases": [
+   "Siddur Ashkenaz",
+   "סידור אשכנז"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "תיקון הכללי",
+  "aliases": [
+   "Tikkun HaKlali",
+   "תיקון הכללי"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   ""
+  ]
+ },
+ {
+  "canonical": "לְכָה דוֹדִי",
+  "aliases": [
+   "Lekha Dodi",
+   "לְכָה דוֹדִי"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "חלק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סדר תשעה באב",
+  "aliases": [
+   "Seder Tisha B'Av (Edot HaMizrach)",
+   "סדר תשעה באב"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מענה לשון חב\"ד",
+  "aliases": [
+   "Ma'aneh Lashon Chabad",
+   "מענה לשון חב\"ד"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סידור ספרד לשבת",
+  "aliases": [
+   "Shabbat Siddur Sefard Linear",
+   "סידור ספרד לשבת"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הדרן לספרי התנ\"ך",
+  "aliases": [
+   "Hadran for Tanakh",
+   "הדרן לספרי התנ\"ך"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סליחות נוסח פולין",
+  "aliases": [
+   "Selichot Nusach Polin",
+   "סליחות נוסח פולין"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "הגדת הרב יונתן זקס",
+  "aliases": [
+   "The Jonathan Sacks Haggadah",
+   "הגדת הרב יונתן זקס"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אַקְדָּמוּת מִלִּין",
+  "aliases": [
+   "Akdamut Milin",
+   "אַקְדָּמוּת מִלִּין"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פיוט",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מחזור ראש השנה ספרד",
+  "aliases": [
+   "Machzor Rosh Hashanah Sefard",
+   "מחזור ראש השנה ספרד"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור ליום כפור ספרד",
+  "aliases": [
+   "Machzor Yom Kippur Sefard",
+   "מחזור ליום כפור ספרד"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור אשכנז לראש השנה",
+  "aliases": [
+   "Machzor Rosh Hashanah Ashkenaz",
+   "מחזור אשכנז לראש השנה"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סידור חב\"ד לימות החול",
+  "aliases": [
+   "Weekday Siddur Chabad",
+   "סידור חב\"ד לימות החול"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "סידור נוסח עדות המזרח",
+  "aliases": [
+   "Siddur Edot HaMizrach",
+   "סידור נוסח עדות המזרח"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "סידור ספרד לימות החול",
+  "aliases": [
+   "Weekday Siddur Sefard Linear",
+   "סידור ספרד לימות החול"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "הגדה של פסח עדות המזרח",
+  "aliases": [
+   "Pesach Haggadah Edot Hamizrah",
+   "הגדה של פסח עדות המזרח"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור אשכנז ליום כיפור",
+  "aliases": [
+   "Machzor Yom Kippur Ashkenaz",
+   "מחזור אשכנז ליום כיפור"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סידור קורן השלם; אשכנז",
+  "aliases": [
+   "The Koren Shalem Siddur; Ashkenaz",
+   "סידור קורן השלם; אשכנז"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סליחות נוסח אשכנז ליטא",
+  "aliases": [
+   "Selichot Nusach Ashkenaz Lita",
+   "סליחות נוסח אשכנז ליטא"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סליחות נוסח עדות המזרח",
+  "aliases": [
+   "Selichot Edot HaMizrach",
+   "סליחות נוסח עדות המזרח"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור לראש השנה - אשכנז",
+  "aliases": [
+   "Machzor Rosh Hashanah Ashkenaz Linear",
+   "מחזור לראש השנה - אשכנז"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור ליום כיפור - אשכנז",
+  "aliases": [
+   "Machzor Yom Kippur Ashkenaz Linear",
+   "מחזור ליום כיפור - אשכנז"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור ראש השנה עדות המזרח",
+  "aliases": [
+   "Machzor Rosh Hashanah Edot HaMizrach",
+   "מחזור ראש השנה עדות המזרח"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור יום כיפור עדות המזרח",
+  "aliases": [
+   "Machzor Yom Kippur Edot HaMizrach",
+   "מחזור יום כיפור עדות המזרח"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אזהרות לרבי שלמה אבן גבירול",
+  "aliases": [
+   "Azharot of Solomon ibn Gabirol",
+   "אזהרות לרבי שלמה אבן גבירול"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור קורן לראש השנה; אשכנז",
+  "aliases": [
+   "The Koren Rosh HaShana Mahzor; Ashkenaz",
+   "מחזור קורן לראש השנה; אשכנז"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סליחות נוסח ליטא עברי אנגלי",
+  "aliases": [
+   "Selichot Nusach Lita Linear",
+   "סליחות נוסח ליטא עברי אנגלי"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחזור ליום העצמאות ויום ירושלים",
+  "aliases": [
+   "Machzor Yom Ha'atzmaut & Yom Yerushalyim",
+   "מחזור ליום העצמאות ויום ירושלים"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מחזור קורן ליום הכיפורים; אשכנז",
+  "aliases": [
+   "The Koren Yom Kippur Mahzor; Ashkenaz",
+   "מחזור קורן ליום הכיפורים; אשכנז"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קינות לתשעה באב (אשכנז)",
+  "aliases": [
+   "Kinnot for Tisha B'Av (Ashkenaz)",
+   "קינות לתשעה באב",
+   "קינות לתשעה באב (אשכנז)"
+  ],
+  "category": "liturgy",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בית יוסף",
+  "aliases": [
+   "Beit Yosef",
+   "בית יוסף"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "משנה ברורה",
+  "aliases": [
+   "Mishnah Berurah",
+   "משנה ברורה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר החינוך",
+  "aliases": [
+   "Sefer HaChinukh",
+   "החינוך",
+   "ספר החינוך"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ערוך השולחן",
+  "aliases": [
+   "Arukh HaShulchan",
+   "ערוך השולחן"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ב\"ח",
+  "aliases": [
+   "Bach",
+   "ב\"ח"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף קטן"
+  ]
+ },
+ {
+  "canonical": "טור",
+  "aliases": [
+   "Tur",
+   "טור"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "דרישה",
+  "aliases": [
+   "Drisha",
+   "דרישה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף קטן"
+  ]
+ },
+ {
+  "canonical": "האגור",
+  "aliases": [
+   "HaAgur",
+   "האגור"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "כל בו",
+  "aliases": [
+   "Kol Bo",
+   "כל בו"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פרישה",
+  "aliases": [
+   "Prisha",
+   "פרישה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף קטן"
+  ]
+ },
+ {
+  "canonical": "כף אחת",
+  "aliases": [
+   "Kaf Achat",
+   "כף אחת"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "לב שמח",
+  "aliases": [
+   "Lev Sameach",
+   "לב שמח"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "שורש",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "אבודרהם",
+  "aliases": [
+   "Abudarham",
+   "אבודרהם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חיי אדם",
+  "aliases": [
+   "Chayyei Adam",
+   "חיי אדם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "מעשה רב",
+  "aliases": [
+   "Maaseh Rav",
+   "מעשה רב"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אהבת חסד",
+  "aliases": [
+   "Ahavat Chesed",
+   "אהבת חסד"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אור זרוע",
+  "aliases": [
+   "Ohr Zarua",
+   "אור זרוע"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בינת אדם",
+  "aliases": [
+   "Binat Adam",
+   "בינת אדם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "ברית משה",
+  "aliases": [
+   "Brit Moshe",
+   "ברית משה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "מצוה",
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "גדר עולם",
+  "aliases": [
+   "Geder Olam",
+   "גדר עולם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרכי משה",
+  "aliases": [
+   "Darkhei Moshe",
+   "דרכי משה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף קטן"
+  ]
+ },
+ {
+  "canonical": "חכמת אדם",
+  "aliases": [
+   "Chokhmat Adam",
+   "חכמת אדם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פירוש"
+  ]
+ },
+ {
+  "canonical": "לקט יושר",
+  "aliases": [
+   "Leket Yosher",
+   "לקט יושר"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "דף",
+   ""
+  ]
+ },
+ {
+  "canonical": "נשמת אדם",
+  "aliases": [
+   "Nishmat Adam",
+   "נשמת אדם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "כלל",
+   "סימן"
+  ]
+ },
+ {
+  "canonical": "סדר היום",
+  "aliases": [
+   "Seder HaYom",
+   "סדר היום"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פסקי חלה",
+  "aliases": [
+   "Piskei Challah",
+   "פסקי חלה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "שער",
+   ""
+  ]
+ },
+ {
+  "canonical": "קשר גודל",
+  "aliases": [
+   "Kesher Gudal",
+   "קשר גודל"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שבת הארץ",
+  "aliases": [
+   "Shabbat HaAretz",
+   "שבת הארץ"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שלח תשלח",
+  "aliases": [
+   "Shaleach Teshalach",
+   "שלח תשלח"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אגרת השבת",
+  "aliases": [
+   "The Sabbath Epistle",
+   "אגרת השבת"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בית שמואל",
+  "aliases": [
+   "Beit Shmuel",
+   "בית שמואל"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף קטן"
+  ]
+ },
+ {
+  "canonical": "בן איש חי",
+  "aliases": [
+   "Ben Ish Hai",
+   "בן איש חי"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "בעלי הנפש",
+  "aliases": [
+   "Ba'alei HaNefesh",
+   "בעלי הנפש"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "דרך פקודך",
+  "aliases": [
+   "Derekh Pikudekha",
+   "דרך פקודך"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "יוסף בסדר",
+  "aliases": [
+   "Yosef BeSeder",
+   "יוסף בסדר"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מגן אברהם",
+  "aliases": [
+   "Magen Avraham",
+   "מגן אברהם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מטה אפרים",
+  "aliases": [
+   "Mateh Efrayim",
+   "מטה אפרים"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "נהר מצרים",
+  "aliases": [
+   "Nehar Misrayim",
+   "נהר מצרים"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "הלכה"
+  ]
+ },
+ {
+  "canonical": "ספר האורה",
+  "aliases": [
+   "Sefer HaOrah",
+   "האורה",
+   "ספר האורה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר הפרנס",
+  "aliases": [
+   "Sefer HaParnas",
+   "הפרנס",
+   "ספר הפרנס"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר חרדים",
+  "aliases": [
+   "Sefer Charedim",
+   "חרדים",
+   "ספר חרדים"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר יראים",
+  "aliases": [
+   "Sefer Yereim",
+   "יראים",
+   "ספר יראים"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר פוע\"ה",
+  "aliases": [
+   "Sefer Puah",
+   "ספר פוע\"ה",
+   "פוע\"ה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "עין התכלת",
+  "aliases": [
+   "Ein HaTekhelet",
+   "עין התכלת"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פתיל תכלת",
+  "aliases": [
+   "Ptil Tekhelet",
+   "פתיל תכלת"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "קסת הסופר",
+  "aliases": [
+   "Keset HaSofer",
+   "קסת הסופר"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "סעיף"
+  ]
+ },
+ {
+  "canonical": "שב שמעתתא",
+  "aliases": [
+   "Shev Shmateta",
+   "שב שמעתתא"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שבלי הלקט",
+  "aliases": [
+   "Shibbolei HaLeket",
+   "שבלי הלקט"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שמלה חדשה",
+  "aliases": [
+   "Simlah Chadashah",
+   "שמלה חדשה"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "תורת האדם",
+  "aliases": [
+   "Torat HaAdam",
+   "תורת האדם"
+  ],
+  "category": "halakhah",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ר\"ן",
+  "aliases": [
+   "Ran",
+   "ר\"ן",
+   "ר\"ן על יומא"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מהר\"ם",
+  "aliases": [
+   "Maharam",
+   "מהר\"ם",
+   "מהר\"ם על שבת"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מרדכי",
+  "aliases": [
+   "Mordechai",
+   "מרדכי",
+   "מרדכי על בבא בתרא"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ראב\"ד",
+  "aliases": [
+   "Ra'avad",
+   "ראב\"ד",
+   "ראב\"ד על משנה דמאי"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ריטב\"א",
+  "aliases": [
+   "Ritva",
+   "ריטב\"א",
+   "ריטב\"א על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "תוספות",
+  "aliases": [
+   "Tosafot",
+   "תוספות",
+   "תוספות על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "נימוקי יוסף",
+  "aliases": [
+   "Nimukei Yosef",
+   "נימוקי יוסף",
+   "נימוקי יוסף על מנחות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "תוספות רי\"ד",
+  "aliases": [
+   "Tosafot Rid",
+   "תוספות רי\"ד",
+   "תוספות רי\"ד על שבת"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "חידושי אנשי שם",
+  "aliases": [
+   "Chiddushei Anshei Shem",
+   "חידושי אנשי שם",
+   "חידושי אנשי שם על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בועז",
+  "aliases": [
+   "Boaz",
+   "בועז",
+   "בועז על משנה ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "גר\"א",
+  "aliases": [
+   "Gra",
+   "גר\"א",
+   "גר\"א על פרקי אבות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מפרש",
+  "aliases": [
+   "Mefaresh",
+   "מפרש",
+   "מפרש על תמיד"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רא\"ה",
+  "aliases": [
+   "Chiddushei HaRa'ah",
+   "רא\"ה",
+   "רא\"ה על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רש״ש",
+  "aliases": [
+   "Rashash",
+   "רש״ש",
+   "רש״ש על משנה ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בניהו",
+  "aliases": [
+   "Benayahu",
+   "בניהו",
+   "בניהו על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "הגהות",
+  "aliases": [
+   "Haggahot",
+   "הגהות",
+   "הגהות על מסכת ציצית"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "הפלאה",
+  "aliases": [
+   "Haflaah",
+   "הפלאה",
+   "הפלאה על כתובות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רמב\"ם",
+  "aliases": [
+   "Rambam",
+   "רמב\"ם",
+   "רמב\"ם על משנה ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רשב״א",
+  "aliases": [
+   "Rashba",
+   "רשב״א",
+   "רשב״א על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יד רמה",
+  "aliases": [
+   "Yad Ramah",
+   "יד רמה",
+   "יד רמה על סנהדרין"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "באר שבע",
+  "aliases": [
+   "Be'er Sheva",
+   "באר שבע",
+   "באר שבע על חולין"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "סימן",
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "פני משה",
+  "aliases": [
+   "Penei Moshe",
+   "פני משה",
+   "פני משה על תלמוד ירושלמי ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "הון עשיר",
+  "aliases": [
+   "Hon Ashir",
+   "הון עשיר",
+   "הון עשיר על משנה ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין חלה",
+  "aliases": [
+   "Yachin",
+   "יכין חלה"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין נדה",
+  "aliases": [
+   "Yachin",
+   "יכין נדה"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין פאה",
+  "aliases": [
+   "Yachin",
+   "יכין פאה"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין פרה",
+  "aliases": [
+   "Yachin",
+   "יכין פרה"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין שבת",
+  "aliases": [
+   "Yachin",
+   "יכין שבת"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ככר לאדן",
+  "aliases": [
+   "Kikar LaAden",
+   "ככר לאדן",
+   "ככר לאדן על תלמוד ירושלמי ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "לב חכמים",
+  "aliases": [
+   "Lev Hakhamim",
+   "לב חכמים",
+   "לב חכמים על מסכת שמחות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "לחם שמים",
+  "aliases": [
+   "Lechem Shamayim",
+   "לחם שמים",
+   "לחם שמים על משנה ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מגן אבות",
+  "aliases": [
+   "Magen Avot",
+   "מגן אבות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ערוך לנר",
+  "aliases": [
+   "Arukh LaNer",
+   "ערוך לנר",
+   "ערוך לנר על ראש השנה"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "פרקי משה",
+  "aliases": [
+   "Pirkei Moshe",
+   "פרקי משה",
+   "פרקי משה על אבות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אליהו רבא",
+  "aliases": [
+   "Eliyahu Rabbah",
+   "אליהו רבא",
+   "אליהו רבא על משנה כלים"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בן יהוידע",
+  "aliases": [
+   "Ben Yehoyada",
+   "בן יהוידע",
+   "בן יהוידע על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "גבורת ארי",
+  "aliases": [
+   "Gevurat Ari",
+   "גבורת ארי",
+   "גבורת ארי על יומא"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "דור רביעי",
+  "aliases": [
+   "Dor Revi'i",
+   "דור רביעי",
+   "דור רביעי על חולין"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "חכמת שלמה",
+  "aliases": [
+   "Chokhmat Shlomo",
+   "חכמת שלמה",
+   "חכמת שלמה על ברכות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יין לבנון",
+  "aliases": [
+   "Yein Levanon",
+   "יין לבנון",
+   "יין לבנון על אבות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין אבות",
+  "aliases": [
+   "Yachin",
+   "יכין אבות"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין ביצה",
+  "aliases": [
+   "Yachin",
+   "יכין ביצה"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין דמאי",
+  "aliases": [
+   "Yachin",
+   "יכין דמאי"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין זבים",
+  "aliases": [
+   "Yachin",
+   "יכין זבים"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יכין ידים",
+  "aliases": [
+   "Yachin",
+   "יכין ידים"
+  ],
+  "category": "talmud_commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רא\"ש",
+  "aliases": [
+   "Rosh",
+   "רא\"ש",
+   "רא\"ש על התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רס\"ג",
+  "aliases": [
+   "Rasag",
+   "רס\"ג",
+   "רס\"ג על ספר יצירה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רש\"י",
+  "aliases": [
+   "Rashi",
+   "רש\"י",
+   "רש\"י על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מאירי",
+  "aliases": [
+   "Meiri",
+   "מאירי",
+   "מאירי על תהלים"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רמב\"ן",
+  "aliases": [
+   "Ramban",
+   "רמב\"ן",
+   "רמב\"ן על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רשב\"ם",
+  "aliases": [
+   "Rashbam",
+   "רשב\"ם",
+   "רשב\"ם על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "חתם סופר",
+  "aliases": [
+   "Chatam Sofer",
+   "חתם סופר",
+   "חתם סופר על התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "פרי מגדים",
+  "aliases": [
+   "Peri Megadim",
+   "פרי מגדים",
+   "פרי מגדים על יורה דעה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בעל הטורים",
+  "aliases": [
+   "Ba'al HaTurim",
+   "בעל הטורים",
+   "בעל הטורים על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "קצות החושן",
+  "aliases": [
+   "Ketzot HaChoshen",
+   "קצות החושן",
+   "קצות החושן על שולחן ערוך חושן משפט"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "כרתי",
+  "aliases": [
+   "Kereti",
+   "כרתי",
+   "כרתי על שולחן ערוך יורה דעה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "פלתי",
+  "aliases": [
+   "Peleti",
+   "פלתי",
+   "פלתי על שולחן ערוך יורה דעה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "קובץ",
+  "aliases": [
+   "Kovetz Al Yad HaChazakah",
+   "הלכות יסודי התורה",
+   "קובץ",
+   "קובץ על היד החזקה על משנה תורה, הלכות יסודי התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רד\"ק",
+  "aliases": [
+   "Radak",
+   "רד\"ק",
+   "רד\"ק על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "שד\"ל",
+  "aliases": [
+   "Shadal",
+   "שד\"ל",
+   "שד\"ל על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "אפודי",
+  "aliases": [
+   "Efodi",
+   "אפודי",
+   "אפודי על מורה נבוכים"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ביאור",
+  "aliases": [
+   "Commentary",
+   "ביאור",
+   "ביאור על ספר המצוות לרס\"ג"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "הסולם",
+  "aliases": [
+   "Sulam",
+   "הסולם",
+   "הסולם על ספר הזהר"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יעב\"ץ",
+  "aliases": [
+   "Yaakov Emden",
+   "יעב\"ץ",
+   "יעב\"ץ על סדר עולם רבה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "פירוש",
+  "aliases": [
+   "Peirush",
+   "הלכות יסודי התורה",
+   "פירוש",
+   "פירוש על משנה תורה, הלכות יסודי התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "קרשקש",
+  "aliases": [
+   "Crescas",
+   "קרשקש",
+   "קרשקש על מורה נבוכים"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ריב\"א",
+  "aliases": [
+   "Riva",
+   "ריב\"א",
+   "ריב\"א על התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "רלב\"ג",
+  "aliases": [
+   "Ralbag",
+   "רלב\"ג",
+   "רלב\"ג על התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "שיחות",
+  "aliases": [
+   "Talks of Yeshayahu Leibowitz",
+   "שיחות",
+   "שיחות על פרשת השבוע (ליבוביץ)"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "יד דוד",
+  "aliases": [
+   "Yad David",
+   "הלכות יסודי התורה",
+   "יד דוד",
+   "יד דוד על משנה תורה, הלכות יסודי התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "כתם פז",
+  "aliases": [
+   "Ketem Paz",
+   "כתם פז",
+   "כתם פז על ספר הזהר"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "לב שלם",
+  "aliases": [
+   "Lev Shalem",
+   "הלכות יסודי התורה",
+   "לב שלם",
+   "לב שלם על משנה תורה, הלכות יסודי התורה"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "מלבי\"ם",
+  "aliases": [
+   "Malbim",
+   "מלבי\"ם",
+   "מלבי\"ם על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "נרבוני",
+  "aliases": [
+   "Narboni",
+   "נרבוני",
+   "נרבוני על מורה נבוכים"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ספורנו",
+  "aliases": [
+   "Sforno",
+   "ספורנו",
+   "ספורנו על בראשית"
+  ],
+  "category": "commentary",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "בן סירא",
+  "aliases": [
+   "Ben Sira",
+   "בן סירא"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "דבש לפי",
+  "aliases": [
+   "Devash LeFi",
+   "דבש לפי"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על יוסף",
+  "aliases": [
+   "On Joseph",
+   "על יוסף"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "שפת יתר",
+  "aliases": [
+   "Sefat Yeter",
+   "שפת יתר"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "עין זוכר",
+  "aliases": [
+   "Ayin Zokher",
+   "עין זוכר"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על אברהם",
+  "aliases": [
+   "On Abraham",
+   "על אברהם"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "היפותטיקה",
+  "aliases": [
+   "Hypothetica",
+   "היפותטיקה"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מנחה חדשה",
+  "aliases": [
+   "Minchah Chadashah",
+   "מנחה חדשה"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ספר הבחור",
+  "aliases": [
+   "Sefer HaBachur",
+   "הבחור",
+   "ספר הבחור"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר הערוך",
+  "aliases": [
+   "Sefer HeArukh",
+   "הערוך",
+   "ספר הערוך"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר שושנה",
+  "aliases": [
+   "The Book of Susanna",
+   "ספר שושנה",
+   "שושנה"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "על ההשגחה",
+  "aliases": [
+   "On Providence",
+   "על ההשגחה"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על הנטיעה",
+  "aliases": [
+   "Concerning Noah's Work as a Planter",
+   "על הנטיעה"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על הענקים",
+  "aliases": [
+   "On the Giants",
+   "על הענקים"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מדבר קדמות",
+  "aliases": [
+   "Midbar Kedemot",
+   "מדבר קדמות"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מחברת מנחם",
+  "aliases": [
+   "Machberet Menachem",
+   "מחברת מנחם"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מעשה טוביה",
+  "aliases": [
+   "Book of Tobit",
+   "מעשה טוביה"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "נגד פלאקוס",
+  "aliases": [
+   "Against Flaccus",
+   "נגד פלאקוס"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "סדר הדורות",
+  "aliases": [
+   "Seder HaDorot",
+   "סדר הדורות"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר השרשים",
+  "aliases": [
+   "Sefer HaShorashim",
+   "השרשים",
+   "ספר השרשים"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "ספר יהודית",
+  "aliases": [
+   "Book of Judith",
+   "יהודית",
+   "ספר יהודית"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "על החלומות",
+  "aliases": [
+   "On Dreams",
+   "על החלומות"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "על הכרובים",
+  "aliases": [
+   "On the Cherubim",
+   "על הכרובים"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על הפיכחות",
+  "aliases": [
+   "On the Prayers and Curses Uttered by Noah when he Became Sober",
+   "על הפיכחות"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על השיכרות",
+  "aliases": [
+   "On Drunkenness",
+   "על השיכרות"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על חיי משה",
+  "aliases": [
+   "On the Life of Moses",
+   "על חיי משה"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "תהלים קנ\"ד",
+  "aliases": [
+   "Psalm 154",
+   "תהלים קנ\"ד"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מגילת תענית",
+  "aliases": [
+   "Megillat Ta'anit",
+   "מגילת תענית"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מדרשי פילון",
+  "aliases": [
+   "The Midrash of Philo",
+   "מדרשי פילון"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מילון קליין",
+  "aliases": [
+   "Klein Dictionary",
+   "מילון קליין"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ספר היובלים",
+  "aliases": [
+   "Book of Jubilees",
+   "היובלים",
+   "ספר היובלים"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "ספר מקבים א",
+  "aliases": [
+   "The Book of Maccabees I",
+   "מקבים א",
+   "ספר מקבים א"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "ספר מקבים ב",
+  "aliases": [
+   "The Book of Maccabees II",
+   "מקבים ב",
+   "ספר מקבים ב"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פרק",
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "תהילים קנ\"א",
+  "aliases": [
+   "Psalm 151",
+   "תהילים קנ\"א"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסוק"
+  ]
+ },
+ {
+  "canonical": "מילון יסטרוב",
+  "aliases": [
+   "Jastrow",
+   "מילון יסטרוב"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "על חיי העיון",
+  "aliases": [
+   "On the Contemplative Life or Suppliants",
+   "על חיי העיון"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "על צאצאי קין",
+  "aliases": [
+   "On the Posterity of Cain and his Exile",
+   "על צאצאי קין"
+  ],
+  "category": "second_temple",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "אוצר לעזי רש\"י",
+  "aliases": [
+   "Otzar La'azei Rashi",
+   "אוצר לעזי רש\"י"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פסקה"
+  ]
+ },
+ {
+  "canonical": "מילון בן־יהודה",
+  "aliases": [
+   "Ben Yehuda Dictionary",
+   "מילון בן־יהודה"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ },
+ {
+  "canonical": "ענקי הרוח שלנו",
+  "aliases": [
+   "The Jewish Spiritual Heroes",
+   "ענקי הרוח שלנו"
+  ],
+  "category": "reference",
+  "volumes": [],
+  "sections": [
+   "פרק"
+  ]
+ }
+]
